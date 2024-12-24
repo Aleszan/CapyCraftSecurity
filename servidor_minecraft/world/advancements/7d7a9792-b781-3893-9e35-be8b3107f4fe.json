@@ -8829,22 +8829,10 @@
     },
     "done": true
   },
-  "mcdw:recipes/hammers/hammer_stormlander": {
-    "criteria": {
-      "has_copper_block": "2024-12-24 22:49:38 +0000"
-    },
-    "done": true
-  },
   "mcdw:recipes/swords/sword_hawkbrand": {
     "criteria": {
       "has_iron_block": "2024-12-24 22:45:41 +0000",
       "has_the_recipe": "2024-12-24 22:45:41 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/teleportation_robe_chestplate": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-24 22:49:50 +0000"
     },
     "done": true
   },
@@ -8860,9 +8848,27 @@
     },
     "done": true
   },
+  "mcdw:recipes/hammers/hammer_stormlander": {
+    "criteria": {
+      "has_copper_block": "2024-12-24 22:49:38 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/teleportation_robe_chestplate": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-24 22:49:50 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
     "criteria": {
       "has_item": "2024-12-24 22:49:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/hamburger": {
+    "criteria": {
+      "has_beef_patty": "2024-12-24 23:04:35 +0000"
     },
     "done": true
   },

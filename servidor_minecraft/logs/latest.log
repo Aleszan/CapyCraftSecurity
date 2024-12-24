@@ -918,3 +918,142 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [24Dec2024 22:46:39.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
 [24Dec2024 22:52:04.936] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa lost connection: Disconnected
 [24Dec2024 22:52:04.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa left the game
+[24Dec2024 22:53:11.231] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Afarfa[/127.2.83.136:57355] logged in with entity id 4469 at (335.0976047204563, 63.0, -47.26386609676333)
+[24Dec2024 22:53:11.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa joined the game
+[24Dec2024 22:53:11.533] [Server thread/INFO] [Jade/]: Syncing config to Afarfa (7d7a9792-b781-3893-9e35-be8b3107f4fe)
+[24Dec2024 22:53:46.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[24Dec2024 22:55:16.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[24Dec2024 22:55:58.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[24Dec2024 22:56:24.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[24Dec2024 22:57:32.831] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7186f8b3[id=<null>,name=Nucaraga,properties={},legacy=false] (/127.64.139.94:50843) lost connection: Disconnected
+[24Dec2024 22:57:40.085] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@52bcbd35[id=<null>,name=Nucaraga,properties={},legacy=false] (/127.64.139.94:45889) lost connection: Disconnected
+[24Dec2024 22:58:29.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[24Dec2024 22:59:00.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[24Dec2024 23:00:59.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 10 experience levels to xDogSaur]
+[24Dec2024 23:02:01.974] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aw[/127.82.85.255:51257] logged in with entity id 6662 at (395.05732482255706, 83.0, -125.47711963507106)
+[24Dec2024 23:02:02.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw joined the game
+[24Dec2024 23:02:02.237] [Server thread/INFO] [Jade/]: Syncing config to aw (90b84ac2-daee-33a4-860d-84877eae8960)
+[24Dec2024 23:03:35.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to aw]
+[24Dec2024 23:03:40.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to aw]
+[24Dec2024 23:04:16.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 10 experience levels to xDogSaur]
+[24Dec2024 23:04:18.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to aw]
+[24Dec2024 23:05:23.358] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@51796e4b[id=<null>,name=Nucaraga,properties={},legacy=false] (/127.64.139.94:52191) lost connection: Disconnected
+[24Dec2024 23:05:27.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Afarfa]
+[24Dec2024 23:07:56.290] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'attributeslib:experience_gained'
+[24Dec2024 23:07:56.291] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'attributeslib:mining_speed'
+[24Dec2024 23:07:59.853] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3290ms or 65 ticks behind
+[24Dec2024 23:08:00.926] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'attributeslib:armor_pierce'
+[24Dec2024 23:08:00.927] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'attributeslib:cold_damage'
+[24Dec2024 23:08:01.022] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'attributeslib:experience_gained'
+[24Dec2024 23:08:01.023] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'attributeslib:mining_speed'
+[24Dec2024 23:08:25.644] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10830ms or 216 ticks behind
+[24Dec2024 23:08:26.472] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1, y=39, z=-5} BlockPos{x=0, y=40, z=-5}
+[24Dec2024 23:08:26.543] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=38, z=-5} BlockPos{x=0, y=40, z=-5}
+[24Dec2024 23:08:26.589] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1, y=40, z=-5} BlockPos{x=0, y=40, z=-5}
+[24Dec2024 23:08:26.625] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1, y=41, z=-5} BlockPos{x=0, y=40, z=-5}
+[24Dec2024 23:08:26.677] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1, y=41, z=-5} BlockPos{x=0, y=40, z=-5}
+[24Dec2024 23:08:26.728] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1, y=41, z=-5} BlockPos{x=0, y=40, z=-5}
+[24Dec2024 23:08:26.777] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1, y=41, z=-5} BlockPos{x=0, y=40, z=-5}
+[24Dec2024 23:09:20.926] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-53, y=16, z=-6} BlockPos{x=-54, y=16, z=-6}
+[24Dec2024 23:09:21.591] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-54, y=17, z=-6} BlockPos{x=-55, y=16, z=-6}
+[24Dec2024 23:09:39.714] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[24Dec2024 23:09:50.025] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/8f9e4dad-698b-3c00-8b47-6313d8eeb79d.json: Don't know what toughasnails:iron_water_canteen is
+[24Dec2024 23:09:50.028] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/8f9e4dad-698b-3c00-8b47-6313d8eeb79d.json: Don't know what toughasnails:iron_purified_water_canteen is
+[24Dec2024 23:09:50.029] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/8f9e4dad-698b-3c00-8b47-6313d8eeb79d.json: Don't know what toughasnails:diamond_water_canteen is
+[24Dec2024 23:09:50.029] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/8f9e4dad-698b-3c00-8b47-6313d8eeb79d.json: Don't know what toughasnails:empty_iron_canteen is
+[24Dec2024 23:09:50.030] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/8f9e4dad-698b-3c00-8b47-6313d8eeb79d.json: Don't know what toughasnails:diamond_water_canteen is
+[24Dec2024 23:09:50.031] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/8f9e4dad-698b-3c00-8b47-6313d8eeb79d.json: Don't know what toughasnails:ice_cream is
+[24Dec2024 23:09:50.032] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/8f9e4dad-698b-3c00-8b47-6313d8eeb79d.json: Don't know what toughasnails:iron_purified_water_canteen is
+[24Dec2024 23:09:50.033] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/8f9e4dad-698b-3c00-8b47-6313d8eeb79d.json: Don't know what toughasnails:diamond_purified_water_canteen is
+[24Dec2024 23:09:50.034] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/8f9e4dad-698b-3c00-8b47-6313d8eeb79d.json: Don't know what apotheosis:gem is
+[24Dec2024 23:09:50.035] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/8f9e4dad-698b-3c00-8b47-6313d8eeb79d.json: Don't know what toughasnails:iron_water_canteen is
+[24Dec2024 23:09:50.035] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/8f9e4dad-698b-3c00-8b47-6313d8eeb79d.json: Don't know what toughasnails:empty_diamond_canteen is
+[24Dec2024 23:09:50.036] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/8f9e4dad-698b-3c00-8b47-6313d8eeb79d.json: Don't know what toughasnails:diamond_water_canteen is
+[24Dec2024 23:09:50.038] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/8f9e4dad-698b-3c00-8b47-6313d8eeb79d.json: Don't know what toughasnails:iron_purified_water_canteen is
+[24Dec2024 23:09:50.038] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/8f9e4dad-698b-3c00-8b47-6313d8eeb79d.json: Don't know what toughasnails:iron_water_canteen is
+[24Dec2024 23:09:50.039] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/8f9e4dad-698b-3c00-8b47-6313d8eeb79d.json: Don't know what toughasnails:empty_diamond_canteen is
+[24Dec2024 23:09:50.040] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/8f9e4dad-698b-3c00-8b47-6313d8eeb79d.json: Don't know what toughasnails:ice_cream is
+[24Dec2024 23:09:50.041] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/8f9e4dad-698b-3c00-8b47-6313d8eeb79d.json: Don't know what toughasnails:empty_iron_canteen is
+[24Dec2024 23:09:50.042] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/8f9e4dad-698b-3c00-8b47-6313d8eeb79d.json: Don't know what toughasnails:diamond_purified_water_canteen is
+[24Dec2024 23:09:50.043] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/8f9e4dad-698b-3c00-8b47-6313d8eeb79d.json: Don't know what toughasnails:diamond_water_canteen is
+[24Dec2024 23:09:50.044] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/8f9e4dad-698b-3c00-8b47-6313d8eeb79d.json: Don't know what toughasnails:iron_purified_water_canteen is
+[24Dec2024 23:09:50.045] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/8f9e4dad-698b-3c00-8b47-6313d8eeb79d.json: Don't know what toughasnails:empty_diamond_canteen is
+[24Dec2024 23:09:50.045] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/8f9e4dad-698b-3c00-8b47-6313d8eeb79d.json: Don't know what toughasnails:ice_cream is
+[24Dec2024 23:09:50.046] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/8f9e4dad-698b-3c00-8b47-6313d8eeb79d.json: Don't know what toughasnails:empty_iron_canteen is
+[24Dec2024 23:09:50.047] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/8f9e4dad-698b-3c00-8b47-6313d8eeb79d.json: Don't know what toughasnails:diamond_purified_water_canteen is
+[24Dec2024 23:09:50.130] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'toughasnails:recipes/combat/wool_helmet' in progress file ./world/advancements/8f9e4dad-698b-3c00-8b47-6313d8eeb79d.json - it doesn't exist anymore?
+[24Dec2024 23:09:50.131] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'toughasnails:recipes/combat/wool_leggings' in progress file ./world/advancements/8f9e4dad-698b-3c00-8b47-6313d8eeb79d.json - it doesn't exist anymore?
+[24Dec2024 23:09:50.132] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'toughasnails:recipes/combat/wool_chestplate' in progress file ./world/advancements/8f9e4dad-698b-3c00-8b47-6313d8eeb79d.json - it doesn't exist anymore?
+[24Dec2024 23:09:50.132] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'toughasnails:recipes/combat/wool_boots' in progress file ./world/advancements/8f9e4dad-698b-3c00-8b47-6313d8eeb79d.json - it doesn't exist anymore?
+[24Dec2024 23:09:50.133] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'apotheosis:affix/rare' in progress file ./world/advancements/8f9e4dad-698b-3c00-8b47-6313d8eeb79d.json - it doesn't exist anymore?
+[24Dec2024 23:09:50.134] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'apotheosis:affix/root' in progress file ./world/advancements/8f9e4dad-698b-3c00-8b47-6313d8eeb79d.json - it doesn't exist anymore?
+[24Dec2024 23:09:50.134] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'toughasnails:recipes/tools/empty_diamond_canteen' in progress file ./world/advancements/8f9e4dad-698b-3c00-8b47-6313d8eeb79d.json - it doesn't exist anymore?
+[24Dec2024 23:09:50.134] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'toughasnails:recipes/tools/empty_iron_canteen' in progress file ./world/advancements/8f9e4dad-698b-3c00-8b47-6313d8eeb79d.json - it doesn't exist anymore?
+[24Dec2024 23:09:50.135] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'toughasnails:recipes/food/charc_os' in progress file ./world/advancements/8f9e4dad-698b-3c00-8b47-6313d8eeb79d.json - it doesn't exist anymore?
+[24Dec2024 23:09:50.136] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'toughasnails:recipes/tools/empty_leather_canteen' in progress file ./world/advancements/8f9e4dad-698b-3c00-8b47-6313d8eeb79d.json - it doesn't exist anymore?
+[24Dec2024 23:09:50.136] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'apotheosis:affix/gem' in progress file ./world/advancements/8f9e4dad-698b-3c00-8b47-6313d8eeb79d.json - it doesn't exist anymore?
+[24Dec2024 23:09:50.136] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'toughasnails:recipes/decorations/rain_collector' in progress file ./world/advancements/8f9e4dad-698b-3c00-8b47-6313d8eeb79d.json - it doesn't exist anymore?
+[24Dec2024 23:09:50.137] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'toughasnails:recipes/tools/empty_gold_canteen' in progress file ./world/advancements/8f9e4dad-698b-3c00-8b47-6313d8eeb79d.json - it doesn't exist anymore?
+[24Dec2024 23:09:50.137] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'toughasnails:recipes/food/apple_juice' in progress file ./world/advancements/8f9e4dad-698b-3c00-8b47-6313d8eeb79d.json - it doesn't exist anymore?
+[24Dec2024 23:09:50.138] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'apotheosis:affix/chests' in progress file ./world/advancements/8f9e4dad-698b-3c00-8b47-6313d8eeb79d.json - it doesn't exist anymore?
+[24Dec2024 23:09:50.139] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'apotheosis:affix/random' in progress file ./world/advancements/8f9e4dad-698b-3c00-8b47-6313d8eeb79d.json - it doesn't exist anymore?
+[24Dec2024 23:09:50.139] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'toughasnails:recipes/tools/thermometer' in progress file ./world/advancements/8f9e4dad-698b-3c00-8b47-6313d8eeb79d.json - it doesn't exist anymore?
+[24Dec2024 23:09:50.140] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'apotheosis:affix/mythic_gem' in progress file ./world/advancements/8f9e4dad-698b-3c00-8b47-6313d8eeb79d.json - it doesn't exist anymore?
+[24Dec2024 23:09:50.140] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'toughasnails:recipes/tools/empty_copper_canteen' in progress file ./world/advancements/8f9e4dad-698b-3c00-8b47-6313d8eeb79d.json - it doesn't exist anymore?
+[24Dec2024 23:09:50.141] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'toughasnails:recipes/decorations/water_purifier' in progress file ./world/advancements/8f9e4dad-698b-3c00-8b47-6313d8eeb79d.json - it doesn't exist anymore?
+[24Dec2024 23:09:50.145] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'apotheosis:affix/boss' in progress file ./world/advancements/8f9e4dad-698b-3c00-8b47-6313d8eeb79d.json - it doesn't exist anymore?
+[24Dec2024 23:09:50.154] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'apotheosis:affix/epic' in progress file ./world/advancements/8f9e4dad-698b-3c00-8b47-6313d8eeb79d.json - it doesn't exist anymore?
+[24Dec2024 23:09:50.155] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'apotheosis:affix/rare_gem' in progress file ./world/advancements/8f9e4dad-698b-3c00-8b47-6313d8eeb79d.json - it doesn't exist anymore?
+[24Dec2024 23:09:50.155] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'toughasnails:recipes/food/ice_cream' in progress file ./world/advancements/8f9e4dad-698b-3c00-8b47-6313d8eeb79d.json - it doesn't exist anymore?
+[24Dec2024 23:09:50.187] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'attributeslib:creative_flight'
+[24Dec2024 23:09:50.188] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: toughasnails:wool_boots removed now.
+[24Dec2024 23:09:50.188] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: toughasnails:charc_os removed now.
+[24Dec2024 23:09:50.189] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: toughasnails:wool_leggings removed now.
+[24Dec2024 23:09:50.190] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: toughasnails:wool_helmet removed now.
+[24Dec2024 23:09:50.190] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: toughasnails:empty_leather_canteen removed now.
+[24Dec2024 23:09:50.191] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: toughasnails:empty_copper_canteen removed now.
+[24Dec2024 23:09:50.191] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: toughasnails:water_purifier removed now.
+[24Dec2024 23:09:50.192] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: toughasnails:wool_chestplate removed now.
+[24Dec2024 23:09:50.192] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: toughasnails:ice_cream removed now.
+[24Dec2024 23:09:50.193] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: toughasnails:apple_juice removed now.
+[24Dec2024 23:09:50.193] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: toughasnails:empty_diamond_canteen removed now.
+[24Dec2024 23:09:50.194] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: toughasnails:rain_collector removed now.
+[24Dec2024 23:09:50.195] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: toughasnails:empty_gold_canteen removed now.
+[24Dec2024 23:09:50.195] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: toughasnails:thermometer removed now.
+[24Dec2024 23:09:50.196] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: toughasnails:empty_iron_canteen removed now.
+[24Dec2024 23:09:50.196] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: toughasnails:charc_os removed now.
+[24Dec2024 23:09:50.197] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: toughasnails:wool_leggings removed now.
+[24Dec2024 23:09:50.197] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: toughasnails:water_purifier removed now.
+[24Dec2024 23:09:50.199] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: toughasnails:wool_chestplate removed now.
+[24Dec2024 23:09:50.199] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: toughasnails:ice_cream removed now.
+[24Dec2024 23:09:50.199] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: toughasnails:apple_juice removed now.
+[24Dec2024 23:09:50.200] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: toughasnails:rain_collector removed now.
+[24Dec2024 23:09:50.200] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: toughasnails:thermometer removed now.
+[24Dec2024 23:09:50.201] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nucaraga[/127.64.139.94:54763] logged in with entity id 10539 at (325.5, 63.5625, -41.5)
+[24Dec2024 23:09:50.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga joined the game
+[24Dec2024 23:09:50.436] [Server thread/INFO] [Jade/]: Syncing config to Nucaraga (8f9e4dad-698b-3c00-8b47-6313d8eeb79d)
+[24Dec2024 23:09:50.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga has made the advancement [Ice and Fire]
+[24Dec2024 23:09:57.541] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2828ms or 56 ticks behind
+[24Dec2024 23:10:25.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[24Dec2024 23:10:35.292] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga lost connection: Disconnected
+[24Dec2024 23:10:35.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga left the game
+[24Dec2024 23:10:35.360] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24Dec2024 23:11:02.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[24Dec2024 23:11:24.092] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-185, y=18, z=-3} BlockPos{x=-184, y=18, z=-2}
+[24Dec2024 23:11:24.146] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-185, y=18, z=-3} BlockPos{x=-184, y=18, z=-2}
+[24Dec2024 23:11:24.195] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-185, y=18, z=-3} BlockPos{x=-184, y=18, z=-2}
+[24Dec2024 23:11:24.245] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-185, y=18, z=-3} BlockPos{x=-184, y=18, z=-2}
+[24Dec2024 23:11:24.294] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-185, y=18, z=-3} BlockPos{x=-184, y=18, z=-2}
+[24Dec2024 23:11:24.341] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-185, y=18, z=-3} BlockPos{x=-184, y=18, z=-2}
+[24Dec2024 23:11:24.390] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-185, y=18, z=-3} BlockPos{x=-184, y=18, z=-6}
+[24Dec2024 23:11:24.437] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-185, y=18, z=-3} BlockPos{x=-184, y=18, z=-6}
+[24Dec2024 23:11:24.489] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-185, y=18, z=-3} BlockPos{x=-184, y=18, z=-6}
+[24Dec2024 23:11:24.540] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-185, y=18, z=-3} BlockPos{x=-184, y=18, z=-6}
+[24Dec2024 23:11:24.592] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-185, y=18, z=-3} BlockPos{x=-184, y=18, z=-6}
+[24Dec2024 23:11:24.640] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-185, y=18, z=-3} BlockPos{x=-184, y=18, z=-6}
+[24Dec2024 23:11:24.692] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-185, y=18, z=-3} BlockPos{x=-184, y=18, z=-6}
+[24Dec2024 23:11:34.240] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-185, y=15, z=-6} BlockPos{x=-184, y=14, z=-5}
+[24Dec2024 23:11:35.046] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-185, y=16, z=-4} BlockPos{x=-185, y=16, z=-5}
+[24Dec2024 23:11:35.097] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-185, y=16, z=-4} BlockPos{x=-185, y=16, z=-5}
+[24Dec2024 23:11:35.194] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-185, y=16, z=-4} BlockPos{x=-185, y=16, z=-5}
+[24Dec2024 23:11:35.248] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-185, y=16, z=-4} BlockPos{x=-185, y=14, z=-6}
