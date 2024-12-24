@@ -8259,108 +8259,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
-    "criteria": {
-      "has_item": "2024-12-23 21:32:26 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/gauntlets/gauntlet_gauntlets": {
-    "criteria": {
-      "has_leather": "2024-12-23 23:09:30 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/ghostly_helmet": {
-    "criteria": {
-      "has_skeleton_skull": "2024-12-23 23:01:46 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/bows/bow_masters_bow": {
-    "criteria": {
-      "has_string": "2024-12-23 20:55:49 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
-    "criteria": {
-      "has_item": "2024-12-23 21:09:26 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/hammers/hammer_great_hammer": {
-    "criteria": {
-      "has_leather": "2024-12-23 23:09:30 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/daggers/dagger_the_beginning": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-23 22:09:01 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/squid_armor_chestplate": {
-    "criteria": {
-      "has_ink_sac": "2024-12-23 22:09:43 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
-    "criteria": {
-      "has_item": "2024-12-23 21:09:26 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/scythes/scythe_skull_scythe": {
-    "criteria": {
-      "has_bone": "2024-12-23 20:56:03 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/crossbows/crossbow_nautical_crossbow": {
-    "criteria": {
-      "has_base": "2024-12-23 21:59:44 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/crossbows/crossbow_corrupted_crossbow": {
-    "criteria": {
-      "has_string": "2024-12-23 20:55:49 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:small_dungeon": {
-    "criteria": {
-      "in_better_monster_room": "2024-12-23 20:54:31 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/bows/bow_bubble_burster": {
-    "criteria": {
-      "has_string": "2024-12-23 20:55:49 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/battle_robe_leggings": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-23 22:09:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/conduit": {
-    "criteria": {
-      "has_nautilus_core": "2024-12-23 22:09:05 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/bows/bow_bubble_bow": {
-    "criteria": {
-      "has_string": "2024-12-23 20:55:49 +0000"
-    },
-    "done": true
-  },
   "mcda:recipes/base_armors/spelunker_armor_helmet": {
     "criteria": {
       "has_torch": "2024-12-23 20:42:21 +0000"
@@ -8373,21 +8271,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/chainmail_helmet": {
+  "mcdw:recipes/crossbows/crossbow_doom_crossbow": {
     "criteria": {
-      "has_item": "2024-12-23 21:55:58 +0000"
+      "has_lapis_lazuli": "2024-12-23 20:50:08 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2024-12-23 20:50:57 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2024-12-23 20:54:31 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_monster_room": "2024-12-23 20:54:31 +0000"
+    },
+    "done": false
+  },
+  "mcdw:recipes/bows/bow_pink_scoundrel": {
+    "criteria": {
+      "has_gunpowder": "2024-12-23 20:55:47 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_masters_bow": {
+    "criteria": {
+      "has_string": "2024-12-23 20:55:49 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_corrupted_crossbow": {
+    "criteria": {
+      "has_string": "2024-12-23 20:55:49 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_bubble_burster": {
+    "criteria": {
+      "has_string": "2024-12-23 20:55:49 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_bubble_bow": {
+    "criteria": {
+      "has_string": "2024-12-23 20:55:49 +0000"
     },
     "done": true
   },
   "mcdw:recipes/crossbows/crossbow_exploding": {
     "criteria": {
       "has_string": "2024-12-23 20:55:49 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/turtle_armor_helmet": {
-    "criteria": {
-      "has_leather": "2024-12-23 23:09:30 +0000"
     },
     "done": true
   },
@@ -8403,51 +8343,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/chainmail_leggings": {
-    "criteria": {
-      "has_item": "2024-12-23 21:55:58 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/spears/spear_fortune": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-23 22:09:01 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/squid_armor_leggings": {
-    "criteria": {
-      "has_ink_sac": "2024-12-23 22:09:43 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crocodile": {
-    "criteria": {
-      "killed_by": "2024-12-23 23:04:48 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/copycat_panel_from_ingots_zinc_stonecutting": {
-    "criteria": {
-      "has_ingots_zinc": "2024-12-23 21:32:26 +0000"
-    },
-    "done": true
-  },
   "mcdw:recipes/crossbows/crossbow_harp": {
     "criteria": {
       "has_string": "2024-12-23 20:55:49 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/chain": {
-    "criteria": {
-      "has_item": "2024-12-23 21:55:58 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/evocation_robe_leggings": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-23 22:09:01 +0000"
     },
     "done": true
   },
@@ -8460,18 +8358,6 @@
   "mcdw:recipes/bows/bow_lost_souls": {
     "criteria": {
       "has_string": "2024-12-23 20:55:49 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/grim_armor_leggings": {
-    "criteria": {
-      "has_bone": "2024-12-23 20:56:03 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/crossbows/crossbow_doom_crossbow": {
-    "criteria": {
-      "has_lapis_lazuli": "2024-12-23 20:50:08 +0000"
     },
     "done": true
   },
@@ -8493,63 +8379,9 @@
     },
     "done": true
   },
-  "artifacts:chest_slayer": {
-    "criteria": {
-      "kill_mimic": "2024-12-23 20:50:57 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/hammers/hammer_suns_grace": {
-    "criteria": {
-      "has_gold_block": "2024-12-23 22:12:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_boots": {
-    "criteria": {
-      "has_item": "2024-12-23 21:55:58 +0000"
-    },
-    "done": true
-  },
   "mcdw:recipes/longbows/bow_longbow": {
     "criteria": {
       "has_string": "2024-12-23 20:55:49 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
-    "criteria": {
-      "has_silver_ingot": "2024-12-23 21:32:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/diamond": {
-    "criteria": {
-      "has_diamond_block": "2024-12-23 21:33:14 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/bows/bow_pink_scoundrel": {
-    "criteria": {
-      "has_gunpowder": "2024-12-23 20:55:47 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/blindfold": {
-    "criteria": {
-      "has_item": "2024-12-23 23:09:30 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
-    "criteria": {
-      "has_the_recipe": "2024-12-23 21:32:13 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
-    "criteria": {
-      "has_item": "2024-12-23 21:09:26 +0000"
     },
     "done": true
   },
@@ -8559,51 +8391,9 @@
     },
     "done": true
   },
-  "mcda:recipes/upgrade_cores/upgrade_core_spider": {
-    "criteria": {
-      "has_core_specification_item": "2024-12-23 22:50:02 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/upgrade_cores/upgrade_core_verdant": {
-    "criteria": {
-      "has_core_specification_item": "2024-12-23 21:28:50 +0000"
-    },
-    "done": true
-  },
   "mcdw:recipes/hammers/hammer_boneclub": {
     "criteria": {
       "has_string": "2024-12-23 20:55:49 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/vanguard_armor_leggings": {
-    "criteria": {
-      "has_leather": "2024-12-23 23:09:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/trapped_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2024-12-23 21:58:53 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
-    "criteria": {
-      "has_silver_ingot": "2024-12-23 21:32:13 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/shulker_armor_chestplate": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-23 22:09:01 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/misc/white_dye_from_white_lavender": {
-    "criteria": {
-      "has_white_lavender": "2024-12-23 23:04:57 +0000"
     },
     "done": true
   },
@@ -8619,63 +8409,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/chainmail_chestplate": {
-    "criteria": {
-      "has_item": "2024-12-23 21:55:58 +0000"
-    },
-    "done": true
-  },
   "mcdw:recipes/crossbows/crossbow_azure_seeker": {
     "criteria": {
       "has_string": "2024-12-23 20:55:49 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/grim_armor_chestplate": {
-    "criteria": {
-      "has_bone": "2024-12-23 20:56:03 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/gauntlets/gauntlet_maulers": {
-    "criteria": {
-      "has_bone": "2024-12-23 20:56:03 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/swords/sword_dancers_sword": {
-    "criteria": {
-      "has_leather": "2024-12-23 23:09:30 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
-    "criteria": {
-      "has_item": "2024-12-23 21:32:26 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/axes/axe_encrusted_anchor": {
-    "criteria": {
-      "has_gold_block": "2024-12-23 22:12:16 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/squid_armor_helmet": {
-    "criteria": {
-      "has_ink_sac": "2024-12-23 22:09:43 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/piglin_armor_boots": {
-    "criteria": {
-      "has_bone": "2024-12-23 20:56:03 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/iron_hippogryph_armor": {
-    "criteria": {
-      "has_item": "2024-12-23 20:56:05 +0000"
     },
     "done": true
   },
@@ -8691,51 +8427,57 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/copycat_step_from_ingots_zinc_stonecutting": {
-    "criteria": {
-      "has_ingots_zinc": "2024-12-23 21:32:26 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/crafting_items/skeleton_skull_to_bonemeal": {
-    "criteria": {
-      "has_skeleton_skull": "2024-12-23 23:01:46 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/grim_armor_boots": {
-    "criteria": {
-      "has_bone": "2024-12-23 20:56:03 +0000"
-    },
-    "done": true
-  },
   "mcdw:recipes/crossbows/crossbow_soul": {
     "criteria": {
       "has_string": "2024-12-23 20:55:49 +0000"
     },
     "done": true
   },
-  "mcdw:recipes/daggers/dagger_the_end": {
+  "mcdw:recipes/crossbows/crossbow_dual": {
     "criteria": {
-      "has_gold_ingot": "2024-12-23 22:09:01 +0000"
+      "has_string": "2024-12-23 20:55:49 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
+  "mcdw:recipes/bows/bow_snow_bow": {
     "criteria": {
-      "has_item": "2024-12-23 21:32:26 +0000"
+      "has_string": "2024-12-23 20:55:49 +0000"
     },
     "done": true
   },
-  "mcdw:recipes/glaives/spear_grave_bane": {
+  "mcdw:recipes/scythes/scythe_skull_scythe": {
     "criteria": {
-      "has_gold_ingot": "2024-12-23 22:09:01 +0000"
+      "has_bone": "2024-12-23 20:56:03 +0000"
     },
     "done": true
   },
-  "mcda:recipes/base_armors/evocation_robe_helmet": {
+  "mcda:recipes/base_armors/grim_armor_leggings": {
     "criteria": {
-      "has_gold_ingot": "2024-12-23 22:09:01 +0000"
+      "has_bone": "2024-12-23 20:56:03 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/grim_armor_chestplate": {
+    "criteria": {
+      "has_bone": "2024-12-23 20:56:03 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/gauntlets/gauntlet_maulers": {
+    "criteria": {
+      "has_bone": "2024-12-23 20:56:03 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/piglin_armor_boots": {
+    "criteria": {
+      "has_bone": "2024-12-23 20:56:03 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/grim_armor_boots": {
+    "criteria": {
+      "has_bone": "2024-12-23 20:56:03 +0000"
     },
     "done": true
   },
@@ -8751,69 +8493,93 @@
     },
     "done": true
   },
-  "mcda:recipes/base_armors/squid_armor_boots": {
-    "criteria": {
-      "has_ink_sac": "2024-12-23 22:09:43 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/upgrade_cores/upgrade_core_depth": {
-    "criteria": {
-      "has_core_specification_item": "2024-12-23 21:33:14 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/evocation_robe_chestplate": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-23 22:09:01 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/crossbows/crossbow_dual": {
-    "criteria": {
-      "has_string": "2024-12-23 20:55:49 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:all_dungeons": {
-    "criteria": {
-      "in_better_monster_room": "2024-12-23 20:54:31 +0000"
-    },
-    "done": false
-  },
-  "mcdw:recipes/bows/bow_snow_bow": {
-    "criteria": {
-      "has_string": "2024-12-23 20:55:49 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/staves/staff_growing_staff": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-23 22:09:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sea_lantern": {
-    "criteria": {
-      "has_prismarine_crystals": "2024-12-23 22:07:40 +0000"
-    },
-    "done": true
-  },
   "mcda:recipes/base_armors/piglin_armor_helmet": {
     "criteria": {
       "has_bone": "2024-12-23 20:56:03 +0000"
     },
     "done": true
   },
-  "mcda:recipes/upgrade_cores/upgrade_core_golden": {
+  "iceandfire:recipes/combat/iron_hippogryph_armor": {
     "criteria": {
-      "has_core_specification_item": "2024-12-23 22:12:16 +0000"
+      "has_item": "2024-12-23 20:56:05 +0000"
     },
     "done": true
   },
-  "mcdw:recipes/hammers/hammer_flail": {
+  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
     "criteria": {
-      "has_chain": "2024-12-23 21:55:58 +0000"
+      "has_item": "2024-12-23 21:09:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
+    "criteria": {
+      "has_item": "2024-12-23 21:09:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
+    "criteria": {
+      "has_item": "2024-12-23 21:09:26 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/gemstone_red": {
+    "criteria": {
+      "has_redstone": "2024-12-23 21:09:29 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_verdant": {
+    "criteria": {
+      "has_core_specification_item": "2024-12-23 21:28:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-23 21:32:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_the_recipe": "2024-12-23 21:32:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-23 21:32:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
+    "criteria": {
+      "has_item": "2024-12-23 21:32:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_panel_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2024-12-23 21:32:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
+    "criteria": {
+      "has_item": "2024-12-23 21:32:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_step_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2024-12-23 21:32:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
+    "criteria": {
+      "has_item": "2024-12-23 21:32:26 +0000"
     },
     "done": true
   },
@@ -8823,9 +8589,280 @@
     },
     "done": true
   },
-  "mcda:recipes/crafting_items/gemstone_red": {
+  "minecraft:recipes/misc/diamond": {
     "criteria": {
-      "has_redstone": "2024-12-23 21:09:29 +0000"
+      "has_diamond_block": "2024-12-23 21:33:14 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_depth": {
+    "criteria": {
+      "has_core_specification_item": "2024-12-23 21:33:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2024-12-23 21:55:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2024-12-23 21:55:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2024-12-23 21:55:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2024-12-23 21:55:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-23 21:55:58 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_flail": {
+    "criteria": {
+      "has_chain": "2024-12-23 21:55:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-23 21:58:53 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_nautical_crossbow": {
+    "criteria": {
+      "has_base": "2024-12-23 21:59:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-12-23 22:07:40 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_the_beginning": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-23 22:09:01 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/battle_robe_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-23 22:09:01 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/spears/spear_fortune": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-23 22:09:01 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/evocation_robe_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-23 22:09:01 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/shulker_armor_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-23 22:09:01 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_the_end": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-23 22:09:01 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/glaives/spear_grave_bane": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-23 22:09:01 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/evocation_robe_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-23 22:09:01 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/evocation_robe_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-23 22:09:01 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/staves/staff_growing_staff": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-23 22:09:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2024-12-23 22:09:05 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_chestplate": {
+    "criteria": {
+      "has_ink_sac": "2024-12-23 22:09:43 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_leggings": {
+    "criteria": {
+      "has_ink_sac": "2024-12-23 22:09:43 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_helmet": {
+    "criteria": {
+      "has_ink_sac": "2024-12-23 22:09:43 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_boots": {
+    "criteria": {
+      "has_ink_sac": "2024-12-23 22:09:43 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_suns_grace": {
+    "criteria": {
+      "has_gold_block": "2024-12-23 22:12:16 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/axes/axe_encrusted_anchor": {
+    "criteria": {
+      "has_gold_block": "2024-12-23 22:12:16 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_golden": {
+    "criteria": {
+      "has_core_specification_item": "2024-12-23 22:12:16 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_spider": {
+    "criteria": {
+      "has_core_specification_item": "2024-12-23 22:50:02 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/ghostly_helmet": {
+    "criteria": {
+      "has_skeleton_skull": "2024-12-23 23:01:46 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/skeleton_skull_to_bonemeal": {
+    "criteria": {
+      "has_skeleton_skull": "2024-12-23 23:01:46 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2024-12-23 23:04:48 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/white_dye_from_white_lavender": {
+    "criteria": {
+      "has_white_lavender": "2024-12-23 23:04:57 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/gauntlets/gauntlet_gauntlets": {
+    "criteria": {
+      "has_leather": "2024-12-23 23:09:30 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_great_hammer": {
+    "criteria": {
+      "has_leather": "2024-12-23 23:09:30 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/turtle_armor_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-23 23:09:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/blindfold": {
+    "criteria": {
+      "has_item": "2024-12-23 23:09:30 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/vanguard_armor_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-23 23:09:30 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_dancers_sword": {
+    "criteria": {
+      "has_leather": "2024-12-23 23:09:30 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_stormlander": {
+    "criteria": {
+      "has_copper_block": "2024-12-24 22:49:38 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_hawkbrand": {
+    "criteria": {
+      "has_iron_block": "2024-12-24 22:45:41 +0000",
+      "has_the_recipe": "2024-12-24 22:45:41 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/teleportation_robe_chestplate": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-24 22:49:50 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/double_axes/double_axe_double": {
+    "criteria": {
+      "has_iron_block": "2024-12-24 22:45:41 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_hawkbrand_vanilla_sword": {
+    "criteria": {
+      "has_iron_block": "2024-12-24 22:45:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2024-12-24 22:49:50 +0000"
     },
     "done": true
   },

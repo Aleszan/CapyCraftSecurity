@@ -910,3 +910,11 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [24Dec2024 22:40:31.702] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Afarfa[/127.2.83.136:54753] logged in with entity id 686 at (325.5, 63.5625, -41.5)
 [24Dec2024 22:40:31.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa joined the game
 [24Dec2024 22:40:32.002] [Server thread/INFO] [Jade/]: Syncing config to Afarfa (7d7a9792-b781-3893-9e35-be8b3107f4fe)
+[24Dec2024 22:42:14.940] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[24Dec2024 22:45:10.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Adventure Mode]
+[24Dec2024 22:45:11.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[24Dec2024 22:46:30.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Afarfa]
+[24Dec2024 22:46:37.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Spectator Mode]
+[24Dec2024 22:46:39.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[24Dec2024 22:52:04.936] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa lost connection: Disconnected
+[24Dec2024 22:52:04.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa left the game
