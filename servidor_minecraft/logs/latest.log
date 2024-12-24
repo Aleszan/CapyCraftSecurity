@@ -1511,3 +1511,57 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [24Dec2024 23:32:49.395] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=314, y=66, z=11} BlockPos{x=314, y=67, z=11}
 [24Dec2024 23:32:49.433] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=314, y=66, z=11} BlockPos{x=314, y=67, z=11}
 [24Dec2024 23:32:49.485] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=314, y=66, z=11} BlockPos{x=315, y=65, z=11}
+[24Dec2024 23:33:17.946] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=322, y=67, z=11} BlockPos{x=316, y=67, z=10}
+[24Dec2024 23:33:18.140] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=316, y=67, z=10} BlockPos{x=315, y=67, z=10}
+[24Dec2024 23:33:18.528] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=315, y=67, z=10} BlockPos{x=314, y=66, z=10}
+[24Dec2024 23:33:18.590] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=315, y=67, z=10} BlockPos{x=313, y=66, z=9}
+[24Dec2024 23:33:18.693] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=313, y=66, z=9} BlockPos{x=312, y=66, z=9}
+[24Dec2024 23:33:18.756] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=313, y=66, z=9} BlockPos{x=312, y=66, z=8}
+[24Dec2024 23:33:18.931] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=313, y=66, z=9} BlockPos{x=312, y=66, z=7}
+[24Dec2024 23:33:19.184] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=312, y=65, z=6} BlockPos{x=313, y=65, z=5}
+[24Dec2024 23:33:19.437] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=313, y=65, z=5} BlockPos{x=313, y=66, z=3}
+[24Dec2024 23:33:19.439] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=313, y=65, z=5} BlockPos{x=313, y=66, z=3}
+[24Dec2024 23:33:19.515] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=313, y=65, z=5} BlockPos{x=313, y=66, z=3}
+[24Dec2024 23:33:19.571] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=313, y=65, z=5} BlockPos{x=313, y=66, z=3}
+[24Dec2024 23:33:19.659] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=313, y=65, z=5} BlockPos{x=314, y=66, z=1}
+[24Dec2024 23:33:19.711] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=313, y=65, z=5} BlockPos{x=314, y=66, z=1}
+[24Dec2024 23:33:19.738] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=313, y=65, z=5} BlockPos{x=314, y=66, z=1}
+[24Dec2024 23:33:19.858] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=313, y=65, z=5} BlockPos{x=316, y=66, z=0}
+[24Dec2024 23:33:20.369] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=316, y=66, z=0} BlockPos{x=317, y=65, z=-1}
+[24Dec2024 23:33:20.422] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=316, y=66, z=0} BlockPos{x=317, y=65, z=-1}
+[24Dec2024 23:33:20.520] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=316, y=66, z=0} BlockPos{x=317, y=65, z=-1}
+[24Dec2024 23:33:20.599] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=316, y=66, z=0} BlockPos{x=322, y=66, z=-1}
+[24Dec2024 23:33:20.690] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=316, y=66, z=0} BlockPos{x=322, y=66, z=-1}
+[24Dec2024 23:33:20.950] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=322, y=66, z=-1} BlockPos{x=324, y=65, z=-1}
+[24Dec2024 23:33:21.008] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=322, y=66, z=-1} BlockPos{x=324, y=65, z=-1}
+[24Dec2024 23:34:04.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 40 experience levels to xDogSaur]
+[24Dec2024 23:34:14.787] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=356, y=66, z=9} BlockPos{x=358, y=66, z=-6}
+[24Dec2024 23:34:18.939] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=361, y=66, z=-2} BlockPos{x=362, y=67, z=2}
+[24Dec2024 23:34:18.990] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=361, y=66, z=-2} BlockPos{x=362, y=67, z=2}
+[24Dec2024 23:34:19.037] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=361, y=66, z=-2} BlockPos{x=362, y=67, z=2}
+[24Dec2024 23:34:19.088] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=361, y=66, z=-2} BlockPos{x=362, y=67, z=2}
+[24Dec2024 23:34:19.141] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=361, y=66, z=-2} BlockPos{x=361, y=68, z=1}
+[24Dec2024 23:34:19.293] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=361, y=68, z=1} BlockPos{x=362, y=68, z=1}
+[24Dec2024 23:34:19.341] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=361, y=68, z=1} BlockPos{x=362, y=68, z=1}
+[24Dec2024 23:34:19.385] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=361, y=68, z=1} BlockPos{x=360, y=68, z=2}
+[24Dec2024 23:34:19.435] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=361, y=68, z=1} BlockPos{x=359, y=68, z=2}
+[24Dec2024 23:34:19.542] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=361, y=68, z=1} BlockPos{x=358, y=68, z=1}
+[24Dec2024 23:34:19.588] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=361, y=68, z=1} BlockPos{x=358, y=68, z=1}
+[24Dec2024 23:35:12.550] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=308, y=65, z=0} BlockPos{x=308, y=66, z=0}
+[24Dec2024 23:35:12.596] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=308, y=65, z=0} BlockPos{x=309, y=66, z=-1}
+[24Dec2024 23:35:12.637] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=308, y=65, z=0} BlockPos{x=309, y=66, z=-1}
+[24Dec2024 23:35:15.485] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=315, y=65, z=-1} BlockPos{x=315, y=67, z=1}
+[24Dec2024 23:35:15.540] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=315, y=65, z=-1} BlockPos{x=314, y=68, z=1}
+[24Dec2024 23:35:16.433] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=313, y=65, z=1} BlockPos{x=310, y=66, z=2}
+[24Dec2024 23:35:16.934] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=312, y=65, z=2} BlockPos{x=311, y=66, z=3}
+[24Dec2024 23:35:17.036] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=312, y=65, z=2} BlockPos{x=310, y=67, z=2}
+[24Dec2024 23:35:17.202] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=312, y=65, z=2} BlockPos{x=310, y=67, z=1}
+[24Dec2024 23:39:19.188] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved wrongly!
+[24Dec2024 23:40:16.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 40 experience levels to xDogSaur]
+[24Dec2024 23:41:23.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 1 [Diamond Pickaxe] to xDogSaur]
+[24Dec2024 23:41:34.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 1 [Diamond Pickaxe] to xDogSaur]
+[24Dec2024 23:41:34.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 1 [Diamond Pickaxe] to xDogSaur]
+[24Dec2024 23:41:35.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 1 [Diamond Pickaxe] to xDogSaur]
+[24Dec2024 23:41:35.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 1 [Diamond Pickaxe] to xDogSaur]
+[24Dec2024 23:42:01.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 40 experience levels to xDogSaur]
+[24Dec2024 23:43:09.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 1 [Smithing Template] to xDogSaur]
