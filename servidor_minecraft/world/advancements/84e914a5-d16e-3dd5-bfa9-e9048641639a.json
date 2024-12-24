@@ -1687,6 +1687,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "cold_desert": "2024-12-21 21:53:53 +0000",
+      "crystalline_chasm": "2024-12-24 23:19:40 +0000",
       "withered_abyss": "2024-12-24 23:10:11 +0000",
       "coniferous_forest": "2024-12-21 21:37:28 +0000",
       "hot_springs": "2024-12-23 14:51:09 +0000",
@@ -11121,6 +11122,24 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-24 23:21:00 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/gemstone_white": {
+    "criteria": {
+      "has_quartz": "2024-12-24 23:22:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-24 23:21:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2024-12-24 22:49:34 +0000"
@@ -11130,6 +11149,12 @@
   "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
     "criteria": {
       "has_raw_silver": "2024-12-24 22:49:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-24 23:21:00 +0000"
     },
     "done": true
   },

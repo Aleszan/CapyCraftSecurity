@@ -6296,6 +6296,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/scythes/scythe_skull_scythe": {
+    "criteria": {
+      "has_bone": "2024-12-24 23:23:10 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/crossbows/crossbow_nautical_crossbow": {
     "criteria": {
       "has_gold_ingot": "2024-12-24 23:18:43 +0000"
@@ -6336,6 +6342,12 @@
   "mcdw:recipes/swords/sword_masters_katana": {
     "criteria": {
       "has_gold_ingot": "2024-12-24 23:18:43 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/double_axes/double_axe_cursed": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-24 23:21:19 +0000"
     },
     "done": true
   },
@@ -6423,6 +6435,12 @@
     },
     "done": true
   },
+  "xtraarrows:recipes/all_recipes": {
+    "criteria": {
+      "has_arrow": "2024-12-24 23:23:10 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/crafting_items/fabric_bolt_lime": {
     "criteria": {
       "has_stick": "2024-12-24 23:17:22 +0000"
@@ -6468,6 +6486,12 @@
   "mcdw:recipes/shortbows/bow_shortbow": {
     "criteria": {
       "has_string": "2024-12-24 23:17:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-24 23:22:33 +0000"
     },
     "done": true
   },
@@ -6681,6 +6705,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2024-12-24 23:22:33 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/bows/bow_void_bow": {
     "criteria": {
       "has_string": "2024-12-24 23:17:14 +0000"
@@ -6825,6 +6855,12 @@
     },
     "done": true
   },
+  "mcda:recipes/crafting_items/glut_charm": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-24 23:21:19 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/bows/bow_trickbow": {
     "criteria": {
       "has_string": "2024-12-24 23:17:14 +0000"
@@ -6846,6 +6882,12 @@
   "mcda:recipes/base_armors/vanguard_armor_leggings": {
     "criteria": {
       "has_leather": "2024-12-24 23:17:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2024-12-24 23:26:22 +0000"
     },
     "done": true
   },
@@ -6921,6 +6963,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-24 23:22:33 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/bows/bow_bonebow": {
     "criteria": {
       "has_string": "2024-12-24 23:17:14 +0000"
@@ -6969,6 +7017,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/grim_armor_chestplate": {
+    "criteria": {
+      "has_bone": "2024-12-24 23:23:10 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/gauntlets/gauntlet_maulers": {
     "criteria": {
       "has_leather": "2024-12-24 23:17:14 +0000"
@@ -7014,6 +7068,18 @@
   "mcda:recipes/base_armors/mystery_armor_green_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 23:18:42 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/piglin_armor_boots": {
+    "criteria": {
+      "has_bone": "2024-12-24 23:23:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-24 23:22:33 +0000"
     },
     "done": true
   },
@@ -7071,6 +7137,12 @@
     },
     "done": true
   },
+  "mcda:recipes/upgrade_cores/upgrade_core_archer": {
+    "criteria": {
+      "has_core_specification_item": "2024-12-24 23:23:10 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_frost_slayer": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 23:18:43 +0000"
@@ -7089,15 +7161,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-24 23:22:33 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/evocation_robe_helmet": {
     "criteria": {
       "has_leather": "2024-12-24 23:17:14 +0000"
     },
     "done": true
   },
+  "mcda:recipes/base_armors/grim_armor_helmet": {
+    "criteria": {
+      "has_bone": "2024-12-24 23:23:10 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/mystery_armor_purple_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 23:18:42 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/bone_rib_cage": {
+    "criteria": {
+      "has_bone": "2024-12-24 23:23:10 +0000"
     },
     "done": true
   },
@@ -7206,6 +7296,12 @@
   "mcdw:recipes/swords/sword_claymore": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 23:18:42 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/piglin_armor_helmet": {
+    "criteria": {
+      "has_bone": "2024-12-24 23:23:10 +0000"
     },
     "done": true
   },
