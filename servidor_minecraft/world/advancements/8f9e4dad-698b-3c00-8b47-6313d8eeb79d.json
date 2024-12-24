@@ -6249,6 +6249,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/sorting_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-24 23:45:38 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/mystery_armor_purple_boots": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 23:18:42 +0000"
@@ -6279,9 +6285,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-24 23:45:38 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/crafting_items/fabric_bolt_brown": {
     "criteria": {
       "has_stick": "2024-12-24 23:17:22 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-24 23:45:38 +0000"
     },
     "done": true
   },
@@ -6294,6 +6312,12 @@
   "mcda:recipes/base_armors/spelunker_armor_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 23:18:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-24 23:45:38 +0000"
     },
     "done": true
   },
@@ -6318,6 +6342,12 @@
   "mcdw:recipes/bows/bow_wind_bow": {
     "criteria": {
       "has_string": "2024-12-24 23:17:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-24 23:45:38 +0000"
     },
     "done": true
   },
@@ -6346,6 +6376,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-24 23:45:38 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-24 23:45:38 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-24 23:45:38 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/double_axes/double_axe_cursed": {
     "criteria": {
       "has_rotten_flesh": "2024-12-24 23:21:19 +0000"
@@ -6358,9 +6406,33 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-24 23:45:38 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/crossbows/crossbow_scatter": {
     "criteria": {
       "has_string": "2024-12-24 23:17:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_fence": {
+    "criteria": {
+      "has_planks": "2024-12-24 23:47:10 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mining_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-24 23:45:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-24 23:45:38 +0000"
     },
     "done": true
   },
@@ -6379,6 +6451,18 @@
   "mcda:recipes/base_armors/battle_robe_leggings": {
     "criteria": {
       "has_gold_ingot": "2024-12-24 23:18:43 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_button": {
+    "criteria": {
+      "has_planks": "2024-12-24 23:47:10 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_door": {
+    "criteria": {
+      "has_planks": "2024-12-24 23:47:10 +0000"
     },
     "done": true
   },
@@ -6415,6 +6499,12 @@
   "mcda:recipes/base_armors/thief_armor_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 23:18:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-24 23:47:10 +0000"
     },
     "done": true
   },
@@ -6463,6 +6553,18 @@
   "mcda:recipes/base_armors/mystery_armor_red_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 23:18:42 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-24 23:45:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2024-12-24 23:45:38 +0000"
     },
     "done": true
   },
@@ -6532,6 +6634,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-24 23:45:38 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/shortbows/bow_mechanical_shortbow": {
     "criteria": {
       "has_string": "2024-12-24 23:17:14 +0000"
@@ -6547,6 +6655,12 @@
   "mcdw:recipes/spears/spear_fortune": {
     "criteria": {
       "has_gold_ingot": "2024-12-24 23:18:43 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-24 23:45:38 +0000"
     },
     "done": true
   },
@@ -6700,9 +6814,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/umbran_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-24 23:45:38 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/bows/bow_nocturnal_bow": {
     "criteria": {
       "has_string": "2024-12-24 23:17:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-24 23:45:38 +0000"
     },
     "done": true
   },
@@ -6820,6 +6946,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/transformation_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-24 23:45:38 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/daggers/dagger_dagger": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 23:18:42 +0000"
@@ -6862,6 +6994,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_slab": {
+    "criteria": {
+      "has_planks": "2024-12-24 23:47:10 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/mystery_armor_green_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 23:18:42 +0000"
@@ -6871,6 +7009,12 @@
   "mcdw:recipes/whips/whip_vine_whip": {
     "criteria": {
       "has_leather": "2024-12-24 23:17:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-24 23:45:38 +0000"
     },
     "done": true
   },
@@ -6898,6 +7042,12 @@
     },
     "done": true
   },
+  "mcda:recipes/upgrade_cores/upgrade_core_verdant": {
+    "criteria": {
+      "has_core_specification_item": "2024-12-24 23:46:56 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/scythes/scythe_soul_scythe": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 23:18:42 +0000"
@@ -6922,6 +7072,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/fir_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-24 23:47:10 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/daggers/dagger_chill_gale_knife": {
     "criteria": {
       "has_gold_ingot": "2024-12-24 23:18:43 +0000"
@@ -6937,6 +7093,24 @@
   "mcda:recipes/crafting_items/fabric_bolt_magenta": {
     "criteria": {
       "has_stick": "2024-12-24 23:17:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/time_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-24 23:45:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-24 23:45:38 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-24 23:45:38 +0000"
     },
     "done": true
   },
@@ -7006,6 +7180,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-24 23:45:38 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/shortbows/bow_love_spell_bow": {
     "criteria": {
       "has_string": "2024-12-24 23:17:14 +0000"
@@ -7036,9 +7216,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-24 23:45:38 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/empyreal_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-24 23:45:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-24 23:45:38 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/crossbows/crossbow_azure_seeker": {
     "criteria": {
       "has_string": "2024-12-24 23:17:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_sign": {
+    "criteria": {
+      "has_planks": "2024-12-24 23:47:10 +0000"
     },
     "done": true
   },
@@ -7057,6 +7261,12 @@
   "mcdw:recipes/gauntlets/gauntlet_maulers": {
     "criteria": {
       "has_leather": "2024-12-24 23:17:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-24 23:45:38 +0000"
     },
     "done": true
   },
@@ -7123,6 +7333,18 @@
   "mcdw:recipes/bows/bow_hunting_bow": {
     "criteria": {
       "has_leather": "2024-12-24 23:17:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-24 23:45:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-24 23:45:38 +0000"
     },
     "done": true
   },
@@ -7300,9 +7522,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/fir_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-24 23:47:10 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_broadsword": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 23:18:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-24 23:47:10 +0000"
     },
     "done": true
   },
@@ -7339,6 +7573,12 @@
   "mcda:recipes/base_armors/piglin_armor_helmet": {
     "criteria": {
       "has_bone": "2024-12-24 23:23:10 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-24 23:45:38 +0000"
     },
     "done": true
   },

@@ -11122,6 +11122,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 23:39:25 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_dark_katana": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 23:39:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2024-12-24 23:21:00 +0000"
@@ -11140,15 +11152,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 23:39:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 23:39:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 23:39:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 23:39:25 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/gemstone_purple": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 23:39:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 23:39:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2024-12-24 22:49:34 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2024-12-24 23:43:09 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
     "criteria": {
       "has_raw_silver": "2024-12-24 22:49:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 23:39:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 23:39:25 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 23:39:25 +0000"
     },
     "done": true
   },
@@ -11164,15 +11236,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 23:39:25 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
     "criteria": {
       "has_raw_silver": "2024-12-24 22:49:14 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 23:39:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 23:39:25 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/upgrade_cores/upgrade_core_depth": {
     "criteria": {
       "has_core_specification_item": "2024-12-24 22:49:34 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_bone_cudgel": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 23:39:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 23:39:25 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/gemstone_red": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 23:39:25 +0000"
     },
     "done": true
   },
