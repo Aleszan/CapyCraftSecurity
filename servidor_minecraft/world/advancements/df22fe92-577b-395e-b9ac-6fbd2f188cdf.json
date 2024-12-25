@@ -5728,5 +5728,11 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/spelunker_armor_helmet": {
+    "criteria": {
+      "has_torch": "2024-12-25 00:16:29 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
