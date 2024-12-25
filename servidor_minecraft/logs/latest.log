@@ -910,3 +910,5 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [25Dec2024 19:01:37.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga joined the game
 [25Dec2024 19:01:37.948] [Server thread/INFO] [Jade/]: Syncing config to Nucaraga (8f9e4dad-698b-3c00-8b47-6313d8eeb79d)
 [25Dec2024 19:14:20.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved wrongly!
+[25Dec2024 19:28:05.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was shot by Afarfa
+[25Dec2024 19:28:05.326] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 0 in "curios" inventory handler
