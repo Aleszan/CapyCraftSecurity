@@ -918,3 +918,4 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [25Dec2024 19:45:16.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved wrongly!
 [25Dec2024 19:48:54.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was slain by Skeleton
 [25Dec2024 19:49:26.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga has completed the challenge [Free Willy]
+[25Dec2024 20:27:24.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga has made the advancement [Pic-A-Nic Basket?]
