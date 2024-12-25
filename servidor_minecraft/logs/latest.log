@@ -1373,3 +1373,18 @@
 [25Dec2024 00:42:41.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has reached the goal [New Age Librarian]
 [25Dec2024 00:43:56.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 moved too quickly! 2.452063053184361,-2.0,-9.663234743917855
 [25Dec2024 00:44:44.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has reached the goal [Quaint Scribe]
+[25Dec2024 00:45:04.731] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[25Dec2024 00:46:10.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved wrongly!
+[25Dec2024 00:48:56.823] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[25Dec2024 00:49:33.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has made the advancement [Magery]
+[25Dec2024 00:50:19.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw was shot by Afarfa
+[25Dec2024 00:50:29.043] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga lost connection: Disconnected
+[25Dec2024 00:50:29.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga left the game
+[25Dec2024 00:53:08.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa was slain by Cachalot Whale
+[25Dec2024 00:54:20.740] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa lost connection: Disconnected
+[25Dec2024 00:54:20.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa left the game
+[25Dec2024 01:12:38.388] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 moved too quickly! -10.14079638434987,1.1661092609382138,-0.21076134401590707
+[25Dec2024 01:12:46.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 moved too quickly! -9.810852237249463,-2.5216761829341863,-0.757571991180555
+[25Dec2024 01:13:04.389] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 lost connection: Disconnected
+[25Dec2024 01:13:04.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 left the game
+[25Dec2024 01:14:36.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has made the advancement [Path of Justice]
