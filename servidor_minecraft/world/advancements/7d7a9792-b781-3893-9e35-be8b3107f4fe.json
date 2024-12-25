@@ -9157,9 +9157,21 @@
     },
     "done": true
   },
+  "mcda:recipes/unique_armors/wither_armor_helmet": {
+    "criteria": {
+      "has_grim_armor_helmet": "2024-12-25 17:20:13 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/goat_gear_boots": {
     "criteria": {
       "has_leather_boots": "2024-12-25 17:04:12 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/gourdian_armor_helmet": {
+    "criteria": {
+      "has_grim_armor_helmet": "2024-12-25 17:20:13 +0000"
     },
     "done": true
   },
