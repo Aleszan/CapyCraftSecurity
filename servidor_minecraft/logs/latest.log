@@ -893,3 +893,5 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [25Dec2024 17:46:47.147] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Afarfa[/127.247.31.29:40413] logged in with entity id 63105 at (359.76249998807907, 63.0, -48.438762246149494)
 [25Dec2024 17:46:47.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa joined the game
 [25Dec2024 17:46:47.289] [Server thread/INFO] [Jade/]: Syncing config to Afarfa (7d7a9792-b781-3893-9e35-be8b3107f4fe)
+[25Dec2024 18:06:11.410] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw lost connection: Disconnected
+[25Dec2024 18:06:11.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw left the game
