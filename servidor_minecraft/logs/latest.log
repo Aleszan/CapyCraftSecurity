@@ -1393,3 +1393,9 @@
 [25Dec2024 04:44:42.624] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Afarfa[/127.2.83.136:55429] logged in with entity id 81445 at (357.58577503909464, 63.0, -52.266327044852055)
 [25Dec2024 04:44:42.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa joined the game
 [25Dec2024 04:44:42.745] [Server thread/INFO] [Jade/]: Syncing config to Afarfa (7d7a9792-b781-3893-9e35-be8b3107f4fe)
+[25Dec2024 05:11:40.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa's brain was turned into leaves by Skeleton Druid
+[25Dec2024 05:11:50.499] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa moved too quickly! 2372.5386775242073,-57.92159999847412,-189.44001150479698
+[25Dec2024 05:16:13.552] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luzbel1t0[/127.249.170.157:50559] logged in with entity id 91795 at (275.223050092706, -51.0, 366.45747106129284)
+[25Dec2024 05:16:13.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 joined the game
+[25Dec2024 05:16:13.656] [Server thread/INFO] [Jade/]: Syncing config to Luzbel1t0 (df22fe92-577b-395e-b9ac-6fbd2f188cdf)
+[25Dec2024 05:16:20.136] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2823ms or 56 ticks behind
