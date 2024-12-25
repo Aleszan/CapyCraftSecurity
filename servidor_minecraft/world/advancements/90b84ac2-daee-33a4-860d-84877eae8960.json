@@ -4054,6 +4054,7 @@
       "minecraft:vindicator": "2024-12-23 02:17:41 +0000",
       "minecraft:spider": "2024-12-23 15:05:49 +0000",
       "minecraft:creeper": "2024-12-23 22:42:39 +0000",
+      "minecraft:cave_spider": "2024-12-25 17:01:27 +0000",
       "minecraft:silverfish": "2024-12-23 19:28:06 +0000",
       "minecraft:zombie": "2024-12-23 15:05:24 +0000",
       "minecraft:drowned": "2024-12-25 15:33:36 +0000",
@@ -7943,6 +7944,12 @@
   "create:recipes/misc/crafting/kinetics/placard": {
     "criteria": {
       "has_item": "2024-12-25 15:29:53 +0000"
+    },
+    "done": true
+  },
+  "create:funnel": {
+    "criteria": {
+      "0": "2024-12-25 17:05:51 +0000"
     },
     "done": true
   },

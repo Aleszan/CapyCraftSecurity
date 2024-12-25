@@ -1282,6 +1282,7 @@
       "salmon": "2024-12-25 05:50:59 +0000",
       "melon_slice": "2024-12-22 23:04:52 +0000",
       "cooked_rabbit": "2024-12-23 04:01:20 +0000",
+      "cooked_chicken": "2024-12-25 17:01:19 +0000",
       "cod": "2024-12-22 00:08:11 +0000",
       "cooked_salmon": "2024-12-21 23:15:10 +0000",
       "carrot": "2024-12-21 21:24:25 +0000"
@@ -9150,6 +9151,36 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-25 16:53:04 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/goat_gear_boots": {
+    "criteria": {
+      "has_leather_boots": "2024-12-25 17:04:12 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_oceanic": {
+    "criteria": {
+      "has_core_specification_item": "2024-12-25 16:53:22 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/climbing_gear_boots": {
+    "criteria": {
+      "has_leather_boots": "2024-12-25 17:04:12 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/scale_mail_boots": {
+    "criteria": {
+      "has_leather_boots": "2024-12-25 17:04:12 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/umbran_wood": {
     "criteria": {
       "has_log": "2024-12-25 16:24:41 +0000"
@@ -9165,6 +9196,18 @@
   "biomesoplenty:recipes/building_blocks/pine_wood": {
     "criteria": {
       "has_log": "2024-12-25 16:27:27 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/archers_boots": {
+    "criteria": {
+      "has_leather_boots": "2024-12-25 17:04:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-25 16:53:04 +0000"
     },
     "done": true
   },
