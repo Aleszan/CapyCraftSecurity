@@ -895,3 +895,14 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [25Dec2024 17:46:47.289] [Server thread/INFO] [Jade/]: Syncing config to Afarfa (7d7a9792-b781-3893-9e35-be8b3107f4fe)
 [25Dec2024 18:06:11.410] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw lost connection: Disconnected
 [25Dec2024 18:06:11.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw left the game
+[25Dec2024 18:08:15.902] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa lost connection: Disconnected
+[25Dec2024 18:08:15.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa left the game
+[25Dec2024 18:10:27.991] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Afarfa[/127.247.31.29:35559] logged in with entity id 69085 at (353.67673696262466, 63.0, -37.954365450872615)
+[25Dec2024 18:10:28.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa joined the game
+[25Dec2024 18:10:28.054] [Server thread/INFO] [Jade/]: Syncing config to Afarfa (7d7a9792-b781-3893-9e35-be8b3107f4fe)
+[25Dec2024 18:11:52.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa moved too quickly! 2372.316549446272,-57.92159999847412,-189.08815558376514
+[25Dec2024 18:13:12.594] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa lost connection: Disconnected
+[25Dec2024 18:13:12.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa left the game
+[25Dec2024 18:13:16.766] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Afarfa[/127.247.31.29:58569] logged in with entity id 70094 at (2725.463249103611, 5.0, -204.4941700984057)
+[25Dec2024 18:13:16.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa joined the game
+[25Dec2024 18:13:16.810] [Server thread/INFO] [Jade/]: Syncing config to Afarfa (7d7a9792-b781-3893-9e35-be8b3107f4fe)
