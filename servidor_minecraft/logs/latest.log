@@ -1388,3 +1388,5 @@
 [25Dec2024 01:13:04.389] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 lost connection: Disconnected
 [25Dec2024 01:13:04.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 left the game
 [25Dec2024 01:14:36.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has made the advancement [Path of Justice]
+[25Dec2024 01:16:40.028] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw lost connection: Disconnected
+[25Dec2024 01:16:40.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw left the game
