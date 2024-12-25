@@ -4056,6 +4056,7 @@
       "minecraft:creeper": "2024-12-23 22:42:39 +0000",
       "minecraft:silverfish": "2024-12-23 19:28:06 +0000",
       "minecraft:zombie": "2024-12-23 15:05:24 +0000",
+      "minecraft:drowned": "2024-12-25 15:33:36 +0000",
       "minecraft:zombie_villager": "2024-12-25 14:19:16 +0000"
     },
     "done": false
@@ -7912,6 +7913,126 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2024-12-25 14:32:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2024-12-25 15:48:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/brass_bars_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2024-12-25 15:29:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/elevator_pulley": {
+    "criteria": {
+      "has_item": "2024-12-25 15:29:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/brass_ladder_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2024-12-25 15:29:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/placard": {
+    "criteria": {
+      "has_item": "2024-12-25 15:29:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/brass_tunnel": {
+    "criteria": {
+      "has_item": "2024-12-25 15:29:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/brass_funnel": {
+    "criteria": {
+      "has_item": "2024-12-25 15:29:53 +0000"
+    },
+    "done": true
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2024-12-25 15:29:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/deployer": {
+    "criteria": {
+      "has_item": "2024-12-25 15:30:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/attribute_filter": {
+    "criteria": {
+      "has_item": "2024-12-25 15:29:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/brass_block_from_compacting": {
+    "criteria": {
+      "has_item": "2024-12-25 15:29:53 +0000"
+    },
+    "done": true
+  },
+  "create:deployer": {
+    "criteria": {
+      "0": "2024-12-25 15:46:06 +0000"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2024-12-25 15:42:31 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/brass_hand": {
+    "criteria": {
+      "has_item": "2024-12-25 15:29:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/brass_scaffolding_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2024-12-25 15:29:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/brass_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2024-12-25 15:29:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/flywheel": {
+    "criteria": {
+      "has_item": "2024-12-25 15:29:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2024-12-25 15:28:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/peculiar_bell": {
+    "criteria": {
+      "has_item": "2024-12-25 15:29:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/adjustable_chain_gearshift": {
+    "criteria": {
+      "has_item": "2024-12-25 15:30:20 +0000"
     },
     "done": true
   },
