@@ -970,3 +970,5 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [25Dec2024 20:58:10.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was slain by Zombie
 [25Dec2024 21:00:34.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga has made the advancement [Light as a Rabbit]
 [25Dec2024 21:00:51.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga has made the advancement [Mine? Mine? Mine?]
+[25Dec2024 21:12:16.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga has made the advancement [Enchanter]
+[25Dec2024 21:18:04.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [When in Rome]
