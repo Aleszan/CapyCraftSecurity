@@ -1390,3 +1390,6 @@
 [25Dec2024 01:14:36.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has made the advancement [Path of Justice]
 [25Dec2024 01:16:40.028] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw lost connection: Disconnected
 [25Dec2024 01:16:40.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw left the game
+[25Dec2024 04:44:42.624] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Afarfa[/127.2.83.136:55429] logged in with entity id 81445 at (357.58577503909464, 63.0, -52.266327044852055)
+[25Dec2024 04:44:42.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa joined the game
+[25Dec2024 04:44:42.745] [Server thread/INFO] [Jade/]: Syncing config to Afarfa (7d7a9792-b781-3893-9e35-be8b3107f4fe)

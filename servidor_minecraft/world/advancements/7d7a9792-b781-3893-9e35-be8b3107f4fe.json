@@ -8879,5 +8879,17 @@
     },
     "done": true
   },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2024-12-25 04:45:33 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_backstabber": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-25 04:45:33 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
