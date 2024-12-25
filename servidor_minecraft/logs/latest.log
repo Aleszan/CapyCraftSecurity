@@ -919,3 +919,14 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [25Dec2024 19:48:54.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was slain by Skeleton
 [25Dec2024 19:49:26.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga has completed the challenge [Free Willy]
 [25Dec2024 20:27:24.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga has made the advancement [Pic-A-Nic Basket?]
+[25Dec2024 20:28:36.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga has made the advancement [Convergent Evolution...]
+[25Dec2024 20:30:41.432] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:boss_spawner
+[25Dec2024 20:30:54.584] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved wrongly!
+[25Dec2024 20:31:22.269] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:boss_spawner
+[25Dec2024 20:31:26.516] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:boss_spawner
+[25Dec2024 20:31:26.516] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:anvil
+[25Dec2024 20:31:33.452] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[25Dec2024 20:31:38.838] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-236, y=-7, z=-462} but found not block entity block Block{minecraft:air} at location
+[25Dec2024 20:31:38.839] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-236, y=-7, z=-462}
+[25Dec2024 20:34:17.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga has made the advancement [World of illusion]
+[25Dec2024 20:37:46.271] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved wrongly!
