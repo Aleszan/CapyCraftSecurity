@@ -1450,3 +1450,6 @@
 [25Dec2024 06:21:36.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 has made the advancement [Sweet Dreams]
 [25Dec2024 06:22:13.930] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 lost connection: Disconnected
 [25Dec2024 06:22:13.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 left the game
+[25Dec2024 06:33:38.373] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luzbel1t0[/127.249.170.157:53491] logged in with entity id 123230 at (-156.48713613712724, 77.0, 637.2994531815442)
+[25Dec2024 06:33:38.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 joined the game
+[25Dec2024 06:33:38.511] [Server thread/INFO] [Jade/]: Syncing config to Luzbel1t0 (df22fe92-577b-395e-b9ac-6fbd2f188cdf)
