@@ -874,3 +874,4 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [25Dec2024 14:02:27.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] este mensaje es para que el servidor siga vivo animo chavales, admin durmiendo
 [25Dec2024 14:04:23.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] este mensaje es para mantener vivo el server( admin durmiendo su siestita )
 [25Dec2024 14:05:10.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] este mensaje es para mantener vivo el server( admin duermiendo su siestita )
+[25Dec2024 14:30:36.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] este mensaje es para mantener vivo el server( admin duermiendo su siestita )
