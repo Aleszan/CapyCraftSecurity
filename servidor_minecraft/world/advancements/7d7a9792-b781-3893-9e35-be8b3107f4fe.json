@@ -9151,48 +9151,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/roast_chicken_block": {
-    "criteria": {
-      "has_cooked_chicken": "2024-12-25 16:53:04 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/unique_armors/wither_armor_helmet": {
-    "criteria": {
-      "has_grim_armor_helmet": "2024-12-25 17:20:13 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/goat_gear_boots": {
-    "criteria": {
-      "has_leather_boots": "2024-12-25 17:04:12 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/unique_armors/gourdian_armor_helmet": {
-    "criteria": {
-      "has_grim_armor_helmet": "2024-12-25 17:20:13 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/upgrade_cores/upgrade_core_oceanic": {
-    "criteria": {
-      "has_core_specification_item": "2024-12-25 16:53:22 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/climbing_gear_boots": {
-    "criteria": {
-      "has_leather_boots": "2024-12-25 17:04:12 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/scale_mail_boots": {
-    "criteria": {
-      "has_leather_boots": "2024-12-25 17:04:12 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/building_blocks/umbran_wood": {
     "criteria": {
       "has_log": "2024-12-25 16:24:41 +0000"
@@ -9211,21 +9169,63 @@
     },
     "done": true
   },
-  "mcda:recipes/unique_armors/archers_boots": {
+  "farmersdelight:recipes/food/roast_chicken_block": {
     "criteria": {
-      "has_leather_boots": "2024-12-25 17:04:12 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/daggers/dagger_shear_dagger": {
-    "criteria": {
-      "has_shears": "2024-12-25 17:23:15 +0000"
+      "has_cooked_chicken": "2024-12-25 16:53:04 +0000"
     },
     "done": true
   },
   "farmersdelight:recipes/food/chicken_sandwich": {
     "criteria": {
       "has_cooked_chicken": "2024-12-25 16:53:04 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_oceanic": {
+    "criteria": {
+      "has_core_specification_item": "2024-12-25 16:53:22 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/goat_gear_boots": {
+    "criteria": {
+      "has_leather_boots": "2024-12-25 17:04:12 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/climbing_gear_boots": {
+    "criteria": {
+      "has_leather_boots": "2024-12-25 17:04:12 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/scale_mail_boots": {
+    "criteria": {
+      "has_leather_boots": "2024-12-25 17:04:12 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/archers_boots": {
+    "criteria": {
+      "has_leather_boots": "2024-12-25 17:04:12 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/wither_armor_helmet": {
+    "criteria": {
+      "has_grim_armor_helmet": "2024-12-25 17:20:13 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/gourdian_armor_helmet": {
+    "criteria": {
+      "has_grim_armor_helmet": "2024-12-25 17:20:13 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_shear_dagger": {
+    "criteria": {
+      "has_shears": "2024-12-25 17:23:15 +0000"
     },
     "done": true
   },
