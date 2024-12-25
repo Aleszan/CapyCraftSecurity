@@ -3456,7 +3456,8 @@
       "minecraft:wither_skeleton": "2024-12-23 02:58:41 +0000",
       "minecraft:husk": "2024-12-23 02:01:47 +0000",
       "minecraft:cave_spider": "2024-12-23 00:32:35 +0000",
-      "minecraft:zombie": "2024-12-22 23:35:22 +0000"
+      "minecraft:zombie": "2024-12-22 23:35:22 +0000",
+      "minecraft:zombie_villager": "2024-12-25 05:26:28 +0000"
     },
     "done": false
   },
@@ -5734,9 +5735,9 @@
     },
     "done": true
   },
-  "mcdw:recipes/bows/bow_masters_bow": {
+  "mcda:recipes/crafting_items/gemstone_red": {
     "criteria": {
-      "has_string": "2024-12-25 00:51:16 +0000"
+      "has_redstone": "2024-12-25 00:31:16 +0000"
     },
     "done": true
   },
@@ -5746,39 +5747,93 @@
     },
     "done": true
   },
-  "mcdw:recipes/crossbows/crossbow_corrupted_crossbow": {
-    "criteria": {
-      "has_string": "2024-12-25 00:51:16 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/double_axes/double_axe_cursed": {
-    "criteria": {
-      "has_rotten_flesh": "2024-12-25 01:10:04 +0000"
-    },
-    "done": true
-  },
   "xtraarrows:recipes/all_recipes": {
     "criteria": {
       "has_arrow": "2024-12-25 00:32:28 +0000"
     },
     "done": true
   },
-  "mcda:recipes/crafting_items/gemstone_blue": {
+  "mcdw:recipes/crossbows/crossbow_feral_soul": {
     "criteria": {
-      "has_lapis_lazuli": "2024-12-25 00:56:54 +0000"
+      "has_bone": "2024-12-25 00:32:28 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/grim_armor_leggings": {
+    "criteria": {
+      "has_bone": "2024-12-25 00:32:28 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_boneclub": {
+    "criteria": {
+      "has_bone": "2024-12-25 00:32:28 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/grim_armor_chestplate": {
+    "criteria": {
+      "has_bone": "2024-12-25 00:32:28 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/gauntlets/gauntlet_maulers": {
+    "criteria": {
+      "has_bone": "2024-12-25 00:32:28 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/piglin_armor_boots": {
+    "criteria": {
+      "has_bone": "2024-12-25 00:32:28 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/grim_armor_boots": {
+    "criteria": {
+      "has_bone": "2024-12-25 00:32:28 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_archer": {
+    "criteria": {
+      "has_core_specification_item": "2024-12-25 00:32:28 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/bone_rib_cage": {
+    "criteria": {
+      "has_bone": "2024-12-25 00:32:28 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/piglin_armor_helmet": {
+    "criteria": {
+      "has_bone": "2024-12-25 00:32:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2024-12-25 00:42:19 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_masters_bow": {
+    "criteria": {
+      "has_string": "2024-12-25 00:51:16 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_corrupted_crossbow": {
+    "criteria": {
+      "has_string": "2024-12-25 00:51:16 +0000"
     },
     "done": true
   },
   "mcdw:recipes/crossbows/crossbow_exploding": {
     "criteria": {
       "has_string": "2024-12-25 00:51:16 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/crossbows/crossbow_feral_soul": {
-    "criteria": {
-      "has_bone": "2024-12-25 00:32:28 +0000"
     },
     "done": true
   },
@@ -5791,12 +5846,6 @@
   "mcdw:recipes/bows/bow_lost_souls": {
     "criteria": {
       "has_string": "2024-12-25 00:51:16 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/grim_armor_leggings": {
-    "criteria": {
-      "has_bone": "2024-12-25 00:32:28 +0000"
     },
     "done": true
   },
@@ -5830,39 +5879,9 @@
     },
     "done": true
   },
-  "mcdw:recipes/hammers/hammer_boneclub": {
-    "criteria": {
-      "has_bone": "2024-12-25 00:32:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_glow_ink_sac": "2024-12-25 00:42:19 +0000"
-    },
-    "done": true
-  },
   "mcdw:recipes/crossbows/crossbow_azure_seeker": {
     "criteria": {
       "has_string": "2024-12-25 00:51:16 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/grim_armor_chestplate": {
-    "criteria": {
-      "has_bone": "2024-12-25 00:32:28 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/gauntlets/gauntlet_maulers": {
-    "criteria": {
-      "has_bone": "2024-12-25 00:32:28 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/piglin_armor_boots": {
-    "criteria": {
-      "has_bone": "2024-12-25 00:32:28 +0000"
     },
     "done": true
   },
@@ -5878,27 +5897,9 @@
     },
     "done": true
   },
-  "mcda:recipes/base_armors/grim_armor_boots": {
-    "criteria": {
-      "has_bone": "2024-12-25 00:32:28 +0000"
-    },
-    "done": true
-  },
   "mcdw:recipes/crossbows/crossbow_soul": {
     "criteria": {
       "has_string": "2024-12-25 00:51:16 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/upgrade_cores/upgrade_core_archer": {
-    "criteria": {
-      "has_core_specification_item": "2024-12-25 00:32:28 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/crafting_items/bone_rib_cage": {
-    "criteria": {
-      "has_bone": "2024-12-25 00:32:28 +0000"
     },
     "done": true
   },
@@ -5908,15 +5909,33 @@
     },
     "done": true
   },
-  "mcda:recipes/base_armors/piglin_armor_helmet": {
+  "mcda:recipes/crafting_items/gemstone_blue": {
     "criteria": {
-      "has_bone": "2024-12-25 00:32:28 +0000"
+      "has_lapis_lazuli": "2024-12-25 00:56:54 +0000"
     },
     "done": true
   },
-  "mcda:recipes/crafting_items/gemstone_red": {
+  "mcdw:recipes/double_axes/double_axe_cursed": {
     "criteria": {
-      "has_redstone": "2024-12-25 00:31:16 +0000"
+      "has_rotten_flesh": "2024-12-25 01:10:04 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_stormlander": {
+    "criteria": {
+      "has_redstone_block": "2024-12-25 05:46:21 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_spider": {
+    "criteria": {
+      "has_core_specification_item": "2024-12-25 05:28:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-12-25 05:46:21 +0000"
     },
     "done": true
   },
