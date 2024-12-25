@@ -912,3 +912,7 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [25Dec2024 19:14:20.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved wrongly!
 [25Dec2024 19:28:05.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was shot by Afarfa
 [25Dec2024 19:28:05.326] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 0 in "curios" inventory handler
+[25Dec2024 19:37:55.098] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[25Dec2024 19:37:55.196] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[25Dec2024 19:37:55.300] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[25Dec2024 19:45:16.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved wrongly!
