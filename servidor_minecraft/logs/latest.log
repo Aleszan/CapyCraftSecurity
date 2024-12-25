@@ -49,3 +49,25 @@
 [25Dec2024 00:01:29.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 joined the game
 [25Dec2024 00:01:29.654] [Server thread/INFO] [Jade/]: Syncing config to Luzbel1t0 (df22fe92-577b-395e-b9ac-6fbd2f188cdf)
 [25Dec2024 00:01:29.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 has made the advancement [Ice and Fire]
+[25Dec2024 00:03:54.785] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[25Dec2024 00:06:29.379] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Afarfa[/127.2.83.136:37547] logged in with entity id 40319 at (358.12167583754973, 63.0, -43.0531071200974)
+[25Dec2024 00:06:29.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa joined the game
+[25Dec2024 00:06:29.503] [Server thread/INFO] [Jade/]: Syncing config to Afarfa (7d7a9792-b781-3893-9e35-be8b3107f4fe)
+[25Dec2024 00:10:12.817] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'attributeslib:current_hp_damage'
+[25Dec2024 00:10:12.817] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'attributeslib:crit_damage'
+[25Dec2024 00:10:12.818] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'attributeslib:armor_shred'
+[25Dec2024 00:10:12.861] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'attributeslib:arrow_velocity'
+[25Dec2024 00:10:13.310] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'attributeslib:armor_pierce'
+[25Dec2024 00:10:13.864] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'attributeslib:crit_damage'
+[25Dec2024 00:10:13.866] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'attributeslib:cold_damage'
+[25Dec2024 00:10:15.358] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 lost connection: Timed out
+[25Dec2024 00:10:15.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 left the game
+[25Dec2024 00:10:15.510] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[25Dec2024 00:10:17.953] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2090ms or 41 ticks behind
+[25Dec2024 00:10:38.234] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luzbel1t0[/127.249.170.157:52017] logged in with entity id 42244 at (324.1764536811467, 60.0, 30.789373970974214)
+[25Dec2024 00:10:38.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 joined the game
+[25Dec2024 00:10:38.456] [Server thread/INFO] [Jade/]: Syncing config to Luzbel1t0 (df22fe92-577b-395e-b9ac-6fbd2f188cdf)
+[25Dec2024 00:10:44.379] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[25Dec2024 00:11:35.997] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 lost connection: Disconnected
+[25Dec2024 00:11:35.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 left the game
+[25Dec2024 00:12:28.106] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind

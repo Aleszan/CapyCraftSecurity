@@ -6563,6 +6563,13 @@
     },
     "done": true
   },
+  "mcdw:recipes/swords/sword_hawkbrand": {
+    "criteria": {
+      "has_iron_block": "2024-12-25 00:00:01 +0000",
+      "has_the_recipe": "2024-12-25 00:00:01 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/mystery_armor_red_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 23:18:42 +0000"
@@ -6803,6 +6810,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/double_axes/double_axe_double": {
+    "criteria": {
+      "has_iron_block": "2024-12-25 00:00:01 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/bows/bow_power_bow": {
     "criteria": {
       "has_string": "2024-12-24 23:17:14 +0000"
@@ -6914,6 +6927,12 @@
   "mcda:recipes/crafting_items/fabric_bolt_purple": {
     "criteria": {
       "has_stick": "2024-12-24 23:17:22 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_hawkbrand_vanilla_sword": {
+    "criteria": {
+      "has_iron_block": "2024-12-25 00:00:01 +0000"
     },
     "done": true
   },
