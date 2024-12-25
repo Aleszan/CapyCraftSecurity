@@ -875,3 +875,8 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [25Dec2024 14:04:23.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] este mensaje es para mantener vivo el server( admin durmiendo su siestita )
 [25Dec2024 14:05:10.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] este mensaje es para mantener vivo el server( admin duermiendo su siestita )
 [25Dec2024 14:30:36.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] este mensaje es para mantener vivo el server( admin duermiendo su siestita )
+[25Dec2024 14:51:26.749] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw lost connection: Disconnected
+[25Dec2024 14:51:26.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw left the game
+[25Dec2024 14:52:01.109] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aw[/127.255.204.150:36723] logged in with entity id 15682 at (358.30676256514727, 63.0, 20.04760189159852)
+[25Dec2024 14:52:01.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw joined the game
+[25Dec2024 14:52:01.224] [Server thread/INFO] [Jade/]: Syncing config to aw (90b84ac2-daee-33a4-860d-84877eae8960)
