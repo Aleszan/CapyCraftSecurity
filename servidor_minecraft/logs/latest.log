@@ -882,3 +882,4 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [25Dec2024 14:52:01.224] [Server thread/INFO] [Jade/]: Syncing config to aw (90b84ac2-daee-33a4-860d-84877eae8960)
 [25Dec2024 14:56:02.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] este mensaje es para mantener vivo el server( admin duermiendo su siestita )
 [25Dec2024 15:21:28.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] este mensaje es para mantener vivo el server( admin duermiendo su siestita )
+[25Dec2024 16:01:57.935] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=284, y=60, z=-3} BlockPos{x=284, y=60, z=-4}
