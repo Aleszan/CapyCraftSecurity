@@ -1435,3 +1435,18 @@
 [25Dec2024 05:46:18.331] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [25Dec2024 05:52:50.571] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [25Dec2024 05:54:18.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Afarfa> 360 63 -23
+[25Dec2024 06:10:17.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 was shot by Afarfa
+[25Dec2024 06:11:32.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 tried to swim in lava
+[25Dec2024 06:14:02.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 has made the advancement [A Throwaway Joke]
+[25Dec2024 06:17:10.932] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa lost connection: Disconnected
+[25Dec2024 06:17:10.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa left the game
+[25Dec2024 06:20:26.341] [Worker-Main-295/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-322, y=114, z=386}
+[25Dec2024 06:20:29.988] [Worker-Main-256/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-458, y=1, z=-497}
+[25Dec2024 06:20:29.989] [Worker-Main-256/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-460, y=1, z=-497}
+[25Dec2024 06:20:29.990] [Worker-Main-256/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-459, y=9, z=-497}
+[25Dec2024 06:20:29.997] [Worker-Main-256/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-458, y=1, z=-496}
+[25Dec2024 06:20:29.998] [Worker-Main-256/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-458, y=1, z=-495}
+[25Dec2024 06:20:29.998] [Worker-Main-256/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-464, y=2, z=-496}
+[25Dec2024 06:21:36.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 has made the advancement [Sweet Dreams]
+[25Dec2024 06:22:13.930] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 lost connection: Disconnected
+[25Dec2024 06:22:13.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 left the game

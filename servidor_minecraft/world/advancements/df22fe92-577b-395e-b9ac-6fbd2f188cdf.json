@@ -322,7 +322,8 @@
       "minecraft:deep_frozen_ocean": "2024-12-23 00:35:50 +0000",
       "minecraft:windswept_forest": "2024-12-23 02:28:52 +0000",
       "minecraft:snowy_beach": "2024-12-23 01:26:01 +0000",
-      "minecraft:windswept_gravelly_hills": "2024-12-23 01:55:02 +0000"
+      "minecraft:windswept_gravelly_hills": "2024-12-23 01:55:02 +0000",
+      "minecraft:plains": "2024-12-25 06:11:46 +0000"
     },
     "done": false
   },
@@ -2301,6 +2302,7 @@
     "criteria": {
       "apple": "2024-12-22 23:05:28 +0000",
       "bread": "2024-12-22 23:30:35 +0000",
+      "golden_apple": "2024-12-25 06:08:46 +0000",
       "rotten_flesh": "2024-12-23 00:00:14 +0000",
       "melon_slice": "2024-12-23 00:16:23 +0000",
       "golden_carrot": "2024-12-23 03:00:14 +0000",
@@ -5927,15 +5929,57 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-25 06:21:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2024-12-25 06:14:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2024-12-25 06:10:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-25 06:07:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-25 06:07:30 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/upgrade_cores/upgrade_core_spider": {
     "criteria": {
       "has_core_specification_item": "2024-12-25 05:28:01 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2024-12-25 06:07:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2024-12-25 05:46:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2024-12-25 06:07:30 +0000"
     },
     "done": true
   },
