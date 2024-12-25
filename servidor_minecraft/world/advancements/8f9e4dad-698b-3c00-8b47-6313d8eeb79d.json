@@ -2902,7 +2902,8 @@
       "minecraft:wither_skeleton": "2024-12-23 03:09:06 +0000",
       "minecraft:cave_spider": "2024-12-23 00:28:45 +0000",
       "minecraft:piglin": "2024-12-23 02:57:47 +0000",
-      "minecraft:zombie": "2024-12-23 00:21:11 +0000"
+      "minecraft:zombie": "2024-12-23 00:21:11 +0000",
+      "minecraft:drowned": "2024-12-25 19:48:26 +0000"
     },
     "done": false
   },
@@ -7870,6 +7871,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2024-12-25 19:44:26 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2024-12-25 19:49:26 +0000"
     },
     "done": true
   },

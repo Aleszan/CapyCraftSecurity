@@ -916,3 +916,5 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [25Dec2024 19:37:55.196] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [25Dec2024 19:37:55.300] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [25Dec2024 19:45:16.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved wrongly!
+[25Dec2024 19:48:54.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was slain by Skeleton
+[25Dec2024 19:49:26.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga has completed the challenge [Free Willy]
