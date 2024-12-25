@@ -883,3 +883,6 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [25Dec2024 14:56:02.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] este mensaje es para mantener vivo el server( admin duermiendo su siestita )
 [25Dec2024 15:21:28.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] este mensaje es para mantener vivo el server( admin duermiendo su siestita )
 [25Dec2024 16:01:57.935] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=284, y=60, z=-3} BlockPos{x=284, y=60, z=-4}
+[25Dec2024 16:12:41.897] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Afarfa[/127.247.31.29:43777] logged in with entity id 37730 at (357.30000001192093, 63.0, -52.011454201841545)
+[25Dec2024 16:12:41.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa joined the game
+[25Dec2024 16:12:42.159] [Server thread/INFO] [Jade/]: Syncing config to Afarfa (7d7a9792-b781-3893-9e35-be8b3107f4fe)
