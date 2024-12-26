@@ -1211,3 +1211,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Dec2024 22:57:44.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw was doomed to fall by Creeper
 [26Dec2024 22:58:09.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aw> fafa
 [26Dec2024 22:58:51.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw was slain by Zombie
+[26Dec2024 23:07:05.095] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['entity.minecraft.villager.wizards.wizard_merchant'/233903, l='ServerLevel[world]', x=-156.39, y=70.00, z=663.44] died, message: 'entity.minecraft.villager.wizards.wizard_merchant froze to death'
