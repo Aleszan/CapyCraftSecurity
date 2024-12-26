@@ -881,3 +881,6 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [26Dec2024 01:59:38.356] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aw[/127.190.39.43:46637] logged in with entity id 633 at (315.3757435486981, 63.0, 21.39169136575375)
 [26Dec2024 01:59:38.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw joined the game
 [26Dec2024 01:59:38.574] [Server thread/INFO] [Jade/]: Syncing config to aw (90b84ac2-daee-33a4-860d-84877eae8960)
+[26Dec2024 02:05:57.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aw> inferium
+[26Dec2024 02:08:34.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has made the advancement [Quite the Renovation]
+[26Dec2024 02:16:18.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was slain by Zombie
