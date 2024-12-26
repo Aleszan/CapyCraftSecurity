@@ -1055,3 +1055,16 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Dec2024 18:50:35.430] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Afarfa[/127.61.88.69:58191] logged in with entity id 112906 at (345.5674310859374, 63.0, -45.219527377693126)
 [26Dec2024 18:50:35.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa joined the game
 [26Dec2024 18:50:35.622] [Server thread/INFO] [Jade/]: Syncing config to Afarfa (7d7a9792-b781-3893-9e35-be8b3107f4fe)
+[26Dec2024 19:04:29.625] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[26Dec2024 19:06:45.127] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=57, y=99, z=-14} BlockPos{x=58, y=99, z=-15}
+[26Dec2024 19:06:45.176] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=57, y=99, z=-14} BlockPos{x=58, y=99, z=-15}
+[26Dec2024 19:06:45.227] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=57, y=99, z=-14} BlockPos{x=58, y=99, z=-15}
+[26Dec2024 19:06:45.276] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=57, y=99, z=-14} BlockPos{x=58, y=99, z=-15}
+[26Dec2024 19:06:45.327] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=57, y=99, z=-14} BlockPos{x=58, y=99, z=-15}
+[26Dec2024 19:06:45.376] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=57, y=99, z=-14} BlockPos{x=58, y=99, z=-15}
+[26Dec2024 19:14:52.843] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa moved too quickly! -2370.4573848466534,58.32352912385573,188.21257806536755
+[26Dec2024 19:14:53.418] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: apotheosis:tower_spruce
+[26Dec2024 19:15:07.215] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[26Dec2024 19:22:14.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nucaraga> xaero-waypoint:yo:Y:215:71:25:2:false:0:Internal-the-nether-waypoints
+[26Dec2024 19:22:23.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Afarfa> yo
+[26Dec2024 19:23:13.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Nightmare Fuel]

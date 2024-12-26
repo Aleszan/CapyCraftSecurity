@@ -9984,6 +9984,12 @@
     },
     "done": true
   },
+  "mcda:recipes/crafting_items/gemstone_white": {
+    "criteria": {
+      "has_quartz": "2024-12-26 19:05:06 +0000"
+    },
+    "done": true
+  },
   "create_enchantment_industry:experienced_engineer": {
     "criteria": {
       "have_experience_nugget": "2024-12-26 18:09:25 +0000"
