@@ -1226,3 +1226,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Dec2024 23:25:16.272] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luzbel1t0[/127.150.128.128:48637] logged in with entity id 250627 at (-224.25523678344268, -40.0, 747.8722960663787)
 [26Dec2024 23:25:16.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 joined the game
 [26Dec2024 23:25:16.297] [Server thread/INFO] [Jade/]: Syncing config to Luzbel1t0 (df22fe92-577b-395e-b9ac-6fbd2f188cdf)
+[26Dec2024 23:46:23.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 fell from a high place
+[26Dec2024 23:46:30.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Afarfa> JAJAJAJAJAJAAJJAJAAJJA
+[26Dec2024 23:47:13.822] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/251156, l='ServerLevel[world]', x=-166.06, y=72.00, z=620.11] died, message: 'Farmer was slain by Zombie'
+[26Dec2024 23:47:14.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 was shot by Skeleton
+[26Dec2024 23:47:23.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Afarfa> JAJAJAJAJAJAJAJAJAJAJAJA
+[26Dec2024 23:47:55.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 was shot by Skeleton
+[26Dec2024 23:49:03.848] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/262345, l='ServerLevel[world]', x=-151.60, y=69.41, z=675.63] died, message: 'Butcher was slain by Zombie'
