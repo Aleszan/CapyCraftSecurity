@@ -2655,3 +2655,9 @@ Dripping cheese all over my lunch
 [26Dec2024 05:19:42.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 3 [Campfire] to xDogSaur]
 [26Dec2024 05:19:49.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 1 [Campfire] to xDogSaur]
 [26Dec2024 05:20:07.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Afarfa> tengo todos los slots llenos
+[26Dec2024 05:20:11.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Applied effect Haste to xDogSaur]
+[26Dec2024 05:21:16.736] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=367, y=65, z=31} BlockPos{x=366, y=65, z=30}
+[26Dec2024 05:23:25.819] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa lost connection: Disconnected
+[26Dec2024 05:23:25.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa left the game
+[26Dec2024 05:29:39.269] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=372, y=65, z=43} BlockPos{x=372, y=63, z=45}
+[26Dec2024 05:29:43.124] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=372, y=66, z=44} BlockPos{x=372, y=67, z=44}
