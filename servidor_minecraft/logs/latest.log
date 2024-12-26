@@ -1118,3 +1118,17 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Dec2024 21:24:57.483] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw lost connection: Timed out
 [26Dec2024 21:24:57.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw left the game
 [26Dec2024 21:24:57.555] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Dec2024 21:28:30.926] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 21:30:01.332] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-183, y=56, z=666} BlockPos{x=-184, y=55, z=666}
+[26Dec2024 21:30:01.369] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-183, y=56, z=666} BlockPos{x=-184, y=55, z=666}
+[26Dec2024 21:30:01.430] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-183, y=56, z=666} BlockPos{x=-184, y=55, z=666}
+[26Dec2024 21:30:01.472] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-183, y=56, z=666} BlockPos{x=-184, y=55, z=666}
+[26Dec2024 21:30:01.532] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-183, y=56, z=666} BlockPos{x=-184, y=55, z=666}
+[26Dec2024 21:30:01.570] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-183, y=56, z=666} BlockPos{x=-184, y=55, z=666}
+[26Dec2024 21:30:01.631] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-183, y=56, z=666} BlockPos{x=-184, y=55, z=666}
+[26Dec2024 21:31:25.224] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/148717, l='ServerLevel[world]', x=-144.76, y=75.00, z=706.63] died, message: 'Leatherworker was slain by Zombie'
+[26Dec2024 21:31:59.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Spirit Taking]
+[26Dec2024 21:35:01.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 has made the advancement [Bonk!]
+[26Dec2024 21:35:09.489] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aw[/127.190.39.43:40441] logged in with entity id 177083 at (399.28960637609254, 66.0, -126.43500344494751)
+[26Dec2024 21:35:09.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw joined the game
+[26Dec2024 21:35:09.582] [Server thread/INFO] [Jade/]: Syncing config to aw (90b84ac2-daee-33a4-860d-84877eae8960)
