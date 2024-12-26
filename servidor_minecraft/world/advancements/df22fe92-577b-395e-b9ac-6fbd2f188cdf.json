@@ -6633,15 +6633,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
-      "has_cod": "2024-12-26 22:27:46 +0000"
+      "has_salmon": "2024-12-26 22:26:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye": {
+  "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
-      "has_bone_meal": "2024-12-26 22:32:06 +0000"
+      "has_salmon": "2024-12-26 22:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-12-26 22:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-12-26 22:27:46 +0000"
     },
     "done": true
   },
@@ -6651,39 +6663,21 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
-      "has_item": "2024-12-26 22:32:06 +0000"
+      "has_cod": "2024-12-26 22:27:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+  "minecraft:recipes/food/cooked_cod": {
     "criteria": {
-      "has_salmon": "2024-12-26 22:26:23 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/fir_wood": {
-    "criteria": {
-      "has_log": "2024-12-26 22:43:36 +0000"
+      "has_cod": "2024-12-26 22:27:46 +0000"
     },
     "done": true
   },
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "iron_knife": "2024-12-26 22:31:18 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/fir_planks": {
-    "criteria": {
-      "has_logs": "2024-12-26 22:43:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bone_block": {
-    "criteria": {
-      "has_bone_meal": "2024-12-26 22:32:06 +0000"
     },
     "done": true
   },
@@ -6699,27 +6693,27 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/tree_fertilizer": {
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-26 22:32:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
     "criteria": {
       "has_item": "2024-12-26 22:32:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon": {
+  "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
-      "has_salmon": "2024-12-26 22:26:23 +0000"
+      "has_bone_meal": "2024-12-26 22:32:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_wood": {
+  "create:recipes/misc/crafting/tree_fertilizer": {
     "criteria": {
-      "has_log": "2024-12-26 22:43:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
-    "criteria": {
-      "has_salmon": "2024-12-26 22:26:23 +0000"
+      "has_item": "2024-12-26 22:32:06 +0000"
     },
     "done": true
   },
@@ -6729,15 +6723,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+  "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
-      "has_cod": "2024-12-26 22:27:46 +0000"
+      "has_log": "2024-12-26 22:43:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod": {
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
     "criteria": {
-      "has_cod": "2024-12-26 22:27:46 +0000"
+      "has_log": "2024-12-26 22:43:36 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2024-12-26 22:43:36 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/tools/golden_machete": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-26 22:55:29 +0000"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2024-12-26 22:57:11 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2024-12-26 22:55:53 +0000"
     },
     "done": true
   },
