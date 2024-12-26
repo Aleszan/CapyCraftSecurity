@@ -9144,6 +9144,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_iron": {
+    "criteria": {
+      "requirement": "2024-12-26 04:07:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/shaft": {
     "criteria": {
       "has_item": "2024-12-26 03:42:54 +0000"
@@ -9441,6 +9447,12 @@
   "create:recipes/misc/crafting/kinetics/cogwheel": {
     "criteria": {
       "has_item": "2024-12-26 03:42:54 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2024-12-26 04:08:54 +0000"
     },
     "done": true
   },
