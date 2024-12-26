@@ -9609,6 +9609,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/tame_cockatrice": {
+    "criteria": {
+      "tame_rat": "2024-12-26 01:47:44 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/black_kitchen_sink": {
     "criteria": {
       "has_black_dye": "2024-12-26 01:50:01 +0000"
@@ -9708,12 +9714,6 @@
   "refurbished_furniture:recipes/misc/constructing/warped_dark_ceiling_fan": {
     "criteria": {
       "has_black_dye": "2024-12-26 01:50:01 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/tame_cockatrice": {
-    "criteria": {
-      "tame_rat": "2024-12-26 01:47:44 +0000"
     },
     "done": true
   },
@@ -9951,12 +9951,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2024-12-26 01:50:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/black_candle": {
     "criteria": {
       "has_black_dye": "2024-12-26 01:50:01 +0000"
@@ -9972,6 +9966,12 @@
   "minecraft:recipes/building_blocks/dye_black_wool": {
     "criteria": {
       "has_needed_dye": "2024-12-26 01:50:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-12-26 01:50:05 +0000"
     },
     "done": true
   },
