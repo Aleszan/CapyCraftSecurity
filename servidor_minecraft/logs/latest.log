@@ -1010,3 +1010,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Dec2024 16:06:06.371] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=397, y=66, z=-126} BlockPos{x=397, y=65, z=-125}
 [26Dec2024 16:15:56.398] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [26Dec2024 16:17:09.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] este mensaje es para mantener el servidor activo mientras el admin duerme
+[26Dec2024 16:47:34.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] este mensaje es para mantener el servidor activo mientras el admin duerme
+[26Dec2024 17:01:24.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has made the advancement [Enchanter]

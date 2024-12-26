@@ -8543,6 +8543,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/swords/sword_iron_sword_var": {
+    "criteria": {
+      "has_iron_sword": "2024-12-26 16:44:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2024-12-26 16:16:26 +0000"
@@ -8567,6 +8573,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/glaives/spear_glaive": {
+    "criteria": {
+      "has_the_recipe": "2024-12-26 16:44:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-26 16:16:26 +0000"
@@ -8576,6 +8588,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_crate": {
     "criteria": {
       "has_spruce_planks": "2024-12-26 16:16:26 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/glaives/spear_glaive_vanilla_sword": {
+    "criteria": {
+      "has_iron_sword": "2024-12-26 16:44:14 +0000"
     },
     "done": true
   },
