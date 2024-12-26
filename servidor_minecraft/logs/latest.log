@@ -1212,3 +1212,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Dec2024 22:58:09.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aw> fafa
 [26Dec2024 22:58:51.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw was slain by Zombie
 [26Dec2024 23:07:05.095] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['entity.minecraft.villager.wizards.wizard_merchant'/233903, l='ServerLevel[world]', x=-156.39, y=70.00, z=663.44] died, message: 'entity.minecraft.villager.wizards.wizard_merchant froze to death'
+[26Dec2024 23:14:04.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 has made the advancement [Alex's Caves]
+[26Dec2024 23:15:31.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 was slain by Spider
+[26Dec2024 23:15:37.804] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 lost connection: Timed out
+[26Dec2024 23:15:37.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 left the game
+[26Dec2024 23:15:57.871] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luzbel1t0[/127.150.128.128:39211] logged in with entity id 247312 at (-224.25523678344268, -40.0, 747.8722960663787)
+[26Dec2024 23:15:57.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 joined the game
+[26Dec2024 23:15:57.905] [Server thread/INFO] [Jade/]: Syncing config to Luzbel1t0 (df22fe92-577b-395e-b9ac-6fbd2f188cdf)
+[26Dec2024 23:16:46.675] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 lost connection: Disconnected
+[26Dec2024 23:16:46.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 left the game
+[26Dec2024 23:17:11.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aw> a
+[26Dec2024 23:18:06.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved wrongly!
