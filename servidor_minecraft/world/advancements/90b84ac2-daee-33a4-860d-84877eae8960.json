@@ -8531,6 +8531,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2024-12-26 17:17:44 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:adventure/activate_zombie_horse_trap": {
     "criteria": {
       "friendsandfoes:activate_zombie_horse_trap": "2024-12-26 15:52:19 +0000"
@@ -8600,6 +8606,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_cabinetry": {
     "criteria": {
       "has_spruce_planks": "2024-12-26 16:16:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2024-12-26 17:17:44 +0000"
     },
     "done": true
   },
