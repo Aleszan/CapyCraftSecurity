@@ -3311,6 +3311,7 @@
       "minecraft:spider": "2024-12-21 22:41:01 +0000",
       "minecraft:creeper": "2024-12-23 04:59:01 +0000",
       "minecraft:phantom": "2024-12-25 22:46:08 +0000",
+      "minecraft:zombified_piglin": "2024-12-26 19:53:03 +0000",
       "minecraft:witch": "2024-12-22 23:11:16 +0000",
       "minecraft:cave_spider": "2024-12-23 04:44:43 +0000",
       "minecraft:piglin": "2024-12-26 19:27:59 +0000",
@@ -9978,6 +9979,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
+    "criteria": {
+      "requirement": "2024-12-26 19:43:13 +0000"
+    },
+    "done": true
+  },
   "create_enchantment_industry:experienced_engineer": {
     "criteria": {
       "have_experience_nugget": "2024-12-26 18:55:36 +0000"
@@ -10065,6 +10072,12 @@
   "create_enchantment_industry:recipes/experience_rotor": {
     "criteria": {
       "has_item": "2024-12-26 18:55:36 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2024-12-26 19:43:59 +0000"
     },
     "done": true
   },
