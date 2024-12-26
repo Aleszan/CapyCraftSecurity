@@ -3317,7 +3317,8 @@
       "minecraft:piglin": "2024-12-26 19:27:59 +0000",
       "minecraft:enderman": "2024-12-25 00:30:57 +0000",
       "minecraft:zombie": "2024-12-21 22:27:05 +0000",
-      "minecraft:drowned": "2024-12-21 23:27:19 +0000"
+      "minecraft:drowned": "2024-12-21 23:27:19 +0000",
+      "minecraft:zombie_villager": "2024-12-26 22:25:56 +0000"
     },
     "done": false
   },
@@ -10393,9 +10394,21 @@
     },
     "done": true
   },
+  "create_enchantment_industry:a_shower_experience": {
+    "criteria": {
+      "builtin": "2024-12-26 22:21:42 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/climbing_gear_helmet": {
     "criteria": {
       "has_leather_helmet": "2024-12-26 21:30:37 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2024-12-26 22:21:41 +0000"
     },
     "done": true
   },

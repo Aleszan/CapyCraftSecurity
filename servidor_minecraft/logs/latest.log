@@ -1151,3 +1151,29 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Dec2024 22:17:52.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Afarfa> q
 [26Dec2024 22:18:21.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luzbel1t0> en las 10000 60 100000 hay un pene
 [26Dec2024 22:19:00.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Afarfa> q
+[26Dec2024 22:19:07.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nucaraga> subi
+[26Dec2024 22:19:07.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aw> ven
+[26Dec2024 22:19:12.572] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2138ms or 42 ticks behind
+[26Dec2024 22:19:33.375] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5841ms or 116 ticks behind
+[26Dec2024 22:19:38.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Afarfa> ??
+[26Dec2024 22:19:43.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aw> quedate aca
+[26Dec2024 22:20:22.431] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved wrongly!
+[26Dec2024 22:20:45.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Afarfa> y que hago?
+[26Dec2024 22:21:05.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aw> voy subiendo
+[26Dec2024 22:21:21.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aw> ya
+[26Dec2024 22:21:24.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aw> en el cofre
+[26Dec2024 22:21:27.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aw> hay un item
+[26Dec2024 22:21:34.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aw> que es como un engranaje
+[26Dec2024 22:21:37.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Afarfa> si
+[26Dec2024 22:21:37.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aw> colocalo ahi
+[26Dec2024 22:21:42.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has reached the goal [A Shower "Experience"]
+[26Dec2024 22:22:15.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aw> ahora a rezar que no se rompa y deberia funcar
+[26Dec2024 22:23:36.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aw> la idea es estar alla arriba
+[26Dec2024 22:23:37.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Afarfa> me robastes 4 niveles
+[26Dec2024 22:23:40.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aw> para que se generen bichos
+[26Dec2024 22:26:23.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 has made the advancement [Fishy Business]
+[26Dec2024 22:27:16.434] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=70, y=47, z=29} BlockPos{x=70, y=48, z=30}
+[26Dec2024 22:27:53.875] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=81, y=24, z=56} BlockPos{x=81, y=21, z=59}
+[26Dec2024 22:28:33.125] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga lost connection: Disconnected
+[26Dec2024 22:28:33.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga left the game
+[26Dec2024 22:28:46.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has made the advancement [Hidden in the Depths]

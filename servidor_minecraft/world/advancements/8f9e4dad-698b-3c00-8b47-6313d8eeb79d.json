@@ -10222,6 +10222,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/swords/sword_obsidian_claymore": {
+    "criteria": {
+      "has_base": "2024-12-26 22:26:07 +0000"
+    },
+    "done": true
+  },
   "create_enchantment_industry:experimental": {
     "criteria": {
       "builtin": "2024-12-26 20:21:35 +0000"
