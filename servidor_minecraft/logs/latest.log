@@ -1012,3 +1012,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Dec2024 16:17:09.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] este mensaje es para mantener el servidor activo mientras el admin duerme
 [26Dec2024 16:47:34.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] este mensaje es para mantener el servidor activo mientras el admin duerme
 [26Dec2024 17:01:24.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has made the advancement [Enchanter]
+[26Dec2024 17:28:33.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has reached the goal [A Shower "Experience"]
+[26Dec2024 17:31:36.573] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [lionfishapi:main_channel,create_enchantment_industry:main,cataclysm:main_channel] rejected their client side version number
+[26Dec2024 17:31:36.574] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[26Dec2024 17:31:36.609] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3bcbdb9d[id=<null>,name=Nucaraga,properties={},legacy=false] (/127.64.139.94:59769) lost connection: Connection closed - mismatched mod channel list
+[26Dec2024 17:32:20.699] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@60556fc1[id=<null>,name=Nucaraga,properties={},legacy=false] (/127.64.139.94:60295) lost connection: Disconnected
