@@ -1136,3 +1136,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Dec2024 21:39:40.846] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 lost connection: Disconnected
 [26Dec2024 21:39:40.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 left the game
 [26Dec2024 21:41:09.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga has made the advancement [Defunct Machinery]
+[26Dec2024 21:59:47.170] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved wrongly!
+[26Dec2024 22:05:07.972] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved wrongly!
+[26Dec2024 22:05:10.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved wrongly!
+[26Dec2024 22:06:08.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was blown up by Creeper
+[26Dec2024 22:07:13.525] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luzbel1t0[/127.74.251.44:35775] logged in with entity id 188070 at (-135.94898013068865, 76.0, 675.4990292880087)
+[26Dec2024 22:07:13.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 joined the game
+[26Dec2024 22:07:13.563] [Server thread/INFO] [Jade/]: Syncing config to Luzbel1t0 (df22fe92-577b-395e-b9ac-6fbd2f188cdf)
+[26Dec2024 22:07:20.029] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
