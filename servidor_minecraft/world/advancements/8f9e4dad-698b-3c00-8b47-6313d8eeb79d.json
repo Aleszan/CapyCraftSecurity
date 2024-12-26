@@ -10066,6 +10066,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
+    "criteria": {
+      "requirement": "2024-12-26 21:41:09 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/upgrade_cores/upgrade_core_ember": {
     "criteria": {
       "has_core_specification_item": "2024-12-26 19:56:12 +0000"

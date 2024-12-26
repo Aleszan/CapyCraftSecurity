@@ -10405,6 +10405,12 @@
     },
     "done": true
   },
+  "mcda:recipes/crafting_items/phantom_bones_to_bonemeal": {
+    "criteria": {
+      "has_phantom_bones": "2024-12-26 21:46:43 +0000"
+    },
+    "done": true
+  },
   "create_enchantment_industry:experimental": {
     "criteria": {
       "builtin": "2024-12-26 21:33:07 +0000"
