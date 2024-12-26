@@ -9000,9 +9000,63 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/umbran_planks": {
+    "criteria": {
+      "has_logs": "2024-12-26 03:36:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/chute": {
+    "criteria": {
+      "has_item": "2024-12-26 03:42:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/wrench": {
+    "criteria": {
+      "has_item": "2024-12-26 03:42:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gantry_shaft": {
+    "criteria": {
+      "has_item": "2024-12-26 03:42:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/rope_pulley": {
+    "criteria": {
+      "has_item": "2024-12-26 03:42:54 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_dark_katana": {
     "criteria": {
       "has_base": "2024-12-26 03:23:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/water_wheel": {
+    "criteria": {
+      "has_item": "2024-12-26 03:42:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/large_cogwheel_from_little": {
+    "criteria": {
+      "has_item": "2024-12-26 03:42:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_block": {
+    "criteria": {
+      "has_item": "2024-12-26 03:42:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/wooden_bracket": {
+    "criteria": {
+      "has_item": "2024-12-26 03:42:54 +0000"
     },
     "done": true
   },
@@ -9018,6 +9072,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/belt_connector": {
+    "criteria": {
+      "has_item": "2024-12-26 03:42:54 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/umbran_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-26 03:07:24 +0000"
@@ -9030,9 +9090,63 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/curiosities/minecart_coupling": {
+    "criteria": {
+      "has_item": "2024-12-26 03:42:54 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/umbran_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-26 03:07:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/metal_girder": {
+    "criteria": {
+      "has_item": "2024-12-26 03:42:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/shaft": {
+    "criteria": {
+      "has_item": "2024-12-26 03:42:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/hand_crank": {
+    "criteria": {
+      "has_item": "2024-12-26 03:42:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/turntable": {
+    "criteria": {
+      "has_item": "2024-12-26 03:42:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/andesite_bars_from_andesite_alloy_stonecutting": {
+    "criteria": {
+      "has_andesite_alloy": "2024-12-26 03:42:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/sticker": {
+    "criteria": {
+      "has_item": "2024-12-26 03:42:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/radial_chassis": {
+    "criteria": {
+      "has_item": "2024-12-26 03:42:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/sticky_mechanical_piston": {
+    "criteria": {
+      "has_item": "2024-12-26 03:42:54 +0000"
     },
     "done": true
   },
@@ -9042,9 +9156,57 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/goggles": {
+    "criteria": {
+      "has_item": "2024-12-26 03:42:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_block": {
+    "criteria": {
+      "has_item": "2024-12-26 03:42:54 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/umbran_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-26 03:07:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/display_board": {
+    "criteria": {
+      "has_item": "2024-12-26 03:42:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/piston_extension_pole": {
+    "criteria": {
+      "has_item": "2024-12-26 03:42:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/andesite_scaffolding_from_andesite_alloy_stonecutting": {
+    "criteria": {
+      "has_andesite_alloy": "2024-12-26 03:42:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/speedometer": {
+    "criteria": {
+      "has_item": "2024-12-26 03:42:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/cuckoo_clock": {
+    "criteria": {
+      "has_item": "2024-12-26 03:42:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/analog_lever": {
+    "criteria": {
+      "has_item": "2024-12-26 03:42:54 +0000"
     },
     "done": true
   },
@@ -9054,9 +9216,21 @@
     },
     "done": true
   },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2024-12-26 03:42:54 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/umbran_stairs": {
     "criteria": {
       "has_planks": "2024-12-26 03:07:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/cart_assembler": {
+    "criteria": {
+      "has_item": "2024-12-26 03:42:54 +0000"
     },
     "done": true
   },
@@ -9066,9 +9240,69 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/umbran_wood": {
+    "criteria": {
+      "has_log": "2024-12-26 03:36:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/filter": {
+    "criteria": {
+      "has_item": "2024-12-26 03:42:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/white_sail": {
+    "criteria": {
+      "has_item": "2024-12-26 03:42:54 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/pine_planks": {
     "criteria": {
       "has_logs": "2024-12-26 02:59:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/clipboard": {
+    "criteria": {
+      "has_item": "2024-12-26 03:42:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/linear_chassis": {
+    "criteria": {
+      "has_item": "2024-12-26 03:42:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/andesite_tunnel": {
+    "criteria": {
+      "has_item": "2024-12-26 03:42:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/windmill_bearing": {
+    "criteria": {
+      "has_item": "2024-12-26 03:42:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/basin": {
+    "criteria": {
+      "has_item": "2024-12-26 03:42:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/large_cogwheel": {
+    "criteria": {
+      "has_item": "2024-12-26 03:42:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/andesite_funnel": {
+    "criteria": {
+      "has_item": "2024-12-26 03:42:54 +0000"
     },
     "done": true
   },
@@ -9084,9 +9318,39 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/mechanical_mixer": {
+    "criteria": {
+      "has_item": "2024-12-26 03:42:54 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/pine_wood": {
     "criteria": {
       "has_log": "2024-12-26 02:59:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2024-12-26 03:43:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/andesite_ladder_from_andesite_alloy_stonecutting": {
+    "criteria": {
+      "has_andesite_alloy": "2024-12-26 03:42:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/cogwheel": {
+    "criteria": {
+      "has_item": "2024-12-26 03:42:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/contraption_controls": {
+    "criteria": {
+      "has_item": "2024-12-26 03:42:54 +0000"
     },
     "done": true
   },
@@ -9099,6 +9363,12 @@
   "mcdw:recipes/daggers/dagger_shear_dagger": {
     "criteria": {
       "has_shears": "2024-12-26 02:53:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/metal_bracket": {
+    "criteria": {
+      "has_item": "2024-12-26 03:42:54 +0000"
     },
     "done": true
   },

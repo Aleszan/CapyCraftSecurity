@@ -927,3 +927,6 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 Skibidi king who gives out blumpkins
 Edging and gooning and learning to munt
 Dripping cheese all over my lunch
+[26Dec2024 03:41:10.806] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xDogSaur[/127.40.116.104:40735] logged in with entity id 28303 at (311.51264891033185, 63.8125, -38.19999998807907)
+[26Dec2024 03:41:10.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur joined the game
+[26Dec2024 03:41:11.017] [Server thread/INFO] [Jade/]: Syncing config to xDogSaur (84e914a5-d16e-3dd5-bfa9-e9048641639a)
