@@ -11843,6 +11843,12 @@
     },
     "done": true
   },
+  "create:funnel": {
+    "criteria": {
+      "0": "2024-12-26 06:18:10 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/hammers/hammer_gravity": {
     "criteria": {
       "has_anvil": "2024-12-26 05:00:55 +0000"

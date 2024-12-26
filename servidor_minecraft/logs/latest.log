@@ -2671,3 +2671,24 @@ Dripping cheese all over my lunch
 [26Dec2024 05:56:47.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
 [26Dec2024 06:01:57.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
 [26Dec2024 06:04:30.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[26Dec2024 06:12:10.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[26Dec2024 06:12:25.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 64 [Bottle o' Enchanting] to xDogSaur]
+[26Dec2024 06:12:30.842] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! -15.347252944862106,-4.573219523785596,-10.2461943328357
+[26Dec2024 06:12:38.743] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[26Dec2024 06:12:48.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 64 [Bottle o' Enchanting] to xDogSaur]
+[26Dec2024 06:13:58.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[26Dec2024 06:15:15.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[26Dec2024 06:15:53.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[26Dec2024 06:17:23.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[26Dec2024 06:18:07.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[26Dec2024 06:19:18.969] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! -16.414359369437612,2.0691403119601546,-7.4883054626342584
+[26Dec2024 06:19:27.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! -15.554573088239863,-5.075722856202461,-6.894634122094146
+[26Dec2024 06:19:35.121] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2069ms or 41 ticks behind
+[26Dec2024 06:20:35.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga has made the advancement [Surge Protector]
+[26Dec2024 06:23:09.826] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/99470, l='ServerLevel[world]', x=311.54, y=62.90, z=-26.82] died, message: 'Cleric was slain by Zombie'
+[26Dec2024 06:24:24.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[26Dec2024 06:27:30.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[26Dec2024 06:30:03.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[26Dec2024 06:30:56.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Nucaraga]
+[26Dec2024 06:31:04.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga has made the advancement [Take Aim]
+[26Dec2024 06:31:19.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was shot by xDogSaur
