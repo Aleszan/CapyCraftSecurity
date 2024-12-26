@@ -1043,3 +1043,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Dec2024 18:14:46.490] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/95099, l='ServerLevel[world]', x=466.50, y=60.00, z=-140.50]
 [26Dec2024 18:19:45.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga fell from a high place
 [26Dec2024 18:23:09.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was blown up by Creeper
+[26Dec2024 18:29:27.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was slain by Zombie
+[26Dec2024 18:31:46.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was slain by Zombie
+[26Dec2024 18:33:04.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was slain by Skeleton
