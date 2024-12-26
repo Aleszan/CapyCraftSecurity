@@ -2661,3 +2661,8 @@ Dripping cheese all over my lunch
 [26Dec2024 05:23:25.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa left the game
 [26Dec2024 05:29:39.269] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=372, y=65, z=43} BlockPos{x=372, y=63, z=45}
 [26Dec2024 05:29:43.124] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=372, y=66, z=44} BlockPos{x=372, y=67, z=44}
+[26Dec2024 05:31:45.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Removed effect Haste from xDogSaur]
+[26Dec2024 05:36:07.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> a
+[26Dec2024 05:36:19.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> reik chupalo
+[26Dec2024 05:37:53.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[26Dec2024 05:40:34.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
