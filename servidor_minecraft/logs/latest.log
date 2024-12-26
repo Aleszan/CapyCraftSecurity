@@ -1082,3 +1082,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Dec2024 20:01:40.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga has made the advancement [Local Brewery]
 [26Dec2024 20:03:48.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was slain by Zombie
 [26Dec2024 20:04:32.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was slain by Zombie
+[26Dec2024 20:06:42.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga has reached the goal [Zombie Doctor]
+[26Dec2024 20:09:16.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa was slain by Zombified Piglin
+[26Dec2024 20:10:09.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa was slain by Piglin
+[26Dec2024 20:11:07.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa tried to swim in lava
+[26Dec2024 20:12:04.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa was slain by Piglin
+[26Dec2024 20:14:00.292] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.

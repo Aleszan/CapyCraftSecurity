@@ -10264,6 +10264,12 @@
     },
     "done": true
   },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2024-12-26 20:06:42 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/climbing_gear_leggings": {
     "criteria": {
       "has_leather_leggings": "2024-12-26 18:10:03 +0000"
