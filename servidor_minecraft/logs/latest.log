@@ -1028,3 +1028,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Dec2024 17:52:06.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 joined the game
 [26Dec2024 17:52:06.793] [Server thread/INFO] [Jade/]: Syncing config to Luzbel1t0 (df22fe92-577b-395e-b9ac-6fbd2f188cdf)
 [26Dec2024 17:52:18.953] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2219ms or 44 ticks behind
+[26Dec2024 17:52:40.282] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6348ms or 126 ticks behind
+[26Dec2024 17:53:33.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luzbel1t0> Llamen al mejor ingeniero que me tiene miedo
+[26Dec2024 17:53:44.484] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[26Dec2024 17:54:04.067] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4584ms or 91 ticks behind
+[26Dec2024 17:54:17.701] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 lost connection: Disconnected
+[26Dec2024 17:54:17.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 left the game
+[26Dec2024 17:54:56.899] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw lost connection: Disconnected
+[26Dec2024 17:54:56.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw left the game
+[26Dec2024 17:55:19.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga has made the advancement [Spirit Taking]
+[26Dec2024 17:57:13.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga has reached the goal [A Shower "Experience"]
+[26Dec2024 18:01:28.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was slain by Zombie
+[26Dec2024 18:02:50.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was slain by Zombie
