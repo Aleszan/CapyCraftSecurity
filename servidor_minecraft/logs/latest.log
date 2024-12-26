@@ -1223,3 +1223,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Dec2024 23:16:46.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 left the game
 [26Dec2024 23:17:11.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aw> a
 [26Dec2024 23:18:06.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved wrongly!
+[26Dec2024 23:25:16.272] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luzbel1t0[/127.150.128.128:48637] logged in with entity id 250627 at (-224.25523678344268, -40.0, 747.8722960663787)
+[26Dec2024 23:25:16.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 joined the game
+[26Dec2024 23:25:16.297] [Server thread/INFO] [Jade/]: Syncing config to Luzbel1t0 (df22fe92-577b-395e-b9ac-6fbd2f188cdf)
