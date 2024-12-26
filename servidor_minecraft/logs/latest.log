@@ -911,3 +911,12 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [26Dec2024 03:16:52.056] [Server thread/INFO] [Jade/]: Syncing config to xDogSaur (84e914a5-d16e-3dd5-bfa9-e9048641639a)
 [26Dec2024 03:17:22.024] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xDogSaur lost connection: Timed out
 [26Dec2024 03:17:22.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur left the game
+[26Dec2024 03:26:17.126] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xDogSaur[/127.40.116.104:54625] logged in with entity id 25035 at (311.51264891033185, 63.8125, -38.19999998807907)
+[26Dec2024 03:26:17.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur joined the game
+[26Dec2024 03:26:17.446] [Server thread/INFO] [Jade/]: Syncing config to xDogSaur (84e914a5-d16e-3dd5-bfa9-e9048641639a)
+[26Dec2024 03:26:31.419] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[26Dec2024 03:26:47.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was blasted by aw's ray of frost
+[26Dec2024 03:26:54.257] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7854ms or 157 ticks behind
+[26Dec2024 03:27:02.338] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xDogSaur lost connection: Timed out
+[26Dec2024 03:27:02.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur left the game
+[26Dec2024 03:27:16.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was slain by aw

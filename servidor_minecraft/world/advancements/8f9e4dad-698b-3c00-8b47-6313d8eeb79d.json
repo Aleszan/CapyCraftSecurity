@@ -9000,9 +9000,21 @@
     },
     "done": true
   },
+  "mcdw:recipes/swords/sword_dark_katana": {
+    "criteria": {
+      "has_base": "2024-12-26 03:23:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
       "has_netherite_scrap": "2024-12-26 02:51:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-12-26 03:15:27 +0000"
     },
     "done": true
   },
@@ -9075,6 +9087,12 @@
   "biomesoplenty:recipes/building_blocks/pine_wood": {
     "criteria": {
       "has_log": "2024-12-26 02:59:59 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_bone_cudgel": {
+    "criteria": {
+      "has_bone_block": "2024-12-26 03:15:27 +0000"
     },
     "done": true
   },
