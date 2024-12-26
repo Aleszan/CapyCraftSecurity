@@ -9966,6 +9966,12 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/decorations/blackstone_blast_furnace": {
+    "criteria": {
+      "has_iron": "2024-12-26 19:00:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/gearbox": {
     "criteria": {
       "has_item": "2024-12-26 18:24:37 +0000"
@@ -9990,6 +9996,12 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/tools/iron_machete": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-26 19:00:06 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/goat_gear_leggings": {
     "criteria": {
       "has_leather_leggings": "2024-12-26 18:10:03 +0000"
@@ -10011,6 +10023,12 @@
   "create:recipes/misc/crafting/materials/experience_block": {
     "criteria": {
       "has_item": "2024-12-26 18:09:25 +0000"
+    },
+    "done": true
+  },
+  "create:belt": {
+    "criteria": {
+      "0": "2024-12-26 18:54:41 +0000"
     },
     "done": true
   },
