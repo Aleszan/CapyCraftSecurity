@@ -4,7 +4,7 @@
 	["Mob Settings"."Chorusling Settings"]
 		#Multiplies damage dealt by Chorusling
 		#Range: 0.0 ~ 100.0
-		"Chorusling Damage Multiplier" = 1.5
+		"Chorusling Damage Multiplier" = 2.0
 		#Multiplies health of Chorusling
 		#Range: 0.0 ~ 100.0
 		"Chorusling Health Multiplier" = 3.0
@@ -12,7 +12,7 @@
 	["Mob Settings"."Endersent Settings"]
 		#Multiplies damage dealt by Endersent
 		#Range: 0.0 ~ 100.0
-		"Endersent Damage Multiplier" = 1.5
+		"Endersent Damage Multiplier" = 2.0
 		#Multiplies health of Endersent
 		#Range: 0.0 ~ 100.0
 		"Endersent Health Multiplier" = 3.0
@@ -20,7 +20,7 @@
 	["Mob Settings"."Spiky Worm Settings"]
 		#Multiplies damage dealt by Spiky Worm
 		#Range: 0.0 ~ 100.0
-		"Spiky Worm Damage Multiplier" = 1.5
+		"Spiky Worm Damage Multiplier" = 2.0
 		#Multiplies health of Spiky Worm
 		#Range: 0.0 ~ 100.0
 		"Spiky Worm Health Multiplier" = 3.0
@@ -28,7 +28,7 @@
 	["Mob Settings"."Ambusher Settings"]
 		#Multiplies damage dealt by Ambusher
 		#Range: 0.0 ~ 100.0
-		"Ambusher Damage Multiplier" = 1.5
+		"Ambusher Damage Multiplier" = 2.0
 		#Multiplies health of Ambusher
 		#Range: 0.0 ~ 100.0
 		"Ambusher Health Multiplier" = 3.0
@@ -38,7 +38,7 @@
 	["Mob Settings"."Ancient Guardian Settings"]
 		#Multiplies damage dealt by Ancient Guardian
 		#Range: 0.0 ~ 100.0
-		"Ancient Guardian Damage Multiplier" = 1.5
+		"Ancient Guardian Damage Multiplier" = 2.0
 		#Multiplies health of Ancient Guardian
 		#Range: 0.0 ~ 100.0
 		"Ancient Guardian Health Multiplier" = 3.0
@@ -50,7 +50,7 @@
 	["Mob Settings"."Haunted Knight Settings"]
 		#Multiplies damage dealt by Haunted Knight
 		#Range: 0.0 ~ 100.0
-		"Haunted Knight Damage Multiplier" = 1.5
+		"Haunted Knight Damage Multiplier" = 2.0
 		#Multiplies health of Haunted Knight
 		#Range: 0.0 ~ 100.0
 		"Haunted Knight Health Multiplier" = 3.0
@@ -60,7 +60,7 @@
 	["Mob Settings"."Haunted Guard Settings"]
 		#Multiplies damage dealt by Haunted Guard
 		#Range: 0.0 ~ 100.0
-		"Haunted Guard Damage Multiplier" = 1.5
+		"Haunted Guard Damage Multiplier" = 2.0
 		#Multiplies health of Haunted Guard
 		#Range: 0.0 ~ 100.0
 		"Haunted Guard Health Multiplier" = 3.0
@@ -70,7 +70,7 @@
 	["Mob Settings"."Posessed Paladin Settings"]
 		#Multiplies damage dealt by Posessed Paladin
 		#Range: 0.0 ~ 100.0
-		"Posessed Paladin Damage Multiplier" = 1.5
+		"Posessed Paladin Damage Multiplier" = 2.0
 		#Multiplies health of Posessed Paladin. §cNOTE: Disabling This may make the bossfight less fun.
 		#Range: 0.0 ~ 100.0
 		"Posessed Paladin Health Multiplier" = 3.0
@@ -82,7 +82,7 @@
 	["Mob Settings"."Overgrown Colosuss Settings"]
 		#Multiplies damage dealt by Overgrown Colosuss
 		#Range: 0.0 ~ 100.0
-		"Overgrown Colosuss Damage Multiplier" = 1.5
+		"Overgrown Colosuss Damage Multiplier" = 2.0
 		#Multiplies health of Overgrown Colosuss
 		#Range: 0.0 ~ 100.0
 		"Overgrown Colosuss Health Multiplier" = 3.0
@@ -94,7 +94,7 @@
 	["Mob Settings"."Mossy Golem Settings"]
 		#Multiplies damage dealt by Mossy Golem
 		#Range: 0.0 ~ 100.0
-		"Mossy Golem Damage Multiplier" = 1.5
+		"Mossy Golem Damage Multiplier" = 2.0
 		#Multiplies health of Mossy Golem
 		#Range: 0.0 ~ 100.0
 		"Mossy Golem Health Multiplier" = 3.0
@@ -104,7 +104,7 @@
 	["Mob Settings"."Cloud Golem Settings"]
 		#Multiplies damage dealt by Cloud Golem
 		#Range: 0.0 ~ 100.0
-		"Cloud Golem Damage Multiplier" = 1.5
+		"Cloud Golem Damage Multiplier" = 2.0
 		#Multiplies health of Cloud Golem
 		#Range: 0.0 ~ 100.0
 		"Cloud Golem Health Multiplier" = 3.0
@@ -119,7 +119,7 @@
 	["Mob Settings"."Frostbitten Golem Settings"]
 		#Multiplies damage dealt by Frostbitten Golem
 		#Range: 0.0 ~ 100.0
-		"Frostbitten Golem Damage Multiplier" = 1.5
+		"Frostbitten Golem Damage Multiplier" = 2.0
 		#Multiplies health of Frostbitten Golem
 		#Range: 0.0 ~ 100.0
 		"Frostbitten Golem Health Multiplier" = 3.0
@@ -129,13 +129,13 @@
 	["Mob Settings"."Dune Sentinel Settings"]
 		#Multiplies damage dealt by Dune Sentinel
 		#Range: 0.0 ~ 100.0
-		"Dune Sentinel Damage Multiplier" = 1.5
+		"Dune Sentinel Damage Multiplier" = 2.0
 		#Multiplies health of Dune Sentinel
 		#Range: 0.0 ~ 100.0
 		"Dune Sentinel Health Multiplier" = 3.0
 		#Multiplies damage dealt by Bomber
 		#Range: 0.0 ~ 100.0
-		"Bomber Damage Multiplier" = 1.5
+		"Bomber Damage Multiplier" = 2.0
 		#Multiplies health of Bomber
 		#Range: 0.0 ~ 100.0
 		"Bomber Health Multiplier" = 3.0
@@ -143,7 +143,7 @@
 	["Mob Settings"."Skeletosaurus Settings"]
 		#Multiplies damage dealt by Skeletosaurus
 		#Range: 0.0 ~ 100.0
-		"Skeletosaurus Damage Multiplier" = 1.5
+		"Skeletosaurus Damage Multiplier" = 2.0
 		#Multiplies health of Skeletosaurus
 		#Range: 0.0 ~ 100.0
 		"Skeletosaurus Health Multiplier" = 3.0
@@ -161,7 +161,7 @@
 	["Mob Settings"."Warped Fungussus Settings"]
 		#Multiplies damage dealt by Warped Fungussus
 		#Range: 0.0 ~ 100.0
-		"Warped Fungussus Damage Multiplier" = 1.5
+		"Warped Fungussus Damage Multiplier" = 2.0
 		#Multiplies health of Warped Fungussus
 		#Range: 0.0 ~ 100.0
 		"Warped Fungussus Health Multiplier" = 3.0
@@ -169,7 +169,7 @@
 	["Mob Settings"."Withered Abomination Settings"]
 		#Multiplies damage dealt by Withered Abomination
 		#Range: 0.0 ~ 100.0
-		"Withered Abomination Damage Multiplier" = 1.5
+		"Withered Abomination Damage Multiplier" = 2.0
 		#Multiplies health of Withered Abomination
 		#Range: 0.0 ~ 100.0
 		"Withered Abomination Health Multiplier" = 3.0
@@ -179,7 +179,7 @@
 	["Mob Settings"."Shulker Mimic Settings"]
 		#Multiplies damage dealt by Shulker Mimic
 		#Range: 0.0 ~ 100.0
-		"Shulker Mimic Damage Multiplier" = 1.5
+		"Shulker Mimic Damage Multiplier" = 2.0
 		#Multiplies health of Shulker Mimic
 		#Range: 0.0 ~ 100.0
 		"Shulker Mimic Health Multiplier" = 3.0
