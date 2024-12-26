@@ -1088,3 +1088,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Dec2024 20:11:07.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa tried to swim in lava
 [26Dec2024 20:12:04.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa was slain by Piglin
 [26Dec2024 20:14:00.292] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 20:28:20.812] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luzbel1t0[/127.185.20.163:49501] logged in with entity id 148657 at (-97.48197694946515, 64.0, 627.7906640520479)
+[26Dec2024 20:28:20.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 joined the game
+[26Dec2024 20:28:20.924] [Server thread/INFO] [Jade/]: Syncing config to Luzbel1t0 (df22fe92-577b-395e-b9ac-6fbd2f188cdf)
+[26Dec2024 20:28:27.114] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2281ms or 45 ticks behind
+[26Dec2024 20:32:01.112] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 moved too quickly! 5.691285659690664,0.0,8.622187808796525
