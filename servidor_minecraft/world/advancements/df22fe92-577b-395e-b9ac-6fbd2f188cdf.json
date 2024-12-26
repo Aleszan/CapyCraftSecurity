@@ -6007,6 +6007,30 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-26 20:58:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-26 21:00:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_saw": {
+    "criteria": {
+      "has_item": "2024-12-26 21:08:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2024-12-26 21:12:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/chute": {
     "criteria": {
       "has_item": "2024-12-26 20:40:58 +0000"
@@ -6025,9 +6049,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/mechanical_press": {
+    "criteria": {
+      "has_item": "2024-12-26 21:08:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/rope_pulley": {
     "criteria": {
       "has_item": "2024-12-26 20:40:58 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_great_hammer": {
+    "criteria": {
+      "has_iron_block": "2024-12-26 21:04:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/andesite_door": {
+    "criteria": {
+      "has_item": "2024-12-26 21:08:16 +0000"
     },
     "done": true
   },
@@ -6043,9 +6085,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/portable_storage_interface": {
+    "criteria": {
+      "has_item": "2024-12-26 21:08:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/andesite_alloy_block": {
     "criteria": {
       "has_item": "2024-12-26 20:40:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2024-12-26 21:11:16 +0000"
     },
     "done": true
   },
@@ -6055,9 +6109,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/weighted_ejector": {
+    "criteria": {
+      "has_item": "2024-12-26 21:08:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/large_water_wheel": {
     "criteria": {
       "has_item": "2024-12-26 20:41:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-26 21:08:02 +0000"
     },
     "done": true
   },
@@ -6067,15 +6133,45 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/mechanical_plough": {
+    "criteria": {
+      "has_item": "2024-12-26 21:08:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/belt_connector": {
     "criteria": {
       "has_item": "2024-12-26 20:40:58 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-26 21:08:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_harvester": {
+    "criteria": {
+      "has_item": "2024-12-26 21:08:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/curiosities/minecart_coupling": {
     "criteria": {
       "has_item": "2024-12-26 20:40:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/clutch": {
+    "criteria": {
+      "has_item": "2024-12-26 21:08:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/depot": {
+    "criteria": {
+      "has_item": "2024-12-26 21:08:16 +0000"
     },
     "done": true
   },
@@ -6097,9 +6193,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-26 21:04:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/turntable": {
     "criteria": {
       "has_item": "2024-12-26 20:40:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/encased_chain_drive": {
+    "criteria": {
+      "has_item": "2024-12-26 21:08:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_drill": {
+    "criteria": {
+      "has_item": "2024-12-26 21:08:16 +0000"
     },
     "done": true
   },
@@ -6115,9 +6229,21 @@
     },
     "done": true
   },
+  "mcdw:recipes/double_axes/double_axe_double": {
+    "criteria": {
+      "has_iron_block": "2024-12-26 21:04:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/radial_chassis": {
     "criteria": {
       "has_item": "2024-12-26 20:40:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_piston": {
+    "criteria": {
+      "has_item": "2024-12-26 21:08:16 +0000"
     },
     "done": true
   },
@@ -6193,6 +6319,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/mechanical_roller": {
+    "criteria": {
+      "has_item": "2024-12-26 21:08:16 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2024-12-26 21:08:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/filter": {
     "criteria": {
       "has_item": "2024-12-26 20:40:58 +0000"
@@ -6202,6 +6340,12 @@
   "create:recipes/misc/crafting/kinetics/white_sail": {
     "criteria": {
       "has_item": "2024-12-26 20:40:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_bearing": {
+    "criteria": {
+      "has_item": "2024-12-26 21:08:16 +0000"
     },
     "done": true
   },
@@ -6217,9 +6361,45 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/gantry_carriage": {
+    "criteria": {
+      "has_item": "2024-12-26 21:08:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_the_recipe": "2024-12-26 21:00:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/andesite_tunnel": {
     "criteria": {
       "has_item": "2024-12-26 20:40:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-26 21:00:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/millstone": {
+    "criteria": {
+      "has_item": "2024-12-26 21:08:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-26 21:00:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2024-12-26 20:58:29 +0000"
     },
     "done": true
   },
@@ -6247,6 +6427,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-26 21:08:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_mixer": {
     "criteria": {
       "has_item": "2024-12-26 20:40:58 +0000"
@@ -6271,9 +6457,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2024-12-26 20:58:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
+    "criteria": {
+      "has_item": "2024-12-26 21:11:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/metal_bracket": {
     "criteria": {
       "has_item": "2024-12-26 20:40:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-26 21:04:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearshift": {
+    "criteria": {
+      "has_item": "2024-12-26 21:08:16 +0000"
     },
     "done": true
   },

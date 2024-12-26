@@ -8521,9 +8521,9 @@
     },
     "done": true
   },
-  "create_enchantment_industry:a_shower_experience": {
+  "friendsandfoes:adventure/activate_zombie_horse_trap": {
     "criteria": {
-      "builtin": "2024-12-26 17:28:33 +0000"
+      "friendsandfoes:activate_zombie_horse_trap": "2024-12-26 15:52:19 +0000"
     },
     "done": true
   },
@@ -8539,27 +8539,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_chestplate": "2024-12-26 17:17:44 +0000"
-    },
-    "done": true
-  },
-  "friendsandfoes:adventure/activate_zombie_horse_trap": {
-    "criteria": {
-      "friendsandfoes:activate_zombie_horse_trap": "2024-12-26 15:52:19 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_storage_cabinet": {
     "criteria": {
       "has_spruce_planks": "2024-12-26 16:16:26 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/swords/sword_iron_sword_var": {
-    "criteria": {
-      "has_iron_sword": "2024-12-26 16:44:14 +0000"
     },
     "done": true
   },
@@ -8587,12 +8569,6 @@
     },
     "done": true
   },
-  "mcdw:recipes/glaives/spear_glaive": {
-    "criteria": {
-      "has_the_recipe": "2024-12-26 16:44:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-26 16:16:26 +0000"
@@ -8605,33 +8581,15 @@
     },
     "done": true
   },
-  "mcdw:recipes/glaives/spear_glaive_vanilla_sword": {
-    "criteria": {
-      "has_iron_sword": "2024-12-26 16:44:14 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_cabinetry": {
     "criteria": {
       "has_spruce_planks": "2024-12-26 16:16:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_chestplate": "2024-12-26 17:17:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2024-12-26 16:16:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2024-12-26 17:01:24 +0000"
     },
     "done": true
   },
@@ -8644,12 +8602,6 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_cutting_board": {
     "criteria": {
       "has_spruce_planks": "2024-12-26 16:16:26 +0000"
-    },
-    "done": true
-  },
-  "nethersdelight:recipes/tools/diamond_machete": {
-    "criteria": {
-      "has_diamond": "2024-12-26 17:33:17 +0000"
     },
     "done": true
   },
@@ -8692,6 +8644,54 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_drawer": {
     "criteria": {
       "has_spruce_planks": "2024-12-26 16:16:26 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_iron_sword_var": {
+    "criteria": {
+      "has_iron_sword": "2024-12-26 16:44:14 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/glaives/spear_glaive": {
+    "criteria": {
+      "has_the_recipe": "2024-12-26 16:44:14 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/glaives/spear_glaive_vanilla_sword": {
+    "criteria": {
+      "has_iron_sword": "2024-12-26 16:44:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-26 17:01:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2024-12-26 17:17:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2024-12-26 17:17:44 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:a_shower_experience": {
+    "criteria": {
+      "builtin": "2024-12-26 17:28:33 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/tools/diamond_machete": {
+    "criteria": {
+      "has_diamond": "2024-12-26 17:33:17 +0000"
     },
     "done": true
   },
