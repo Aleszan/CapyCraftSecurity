@@ -9970,9 +9970,27 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/tools/golden_machete": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-26 20:00:57 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/living_vines_armor_leggings": {
     "criteria": {
       "has_weeping_vines": "2024-12-26 19:42:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-26 19:56:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-12-26 20:01:40 +0000"
     },
     "done": true
   },
@@ -10036,9 +10054,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-26 19:56:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-26 19:53:46 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_ember": {
+    "criteria": {
+      "has_core_specification_item": "2024-12-26 19:56:12 +0000"
     },
     "done": true
   },
@@ -10123,6 +10153,12 @@
   "create:recipes/misc/crafting/materials/experience_nugget_from_block": {
     "criteria": {
       "has_item": "2024-12-26 18:09:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-26 19:56:12 +0000"
     },
     "done": true
   },

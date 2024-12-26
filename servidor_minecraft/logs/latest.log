@@ -1078,3 +1078,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Dec2024 19:43:13.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Defunct Machinery]
 [26Dec2024 19:43:59.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Magery]
 [26Dec2024 19:47:23.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga has completed the challenge [Return to Sender]
+[26Dec2024 19:55:34.036] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[26Dec2024 20:01:40.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga has made the advancement [Local Brewery]
+[26Dec2024 20:03:48.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was slain by Zombie
+[26Dec2024 20:04:32.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was slain by Zombie
