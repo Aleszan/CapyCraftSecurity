@@ -930,3 +930,28 @@ Dripping cheese all over my lunch
 [26Dec2024 03:41:10.806] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xDogSaur[/127.40.116.104:40735] logged in with entity id 28303 at (311.51264891033185, 63.8125, -38.19999998807907)
 [26Dec2024 03:41:10.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur joined the game
 [26Dec2024 03:41:11.017] [Server thread/INFO] [Jade/]: Syncing config to xDogSaur (84e914a5-d16e-3dd5-bfa9-e9048641639a)
+[26Dec2024 03:48:56.311] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[26Dec2024 03:49:14.925] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[26Dec2024 03:49:35.480] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5578ms or 111 ticks behind
+[26Dec2024 03:49:53.584] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3132ms or 62 ticks behind
+[26Dec2024 03:50:11.725] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3173ms or 63 ticks behind
+[26Dec2024 03:50:28.850] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2147ms or 42 ticks behind
+[26Dec2024 03:50:33.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[26Dec2024 03:50:46.194] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2392ms or 47 ticks behind
+[26Dec2024 03:50:52.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[26Dec2024 03:51:08.009] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6857ms or 137 ticks behind
+[26Dec2024 03:51:23.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Removed effect Haste from xDogSaur]
+[26Dec2024 03:51:28.387] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5385ms or 107 ticks behind
+[26Dec2024 03:51:53.333] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9981ms or 199 ticks behind
+[26Dec2024 03:52:14.821] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6518ms or 130 ticks behind
+[26Dec2024 03:52:36.980] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7178ms or 143 ticks behind
+[26Dec2024 03:52:56.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4679ms or 93 ticks behind
+[26Dec2024 03:53:16.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga has completed the challenge [It's Purple!]
+[26Dec2024 03:53:17.742] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6139ms or 122 ticks behind
+[26Dec2024 03:53:57.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[26Dec2024 03:55:10.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[26Dec2024 03:55:47.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was blasted by aw's ray of frost
+[26Dec2024 03:56:48.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[26Dec2024 03:56:55.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[26Dec2024 03:56:55.391] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3189ms or 63 ticks behind
+[26Dec2024 03:57:02.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was shot by xDogSaur
