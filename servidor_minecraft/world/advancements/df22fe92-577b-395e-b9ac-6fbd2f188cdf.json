@@ -6061,6 +6061,12 @@
     },
     "done": true
   },
+  "mcda:recipes/upgrade_cores/upgrade_core_oceanic": {
+    "criteria": {
+      "has_core_specification_item": "2024-12-26 20:45:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/belt_connector": {
     "criteria": {
       "has_item": "2024-12-26 20:40:58 +0000"
@@ -6172,6 +6178,12 @@
   "create:andesite_alloy": {
     "criteria": {
       "0": "2024-12-26 20:40:58 +0000"
+    },
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2024-12-26 20:45:46 +0000"
     },
     "done": true
   },
