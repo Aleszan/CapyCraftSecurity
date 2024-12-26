@@ -2301,12 +2301,14 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2024-12-22 23:05:28 +0000",
+      "cooked_cod": "2024-12-26 22:30:48 +0000",
       "bread": "2024-12-22 23:30:35 +0000",
       "golden_apple": "2024-12-25 06:08:46 +0000",
       "rotten_flesh": "2024-12-23 00:00:14 +0000",
       "melon_slice": "2024-12-23 00:16:23 +0000",
       "golden_carrot": "2024-12-23 03:00:14 +0000",
       "cooked_chicken": "2024-12-25 00:03:29 +0000",
+      "cooked_salmon": "2024-12-26 22:30:42 +0000",
       "carrot": "2024-12-23 00:04:38 +0000"
     },
     "done": false
@@ -6637,15 +6639,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-26 22:32:06 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-26 22:27:46 +0000"
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-12-26 22:32:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2024-12-26 22:26:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2024-12-26 22:31:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-26 22:32:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2024-12-26 22:31:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2024-12-26 22:31:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-12-26 22:32:06 +0000"
     },
     "done": true
   },
@@ -6658,6 +6702,12 @@
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2024-12-26 22:26:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2024-12-26 22:32:06 +0000"
     },
     "done": true
   },

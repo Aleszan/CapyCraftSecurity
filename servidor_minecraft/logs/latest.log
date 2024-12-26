@@ -1177,3 +1177,16 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Dec2024 22:28:33.125] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga lost connection: Disconnected
 [26Dec2024 22:28:33.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga left the game
 [26Dec2024 22:28:46.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has made the advancement [Hidden in the Depths]
+[26Dec2024 22:29:42.232] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[26Dec2024 22:30:00.071] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2887ms or 57 ticks behind
+[26Dec2024 22:31:18.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 has made the advancement [Hunt and Gather]
+[26Dec2024 22:32:01.070] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/188093, l='ServerLevel[world]', x=-158.50, y=70.00, z=661.46] died, message: 'Armorer froze to death'
+[26Dec2024 22:33:46.145] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[26Dec2024 22:34:12.639] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[26Dec2024 22:35:19.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[26Dec2024 22:35:45.510] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11376ms or 227 ticks behind
+[26Dec2024 22:36:09.800] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9317ms or 186 ticks behind
+[26Dec2024 22:36:35.274] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10490ms or 209 ticks behind
+[26Dec2024 22:36:53.410] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3176ms or 63 ticks behind
+[26Dec2024 22:37:22.447] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[26Dec2024 22:37:54.749] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind

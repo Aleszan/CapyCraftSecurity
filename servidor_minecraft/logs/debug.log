@@ -24553,3 +24553,110 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Dec2024 22:29:30.294] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
 [26Dec2024 22:29:30.295] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Dec2024 22:29:30.320] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 22:29:42.232] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[26Dec2024 22:30:00.071] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2887ms or 57 ticks behind
+[26Dec2024 22:31:18.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 has made the advancement [Hunt and Gather]
+[26Dec2024 22:32:01.070] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/188093, l='ServerLevel[world]', x=-158.50, y=70.00, z=661.46] died, message: 'Armorer froze to death'
+[26Dec2024 22:33:46.145] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[26Dec2024 22:34:12.639] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[26Dec2024 22:34:31.863] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[26Dec2024 22:34:40.595] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[26Dec2024 22:34:40.595] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[26Dec2024 22:34:40.595] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[26Dec2024 22:34:40.596] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[26Dec2024 22:34:40.596] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[26Dec2024 22:34:40.596] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[26Dec2024 22:34:40.596] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[26Dec2024 22:34:40.596] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[26Dec2024 22:34:40.596] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[26Dec2024 22:34:40.596] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[26Dec2024 22:34:40.597] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[26Dec2024 22:34:40.597] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[26Dec2024 22:34:40.597] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[26Dec2024 22:34:40.597] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[26Dec2024 22:34:40.597] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[26Dec2024 22:34:40.597] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[26Dec2024 22:34:40.597] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[26Dec2024 22:34:40.598] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[26Dec2024 22:34:40.598] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[26Dec2024 22:34:40.598] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[26Dec2024 22:34:40.598] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[26Dec2024 22:34:40.598] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[26Dec2024 22:34:40.598] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:tiny_bird_variant
+[26Dec2024 22:34:40.598] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[26Dec2024 22:34:40.598] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[26Dec2024 22:34:40.598] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[26Dec2024 22:34:40.599] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[26Dec2024 22:34:40.599] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[26Dec2024 22:34:40.599] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[26Dec2024 22:34:40.599] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[26Dec2024 22:34:40.599] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[26Dec2024 22:34:40.599] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[26Dec2024 22:34:40.599] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[26Dec2024 22:34:40.599] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[26Dec2024 22:34:40.599] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[26Dec2024 22:34:40.599] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[26Dec2024 22:34:40.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[26Dec2024 22:34:40.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[26Dec2024 22:34:40.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[26Dec2024 22:34:40.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[26Dec2024 22:34:40.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[26Dec2024 22:34:40.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[26Dec2024 22:34:40.600] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[26Dec2024 22:34:40.601] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[26Dec2024 22:34:40.601] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[26Dec2024 22:34:40.601] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[26Dec2024 22:34:40.601] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[26Dec2024 22:34:40.602] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[26Dec2024 22:34:40.602] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[26Dec2024 22:34:40.602] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[26Dec2024 22:34:40.603] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[26Dec2024 22:34:40.603] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[26Dec2024 22:34:40.604] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[26Dec2024 22:34:40.604] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[26Dec2024 22:34:40.604] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[26Dec2024 22:34:40.605] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[26Dec2024 22:34:40.605] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[26Dec2024 22:34:40.605] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[26Dec2024 22:34:40.605] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[26Dec2024 22:34:40.605] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[26Dec2024 22:34:40.605] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[26Dec2024 22:34:40.607] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[26Dec2024 22:34:40.607] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[26Dec2024 22:34:40.607] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[26Dec2024 22:34:40.607] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[26Dec2024 22:34:40.607] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[26Dec2024 22:34:40.608] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[26Dec2024 22:34:40.608] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[26Dec2024 22:34:40.608] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[26Dec2024 22:34:40.615] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:dwarf_rabbit_variant
+[26Dec2024 22:34:40.616] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[26Dec2024 22:34:40.616] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[26Dec2024 22:34:40.616] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[26Dec2024 22:34:40.620] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 22:34:40.651] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 22:34:52.822] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[26Dec2024 22:35:14.449] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[26Dec2024 22:35:14.451] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[26Dec2024 22:35:14.903] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[26Dec2024 22:35:19.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[26Dec2024 22:35:21.696] [Worker-Main-29/DEBUG] [mixin/]: Mixing DripstoneHelperMixin from the_afterdark.mixins.json into net.minecraft.world.level.levelgen.feature.DripstoneUtils
+[26Dec2024 22:35:21.703] [Worker-Main-29/DEBUG] [mixin/]: Renaming @Invoker method invokeCanGenerateOrLava(Lnet/minecraft/world/level/LevelAccessor;Lnet/minecraft/core/BlockPos;)Z to invokeCanGenerateOrLava$the_afterdark_$md$a33e4d$0 in the_afterdark.mixins.json:DripstoneHelperMixin from mod the_afterdark
+[26Dec2024 22:35:21.704] [Worker-Main-29/DEBUG] [mixin/]: Renaming @Invoker method invokeCanGenerateBase(Lnet/minecraft/world/level/WorldGenLevel;Lnet/minecraft/core/BlockPos;I)Z to invokeCanGenerateBase$the_afterdark_$md$a33e4d$1 in the_afterdark.mixins.json:DripstoneHelperMixin from mod the_afterdark
+[26Dec2024 22:35:21.705] [Worker-Main-29/DEBUG] [mixin/]: Renaming @Invoker method invokeScaleHeightFromRadius(DDDD)D to invokeScaleHeightFromRadius$the_afterdark_$md$a33e4d$2 in the_afterdark.mixins.json:DripstoneHelperMixin from mod the_afterdark
+[26Dec2024 22:35:23.701] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:mausoleum/building
+[26Dec2024 22:35:29.733] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:frostmaw_spawn
+[26Dec2024 22:35:29.734] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[26Dec2024 22:35:31.270] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[26Dec2024 22:35:33.157] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[26Dec2024 22:35:41.444] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of paladins:village/taiga/sanctuary
+[26Dec2024 22:35:41.467] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:priest_house_taiga
+[26Dec2024 22:35:41.503] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/taiga_scriber_1
+[26Dec2024 22:35:45.510] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11376ms or 227 ticks behind
+[26Dec2024 22:36:09.800] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9317ms or 186 ticks behind
+[26Dec2024 22:36:15.574] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_4_0
+[26Dec2024 22:36:35.274] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10490ms or 209 ticks behind
+[26Dec2024 22:36:53.410] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3176ms or 63 ticks behind
+[26Dec2024 22:37:22.447] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[26Dec2024 22:37:54.749] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[26Dec2024 22:39:24.119] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot

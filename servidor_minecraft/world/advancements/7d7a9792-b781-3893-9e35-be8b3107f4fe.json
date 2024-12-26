@@ -10412,6 +10412,18 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/goat_gear_chestplate": {
+    "criteria": {
+      "has_leather_chestplate": "2024-12-26 22:32:28 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/climbing_gear_chestplate": {
+    "criteria": {
+      "has_leather_chestplate": "2024-12-26 22:32:28 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/unique_armors/archers_helmet": {
     "criteria": {
       "has_leather_helmet": "2024-12-26 21:30:37 +0000"
@@ -10433,6 +10445,12 @@
   "create_enchantment_industry:spirit_taking": {
     "criteria": {
       "builtin": "2024-12-26 21:31:59 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/scale_mail_chestplate": {
+    "criteria": {
+      "has_leather_chestplate": "2024-12-26 22:32:28 +0000"
     },
     "done": true
   },
