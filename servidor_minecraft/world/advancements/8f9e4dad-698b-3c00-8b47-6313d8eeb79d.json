@@ -10204,6 +10204,12 @@
     },
     "done": true
   },
+  "create_enchantment_industry:experimental": {
+    "criteria": {
+      "builtin": "2024-12-26 20:21:35 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/blackstone_bulb": {
     "criteria": {
       "has_blackstone": "2024-12-26 19:53:46 +0000"
