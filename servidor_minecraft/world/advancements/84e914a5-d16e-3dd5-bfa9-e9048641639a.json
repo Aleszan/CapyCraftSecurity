@@ -11843,5 +11843,11 @@
     },
     "done": true
   },
+  "mcdw:recipes/hammers/hammer_gravity": {
+    "criteria": {
+      "has_anvil": "2024-12-26 05:00:55 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

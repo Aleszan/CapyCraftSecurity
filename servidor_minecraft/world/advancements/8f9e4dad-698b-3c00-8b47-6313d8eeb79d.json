@@ -9492,6 +9492,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-12-26 04:42:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-26 04:44:12 +0000"
@@ -9654,15 +9660,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2024-12-26 04:42:32 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2024-12-26 04:44:12 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/wither_armor_helmet": {
+    "criteria": {
+      "has_grim_armor_helmet": "2024-12-26 05:00:49 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/gourdian_armor_helmet": {
+    "criteria": {
+      "has_grim_armor_helmet": "2024-12-26 05:00:49 +0000"
     },
     "done": true
   },
