@@ -1052,3 +1052,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Dec2024 18:37:31.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was slain by Zombie
 [26Dec2024 18:38:48.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was slain by Orca
 [26Dec2024 18:42:18.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was shot by Skeleton
+[26Dec2024 18:50:35.430] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Afarfa[/127.61.88.69:58191] logged in with entity id 112906 at (345.5674310859374, 63.0, -45.219527377693126)
+[26Dec2024 18:50:35.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa joined the game
+[26Dec2024 18:50:35.622] [Server thread/INFO] [Jade/]: Syncing config to Afarfa (7d7a9792-b781-3893-9e35-be8b3107f4fe)
