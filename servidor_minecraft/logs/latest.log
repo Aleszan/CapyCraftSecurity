@@ -158,3 +158,22 @@
 [27Dec2024 00:42:58.448] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=290, y=69, z=61} BlockPos{x=292, y=63, z=65}
 [27Dec2024 00:43:02.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luzbel1t0> e verda
 [27Dec2024 00:43:12.896] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[27Dec2024 00:43:47.269] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19385ms or 387 ticks behind
+[27Dec2024 00:44:10.453] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8219ms or 164 ticks behind
+[27Dec2024 00:44:30.443] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5009ms or 100 ticks behind
+[27Dec2024 00:44:47.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Dragonslayer]
+[27Dec2024 00:44:55.865] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10431ms or 208 ticks behind
+[27Dec2024 00:45:09.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[27Dec2024 00:45:13.838] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3005ms or 60 ticks behind
+[27Dec2024 00:45:59.711] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2077ms or 41 ticks behind
+[27Dec2024 00:46:17.758] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[27Dec2024 00:46:43.339] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[27Dec2024 00:47:00.847] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[27Dec2024 00:47:03.434] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-162, y=61, z=1001} BlockPos{x=-162, y=62, z=1001}
+[27Dec2024 00:47:10.387] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 lost connection: Disconnected
+[27Dec2024 00:47:10.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 left the game
+[27Dec2024 00:47:22.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xDogSaur moved too quickly! -10.271099351409362,0.7399223334018643,-0.14696785856069106
+[27Dec2024 00:52:34.837] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2103ms or 42 ticks behind
+[27Dec2024 00:53:27.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [My Name is Nobody]
+[27Dec2024 00:53:31.013] [Worker-Main-29/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dummmmmmy:target_dummy
+[27Dec2024 00:53:31.015] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-30, y=-59, z=185}
