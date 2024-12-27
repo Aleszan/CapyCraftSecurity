@@ -1341,3 +1341,51 @@
 [27Dec2024 02:26:10.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Nucaraga to xDogSaur]
 [27Dec2024 02:26:16.037] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5454ms or 109 ticks behind
 [27Dec2024 02:26:35.749] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2115ms or 42 ticks behind
+[27Dec2024 02:27:51.539] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[27Dec2024 02:28:16.279] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9746ms or 194 ticks behind
+[27Dec2024 02:30:04.827] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[27Dec2024 02:30:17.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved wrongly! 0.2838766658969689
+[27Dec2024 02:30:17.845] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved wrongly! 0.617449411640564
+[27Dec2024 02:30:17.848] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved wrongly! 0.9617948640568557
+[27Dec2024 02:30:17.849] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved wrongly! 1.3050304479693295
+[27Dec2024 02:30:17.952] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved wrongly! 1.5852446107858214
+[27Dec2024 02:30:17.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved wrongly! 1.9264632608442298
+[27Dec2024 02:30:17.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved wrongly! 2.2667697378988123
+[27Dec2024 02:30:18.081] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved wrongly! 0.43539151938966825
+[27Dec2024 02:30:18.195] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved wrongly! 0.6777691497111391
+[27Dec2024 02:30:18.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved wrongly! 0.33586621291533447
+[27Dec2024 02:30:18.489] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved wrongly! 0.42633412383884206
+[27Dec2024 02:30:18.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved wrongly! 0.36055919181330864
+[27Dec2024 02:30:18.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved wrongly! 0.627545588016801
+[27Dec2024 02:30:18.976] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved wrongly! 0.918789895826194
+[27Dec2024 02:30:27.164] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7380ms or 147 ticks behind
+[27Dec2024 02:30:48.628] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6495ms or 129 ticks behind
+[27Dec2024 02:31:10.594] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7010ms or 140 ticks behind
+[27Dec2024 02:31:29.715] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4131ms or 82 ticks behind
+[27Dec2024 02:31:46.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> ian
+[27Dec2024 02:31:48.515] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3831ms or 76 ticks behind
+[27Dec2024 02:31:52.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> se te asliio d disco
+[27Dec2024 02:31:59.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nucaraga> si se
+[27Dec2024 02:32:08.723] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5239ms or 104 ticks behind
+[27Dec2024 02:32:21.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[27Dec2024 02:32:28.067] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4383ms or 87 ticks behind
+[27Dec2024 02:32:46.668] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3634ms or 72 ticks behind
+[27Dec2024 02:33:06.269] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4635ms or 92 ticks behind
+[27Dec2024 02:33:14.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa moved too quickly! -10.152445902501597,-0.604424101326714,1.1269237072697535
+[27Dec2024 02:33:30.037] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8803ms or 176 ticks behind
+[27Dec2024 02:33:49.789] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4755ms or 95 ticks behind
+[27Dec2024 02:34:00.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[27Dec2024 02:34:09.238] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4454ms or 89 ticks behind
+[27Dec2024 02:34:28.456] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4223ms or 84 ticks behind
+[27Dec2024 02:34:41.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[27Dec2024 02:34:47.727] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4294ms or 85 ticks behind
+[27Dec2024 02:35:08.356] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5672ms or 113 ticks behind
+[27Dec2024 02:35:32.071] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8737ms or 174 ticks behind
+[27Dec2024 02:35:52.274] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5240ms or 104 ticks behind
+[27Dec2024 02:36:12.036] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[27Dec2024 02:36:32.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 has made the advancement [Mine? Mine? Mine?]
+[27Dec2024 02:36:41.085] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[27Dec2024 02:37:13.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nucaraga> me dejas farmear niveles?
+[27Dec2024 02:37:21.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nucaraga> fafa?
+[27Dec2024 02:38:15.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nucaraga> pa que pegas gilñ
+[27Dec2024 02:38:27.602] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
