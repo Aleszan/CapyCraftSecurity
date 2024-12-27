@@ -177,3 +177,16 @@
 [27Dec2024 00:53:27.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [My Name is Nobody]
 [27Dec2024 00:53:31.013] [Worker-Main-29/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dummmmmmy:target_dummy
 [27Dec2024 00:53:31.015] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-30, y=-59, z=185}
+[27Dec2024 00:54:05.676] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[27Dec2024 00:54:29.934] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9300ms or 186 ticks behind
+[27Dec2024 00:54:30.705] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/307429, l='ServerLevel[world]', x=1128.72, y=64.00, z=-833.37] died, message: 'Unemployed suffocated in a wall'
+[27Dec2024 00:55:30.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa was slain by Drowned
+[27Dec2024 00:56:03.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Afarfa to 956.500000, 64.000000, -908.500000]
+[27Dec2024 00:56:09.705] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2622ms or 52 ticks behind
+[27Dec2024 00:56:21.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set the time to 1000]
+[27Dec2024 00:56:27.144] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2460ms or 49 ticks behind
+[27Dec2024 00:59:50.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Afarfa]
+[27Dec2024 01:00:20.341] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/309637, l='ServerLevel[world]', x=1042.38, y=64.00, z=-755.17] died, message: 'Unemployed was slain by Siren'
+[27Dec2024 01:02:28.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[27Dec2024 01:03:18.110] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/309636, l='ServerLevel[world]', x=1078.05, y=63.00, z=-752.81] died, message: 'Unemployed was slain by Siren'
+[27Dec2024 01:03:57.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
