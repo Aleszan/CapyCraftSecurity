@@ -753,3 +753,140 @@
 [27Dec2024 01:45:01.855] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
 [27Dec2024 01:45:23.407] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6573ms or 131 ticks behind
 [27Dec2024 01:45:44.483] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6100ms or 122 ticks behind
+[27Dec2024 01:46:04.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 7.6395886031569376,0.0,7.495747320857959
+[27Dec2024 01:46:09.432] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5599ms or 111 ticks behind
+[27Dec2024 01:46:09.557] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 4.960794605686033,0.0,8.829534739449969
+[27Dec2024 01:46:09.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 5.708623256145245,0.0,10.116368166523785
+[27Dec2024 01:46:09.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 6.4696219024226025,0.0,11.405903364978826
+[27Dec2024 01:46:09.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 7.244680647466282,0.0,12.696897199814202
+[27Dec2024 01:46:09.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 8.03459661209888,0.0,13.988113783670315
+[27Dec2024 01:46:09.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 8.689806893351204,0.0,15.033232039728318
+[27Dec2024 01:46:09.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 9.156130369266123,0.0,15.750884843286826
+[27Dec2024 01:46:09.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 9.46751015929243,0.0,16.20601621064509
+[27Dec2024 01:46:09.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 9.658223388128249,0.0,16.48224174293796
+[27Dec2024 01:46:09.580] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 9.780703651047759,0.0,16.659639902608546
+[27Dec2024 01:46:09.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 9.859363190799684,0.0,16.773568932967464
+[27Dec2024 01:46:09.583] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 9.906558911837749,0.0,16.84192634710837
+[27Dec2024 01:46:09.583] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 9.934876342772725,0.0,16.882940793148236
+[27Dec2024 01:46:09.584] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 9.951866802008851,0.0,16.907549461750023
+[27Dec2024 01:46:09.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 9.962061077955639,0.0,16.922314663497787
+[27Dec2024 01:46:09.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 9.96817764376675,0.0,16.931173784898533
+[27Dec2024 01:46:09.604] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 9.971847583399267,0.0,16.936489257950143
+[27Dec2024 01:46:09.604] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 9.974049547266247,0.0,16.939678541907824
+[27Dec2024 01:46:09.746] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 5.750212532858029,0.0,9.394951863477218
+[27Dec2024 01:46:09.746] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 5.751005239913127,0.0,9.396100005793187
+[27Dec2024 01:46:09.747] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 5.751480864165103,0.0,9.396788891210122
+[27Dec2024 01:46:09.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 5.751766238727612,0.0,9.397202222476722
+[27Dec2024 01:46:09.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 5.751766238727612,0.0,9.397202222476722
+[27Dec2024 01:46:09.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 5.751766238727612,0.0,9.397202222476722
+[27Dec2024 01:46:09.758] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 5.751766238727612,0.0,9.397202222476722
+[27Dec2024 01:46:09.759] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 5.751766238727612,0.0,9.397202222476722
+[27Dec2024 01:46:09.760] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 5.751766238727612,0.0,9.397202222476722
+[27Dec2024 01:46:09.760] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 5.751766238727612,0.0,9.397202222476722
+[27Dec2024 01:46:09.761] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 5.751766238727612,0.0,9.397202222476722
+[27Dec2024 01:46:09.761] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 5.751766238727612,0.0,9.397202222476722
+[27Dec2024 01:46:09.761] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 5.751766238727612,0.0,9.397202222476722
+[27Dec2024 01:46:09.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 5.751766238727612,0.0,9.397202222476722
+[27Dec2024 01:46:09.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 5.751766238727612,0.0,9.397202222476722
+[27Dec2024 01:46:09.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 5.751766238727612,0.0,9.397202222476722
+[27Dec2024 01:46:09.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 5.751766238727612,0.0,9.397202222476722
+[27Dec2024 01:46:09.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 5.751766238727612,0.0,9.397202222476722
+[27Dec2024 01:46:09.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 5.751766238727612,0.0,9.397202222476722
+[27Dec2024 01:46:09.769] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 5.751766238727612,0.0,9.397202222476722
+[27Dec2024 01:46:09.769] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 5.751766238727612,0.0,9.397202222476722
+[27Dec2024 01:46:09.770] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 5.751766238727612,0.0,9.397202222476722
+[27Dec2024 01:46:09.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 5.781976823755485,0.0,9.423416169270013
+[27Dec2024 01:46:09.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 5.830313743130773,0.0,9.465358459577487
+[27Dec2024 01:46:09.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 5.889526463546645,0.0,9.51673775636857
+[27Dec2024 01:46:09.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 5.955264664846197,0.0,9.573779257274737
+[27Dec2024 01:46:09.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 6.024918154831539,0.0,9.63421808078499
+[27Dec2024 01:46:09.784] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 6.096920818121703,0.0,9.696695297938618
+[27Dec2024 01:46:09.785] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 6.170332985450727,0.0,9.760395551326951
+[27Dec2024 01:46:09.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 6.244590855236709,0.0,9.824829626485212
+[27Dec2024 01:46:09.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 6.328762143238578,0.0,9.897865644140552
+[27Dec2024 01:46:09.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 6.423691079141008,0.0,9.980236148346421
+[27Dec2024 01:46:09.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 6.526891451004758,0.0,10.069783835561793
+[27Dec2024 01:46:10.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 6.636451638089625,0.0,10.164849979060023
+[27Dec2024 01:46:10.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 6.750901816445207,0.0,10.26415920228817
+[27Dec2024 01:46:10.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 6.882400790836698,0.0,10.378261785504492
+[27Dec2024 01:46:10.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 7.028987949557404,0.0,10.505456492169287
+[27Dec2024 01:46:10.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 7.188928151265543,0.0,10.644237727961126
+[27Dec2024 01:46:10.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 7.36068579589022,0.0,10.793273041919974
+[27Dec2024 01:46:10.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 7.518130306875321,0.0,10.929888749343263
+[27Dec2024 01:46:10.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 7.665778276724836,0.0,11.058003929252664
+[27Dec2024 01:46:10.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 7.804239267611592,0.0,11.178147503024661
+[27Dec2024 01:46:10.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 7.939931041321529,0.0,11.295888207612734
+[27Dec2024 01:46:10.145] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 8.072908982145407,0.0,11.411274100354717
+[27Dec2024 01:46:10.147] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 8.203227366689134,0.0,11.524352277442745
+[27Dec2024 01:46:10.148] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 8.330939386027637,0.0,11.63516889314576
+[27Dec2024 01:46:10.150] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 8.456097167415294,0.0,11.74376917864845
+[27Dec2024 01:46:10.152] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 8.578751795562368,0.0,11.85019746051239
+[27Dec2024 01:46:10.153] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 8.698953326175172,0.0,11.954497172425476
+[27Dec2024 01:46:10.359] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 8.816750821303799,0.0,12.056710885872803
+[27Dec2024 01:46:10.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 8.932192368776668,0.0,12.156880327000863
+[27Dec2024 01:46:10.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 9.045325087501965,0.0,12.255046381216857
+[27Dec2024 01:46:10.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 9.156195154010618,0.0,12.35124911622097
+[27Dec2024 01:46:10.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 9.26484782130376,0.0,12.445527798359876
+[27Dec2024 01:46:10.392] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 9.37132743732343,0.0,12.5379209086542
+[27Dec2024 01:46:10.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 9.468933754123668,0.0,12.622614594926404
+[27Dec2024 01:46:10.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 9.558406213129842,0.0,12.700250475691973
+[27Dec2024 01:46:10.480] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 9.640422635663128,0.0,12.771416701269573
+[27Dec2024 01:46:10.480] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 9.715604357948166,0.0,12.836652409463
+[27Dec2024 01:46:10.481] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 9.77499791568539,0.0,12.888188616447223
+[27Dec2024 01:46:10.481] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 9.821918824032139,0.0,12.928902217998825
+[27Dec2024 01:46:10.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[27Dec2024 01:46:10.484] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 9.858986339836179,0.0,12.961065961671466
+[27Dec2024 01:46:10.484] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 9.888269675907338,0.0,12.98647531794586
+[27Dec2024 01:46:10.485] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 9.911403510286505,0.0,13.006548708433343
+[27Dec2024 01:46:31.798] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7414ms or 148 ticks behind
+[27Dec2024 01:46:35.629] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 moved too quickly! -5.9753884501499215,-0.41290928041701136,8.104906499117646
+[27Dec2024 01:46:42.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa moved too quickly! -8.799310727738032,0.5061351021062208,-5.133774836213686
+[27Dec2024 01:46:53.365] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6581ms or 131 ticks behind
+[27Dec2024 01:46:53.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 has completed the challenge [Free Willy]
+[27Dec2024 01:47:12.950] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4616ms or 92 ticks behind
+[27Dec2024 01:47:16.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa moved too quickly! 6.746080799176809,0.8322033533667508,7.743916371018856
+[27Dec2024 01:47:32.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[27Dec2024 01:47:36.884] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:boss_spawner
+[27Dec2024 01:47:37.297] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9363ms or 187 ticks behind
+[27Dec2024 01:47:41.056] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 moved too quickly! 10.39764487813028,0.7531999805212024,0.171633929153586
+[27Dec2024 01:47:46.533] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=641, y=-28, z=956} but found not block entity block Block{minecraft:air} at location
+[27Dec2024 01:47:46.533] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=641, y=-28, z=956}
+[27Dec2024 01:47:50.184] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:boss_spawner
+[27Dec2024 01:47:51.965] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:boss_spawner
+[27Dec2024 01:47:57.243] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=567, y=64, z=886} BlockPos{x=567, y=63, z=887}
+[27Dec2024 01:48:02.159] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9875ms or 197 ticks behind
+[27Dec2024 01:48:12.223] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:boss_spawner
+[27Dec2024 01:48:15.677] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: apotheosis:tower_spruce
+[27Dec2024 01:48:15.752] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"apotheosis:gem",tag:{affix_data:{rarity:"apotheosis:rare"},gem:"apotheosis:overworld/earth"}}
+[27Dec2024 01:48:15.753] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"apotheosis:gem",tag:{affix_data:{rarity:"apotheosis:common"},gem:"apotheosis:core/splendor"}}
+[27Dec2024 01:48:15.754] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"apotheosis:gem",tag:{affix_data:{rarity:"apotheosis:epic"},gem:"irons_spellbooks:fire"}}
+[27Dec2024 01:48:15.754] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"apotheosis:gem",tag:{affix_data:{rarity:"apotheosis:common"},gem:"irons_spellbooks:blood"}}
+[27Dec2024 01:48:23.072] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5938ms or 118 ticks behind
+[27Dec2024 01:48:34.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 moved too quickly! 6.71725066147178,-0.1647732818260721,7.551575680408746
+[27Dec2024 01:48:41.846] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3812ms or 76 ticks behind
+[27Dec2024 01:48:44.928] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:boss_spawner
+[27Dec2024 01:49:02.250] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5416ms or 108 ticks behind
+[27Dec2024 01:49:03.679] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:boss_spawner
+[27Dec2024 01:49:07.083] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:anvil
+[27Dec2024 01:49:19.296] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:boss_spawner
+[27Dec2024 01:49:19.714] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2480ms or 49 ticks behind
+[27Dec2024 01:49:39.486] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4802ms or 96 ticks behind
+[27Dec2024 01:49:57.312] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2828ms or 56 ticks behind
+[27Dec2024 01:50:14.926] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2642ms or 52 ticks behind
+[27Dec2024 01:50:32.495] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2611ms or 52 ticks behind
+[27Dec2024 01:50:50.215] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2731ms or 54 ticks behind
+[27Dec2024 01:51:08.377] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3193ms or 63 ticks behind
+[27Dec2024 01:51:27.860] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4526ms or 90 ticks behind
+[27Dec2024 01:51:45.602] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2768ms or 55 ticks behind
+[27Dec2024 01:52:29.514] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[27Dec2024 01:52:47.476] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2093ms or 41 ticks behind
+[27Dec2024 01:53:03.797] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Dec2024 01:53:06.988] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[27Dec2024 01:53:40.090] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[27Dec2024 01:53:57.464] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2380ms or 47 ticks behind
+[27Dec2024 01:54:14.685] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2251ms or 45 ticks behind
+[27Dec2024 01:54:47.737] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[27Dec2024 01:55:15.104] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[27Dec2024 01:55:33.740] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3656ms or 73 ticks behind
+[27Dec2024 01:55:52.084] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3350ms or 67 ticks behind
+[27Dec2024 01:56:19.199] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
