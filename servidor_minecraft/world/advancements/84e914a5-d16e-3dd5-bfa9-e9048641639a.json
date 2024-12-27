@@ -12053,6 +12053,12 @@
     },
     "done": true
   },
+  "create_enchantment_industry:experimental": {
+    "criteria": {
+      "builtin": "2024-12-27 02:45:58 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2024-12-27 00:41:14 +0000"

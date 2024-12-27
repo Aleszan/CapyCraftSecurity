@@ -1389,3 +1389,91 @@
 [27Dec2024 02:37:21.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nucaraga> fafa?
 [27Dec2024 02:38:15.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nucaraga> pa que pegas gilñ
 [27Dec2024 02:38:27.602] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[27Dec2024 02:38:43.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xDogSaur moved too quickly! -0.03223234772030992,0.45546773958502484,10.18777459554451
+[27Dec2024 02:38:57.217] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14633ms or 292 ticks behind
+[27Dec2024 02:39:02.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 has made the advancement [Who You Gonna Call?]
+[27Dec2024 02:39:17.151] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4967ms or 99 ticks behind
+[27Dec2024 02:40:20.013] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[27Dec2024 02:40:38.254] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3271ms or 65 ticks behind
+[27Dec2024 02:41:38.131] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[27Dec2024 02:41:54.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[27Dec2024 02:41:55.722] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=355, y=62, z=35} BlockPos{x=266, y=63, z=14}
+[27Dec2024 02:41:55.728] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=355, y=62, z=35} BlockPos{x=266, y=63, z=15}
+[27Dec2024 02:41:55.755] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=355, y=62, z=35} BlockPos{x=266, y=63, z=15}
+[27Dec2024 02:41:55.926] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=355, y=62, z=35} BlockPos{x=266, y=63, z=15}
+[27Dec2024 02:41:59.510] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6426ms or 128 ticks behind
+[27Dec2024 02:42:03.269] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=266, y=64, z=37} BlockPos{x=264, y=64, z=25}
+[27Dec2024 02:42:03.413] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=266, y=64, z=37} BlockPos{x=264, y=64, z=24}
+[27Dec2024 02:42:03.415] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=266, y=64, z=37} BlockPos{x=265, y=64, z=23}
+[27Dec2024 02:42:03.695] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=265, y=64, z=23} BlockPos{x=265, y=63, z=22}
+[27Dec2024 02:42:03.760] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=265, y=64, z=23} BlockPos{x=265, y=63, z=21}
+[27Dec2024 02:42:03.946] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=265, y=63, z=21} BlockPos{x=265, y=63, z=20}
+[27Dec2024 02:42:04.011] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=265, y=63, z=21} BlockPos{x=265, y=63, z=20}
+[27Dec2024 02:42:04.048] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=265, y=63, z=21} BlockPos{x=265, y=63, z=20}
+[27Dec2024 02:42:04.088] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=265, y=63, z=21} BlockPos{x=265, y=63, z=20}
+[27Dec2024 02:42:04.158] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=265, y=63, z=21} BlockPos{x=265, y=63, z=20}
+[27Dec2024 02:42:04.193] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=265, y=63, z=21} BlockPos{x=265, y=63, z=20}
+[27Dec2024 02:42:04.267] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=265, y=63, z=21} BlockPos{x=265, y=63, z=20}
+[27Dec2024 02:42:04.303] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=265, y=63, z=21} BlockPos{x=265, y=63, z=20}
+[27Dec2024 02:42:04.341] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=265, y=63, z=21} BlockPos{x=265, y=63, z=20}
+[27Dec2024 02:42:04.412] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=265, y=63, z=21} BlockPos{x=265, y=63, z=20}
+[27Dec2024 02:42:04.456] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=265, y=63, z=21} BlockPos{x=265, y=63, z=20}
+[27Dec2024 02:42:04.545] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=265, y=63, z=21} BlockPos{x=265, y=63, z=20}
+[27Dec2024 02:42:21.661] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=265, y=63, z=21} BlockPos{x=263, y=64, z=25}
+[27Dec2024 02:42:21.822] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=265, y=63, z=21} BlockPos{x=263, y=64, z=24}
+[27Dec2024 02:42:22.080] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=263, y=64, z=24} BlockPos{x=262, y=63, z=22}
+[27Dec2024 02:42:22.149] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=263, y=64, z=24} BlockPos{x=262, y=63, z=21}
+[27Dec2024 02:42:22.152] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=263, y=64, z=24} BlockPos{x=262, y=63, z=21}
+[27Dec2024 02:42:22.209] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7726ms or 154 ticks behind
+[27Dec2024 02:42:22.271] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=263, y=64, z=24} BlockPos{x=262, y=63, z=20}
+[27Dec2024 02:42:22.349] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=263, y=64, z=24} BlockPos{x=262, y=63, z=20}
+[27Dec2024 02:42:22.436] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=263, y=64, z=24} BlockPos{x=263, y=64, z=19}
+[27Dec2024 02:42:22.619] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=263, y=64, z=19} BlockPos{x=264, y=64, z=19}
+[27Dec2024 02:42:22.620] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=263, y=64, z=19} BlockPos{x=265, y=65, z=20}
+[27Dec2024 02:42:24.610] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga lost connection: Disconnected
+[27Dec2024 02:42:24.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga left the game
+[27Dec2024 02:42:31.037] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=265, y=65, z=20} BlockPos{x=254, y=63, z=14}
+[27Dec2024 02:42:31.137] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=265, y=65, z=20} BlockPos{x=253, y=63, z=14}
+[27Dec2024 02:42:31.248] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=265, y=65, z=20} BlockPos{x=252, y=63, z=15}
+[27Dec2024 02:42:31.249] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=265, y=65, z=20} BlockPos{x=252, y=63, z=14}
+[27Dec2024 02:42:31.470] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=265, y=65, z=20} BlockPos{x=251, y=63, z=14}
+[27Dec2024 02:42:31.473] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=265, y=65, z=20} BlockPos{x=251, y=63, z=14}
+[27Dec2024 02:42:31.567] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=265, y=65, z=20} BlockPos{x=251, y=63, z=14}
+[27Dec2024 02:42:31.569] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=265, y=65, z=20} BlockPos{x=251, y=63, z=14}
+[27Dec2024 02:42:31.674] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=265, y=65, z=20} BlockPos{x=251, y=63, z=14}
+[27Dec2024 02:42:31.675] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=265, y=65, z=20} BlockPos{x=251, y=63, z=14}
+[27Dec2024 02:42:31.705] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=265, y=65, z=20} BlockPos{x=251, y=63, z=14}
+[27Dec2024 02:42:31.855] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=265, y=65, z=20} BlockPos{x=251, y=63, z=14}
+[27Dec2024 02:42:31.857] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=265, y=65, z=20} BlockPos{x=251, y=63, z=14}
+[27Dec2024 02:42:32.093] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=265, y=65, z=20} BlockPos{x=253, y=63, z=16}
+[27Dec2024 02:42:32.158] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=265, y=65, z=20} BlockPos{x=254, y=63, z=15}
+[27Dec2024 02:42:32.364] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=254, y=63, z=15} BlockPos{x=255, y=63, z=15}
+[27Dec2024 02:42:32.463] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=254, y=63, z=15} BlockPos{x=255, y=63, z=15}
+[27Dec2024 02:42:35.556] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=254, y=63, z=15} BlockPos{x=252, y=63, z=17}
+[27Dec2024 02:42:35.556] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=254, y=63, z=15} BlockPos{x=252, y=63, z=17}
+[27Dec2024 02:42:35.590] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=254, y=63, z=15} BlockPos{x=252, y=63, z=17}
+[27Dec2024 02:42:35.810] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=254, y=63, z=15} BlockPos{x=254, y=63, z=18}
+[27Dec2024 02:42:38.400] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=257, y=63, z=22} BlockPos{x=251, y=63, z=19}
+[27Dec2024 02:42:42.210] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5027ms or 100 ticks behind
+[27Dec2024 02:42:59.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 1 [Flint and Steel] to xDogSaur]
+[27Dec2024 02:43:00.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 was frozen by Ice Dragon
+[27Dec2024 02:43:06.045] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2611ms or 52 ticks behind
+[27Dec2024 02:43:26.008] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[27Dec2024 02:43:27.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[27Dec2024 02:43:39.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 was frozen by Ice Dragon
+[27Dec2024 02:43:47.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Afarfa]
+[27Dec2024 02:44:13.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> luzbeklt
+[27Dec2024 02:44:17.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> dice farfa si queres ayuda
+[27Dec2024 02:44:31.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[27Dec2024 02:44:41.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[27Dec2024 02:44:57.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[27Dec2024 02:45:56.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 was turned to ice by Ice Dragon
+[27Dec2024 02:46:02.180] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2146ms or 42 ticks behind
+[27Dec2024 02:46:12.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luzbel1t0> Si no dormian me ayudaban
+[27Dec2024 02:46:28.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[27Dec2024 02:46:45.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[27Dec2024 02:46:51.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 was slain by Frostmaw
+[27Dec2024 02:47:08.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has reached the goal [A Shower "Experience"]
+[27Dec2024 02:47:30.710] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=334, y=63, z=-39} BlockPos{x=334, y=62, z=-36}
+[27Dec2024 02:47:30.810] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=334, y=63, z=-39} BlockPos{x=334, y=62, z=-37}
+[27Dec2024 02:48:04.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
