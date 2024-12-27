@@ -340,6 +340,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "cold_desert": "2024-12-22 23:36:34 +0000",
+      "bog": "2024-12-27 02:54:03 +0000",
       "coniferous_forest": "2024-12-22 22:59:00 +0000",
       "hot_springs": "2024-12-23 01:26:59 +0000",
       "spider_nest": "2024-12-23 02:25:27 +0000",
@@ -8008,6 +8009,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-12-27 02:51:59 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/roasted_mutton_chops": {
     "criteria": {
       "has_mutton": "2024-12-27 02:36:26 +0000"
@@ -8026,9 +8033,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-12-27 02:51:59 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/dark_oak_banister": {
     "criteria": {
       "has_item": "2024-12-27 02:42:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-27 02:51:59 +0000"
     },
     "done": true
   },
