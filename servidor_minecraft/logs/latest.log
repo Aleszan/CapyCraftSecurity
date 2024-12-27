@@ -749,3 +749,7 @@
 [27Dec2024 01:32:39.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Lorem Ipsum]
 [27Dec2024 01:32:41.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 was slain by Zombie
 [27Dec2024 01:33:07.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Afarfa to xDogSaur]
+[27Dec2024 01:44:30.793] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[27Dec2024 01:45:01.855] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[27Dec2024 01:45:23.407] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6573ms or 131 ticks behind
+[27Dec2024 01:45:44.483] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6100ms or 122 ticks behind
