@@ -1141,3 +1141,203 @@
 [27Dec2024 02:06:06.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 moved too quickly! 6.846562480411649,0.7967356006687041,7.303311493875981
 [27Dec2024 02:06:29.508] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20274ms or 405 ticks behind
 [27Dec2024 02:06:43.759] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! -0.0080826782785266,0.5463680547542573,10.03360711625001
+[27Dec2024 02:07:12.778] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 28294ms or 565 ticks behind
+[27Dec2024 02:07:21.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 moved too quickly! 4.635121190330892,0.0,8.928268803317906
+[27Dec2024 02:07:21.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! -1.0650966951890553,-0.7461092740512356,-10.040762914549873
+[27Dec2024 02:07:39.028] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=326, y=63, z=31} BlockPos{x=321, y=83, z=33}
+[27Dec2024 02:07:39.142] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=326, y=63, z=31} BlockPos{x=321, y=82, z=33}
+[27Dec2024 02:07:39.339] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=321, y=81, z=33} BlockPos{x=321, y=82, z=33}
+[27Dec2024 02:07:48.788] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21054ms or 421 ticks behind
+[27Dec2024 02:08:20.366] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16582ms or 331 ticks behind
+[27Dec2024 02:08:26.814] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=318, y=64, z=36} BlockPos{x=319, y=62, z=37}
+[27Dec2024 02:08:26.977] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=318, y=64, z=36} BlockPos{x=318, y=62, z=37}
+[27Dec2024 02:08:27.118] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=318, y=64, z=36} BlockPos{x=318, y=62, z=37}
+[27Dec2024 02:08:36.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 6.0499134431772745,0.0,8.369826955511598
+[27Dec2024 02:08:36.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 6.258324400573429,0.0,8.710316121341066
+[27Dec2024 02:08:36.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 6.465899792595337,0.0,9.051392263920661
+[27Dec2024 02:08:36.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 6.672703247360005,0.0,9.393008189258126
+[27Dec2024 02:08:36.769] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! 0.6936059186382408,0.8800391385729611,-10.25876785723321
+[27Dec2024 02:08:36.769] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 6.878795345679464,0.0,9.735119496785956
+[27Dec2024 02:08:40.943] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Dec2024 02:08:45.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 6.804408670506291,0.0,7.842052355926398
+[27Dec2024 02:08:45.300] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 7.062607898599481,0.0,8.147369658591515
+[27Dec2024 02:08:45.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 7.3207081647071846,0.0,8.452786590827827
+[27Dec2024 02:08:45.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 7.578719365030565,0.0,8.758293189676124
+[27Dec2024 02:08:55.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 7.991796245982641,0.0,6.236317661385328
+[27Dec2024 02:08:55.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 8.350865659864212,0.0,6.354819165859453
+[27Dec2024 02:08:55.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 8.713937561095463,0.0,6.45878041275887
+[27Dec2024 02:08:57.496] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22162ms or 443 ticks behind
+[27Dec2024 02:08:59.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 8.652543452551754,0.0,-5.212386157453693
+[27Dec2024 02:09:01.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[27Dec2024 02:09:05.513] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xDogSaur moved too quickly! 0.9449130493623557,10.124998721129415,-0.4287164750339514
+[27Dec2024 02:09:10.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 9.649245170942095,0.0,-3.738562951728909
+[27Dec2024 02:09:10.677] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 10.037106375950543,0.0,-3.827471163770724
+[27Dec2024 02:09:10.677] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 10.4258237218653,0.0,-3.912826176367844
+[27Dec2024 02:09:10.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 10.815332765399944,0.0,-3.9948236394163814
+[27Dec2024 02:09:10.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 11.20557294087348,0.0,-4.073654771344309
+[27Dec2024 02:09:10.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 11.596487328911508,0.0,-4.149506827404139
+[27Dec2024 02:09:10.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 11.988022452002951,0.0,-4.2225635146169225
+[27Dec2024 02:09:10.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 12.380128951043616,0.0,-4.292997746537594
+[27Dec2024 02:09:10.680] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 12.772760797240608,0.0,-4.360976541024911
+[27Dec2024 02:09:20.766] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Dec2024 02:09:31.096] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18612ms or 372 ticks behind
+[27Dec2024 02:09:36.882] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 lost connection: Timed out
+[27Dec2024 02:09:36.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 left the game
+[27Dec2024 02:09:37.216] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[27Dec2024 02:09:43.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> as
+[27Dec2024 02:09:45.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> as
+[27Dec2024 02:09:54.339] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luzbel1t0[/127.181.160.254:39149] logged in with entity id 373036 at (1333.2338940561815, 62.073264324665075, 1444.784842876573)
+[27Dec2024 02:09:54.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 joined the game
+[27Dec2024 02:09:54.529] [Server thread/INFO] [Jade/]: Syncing config to Luzbel1t0 (df22fe92-577b-395e-b9ac-6fbd2f188cdf)
+[27Dec2024 02:10:01.750] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15666ms or 313 ticks behind
+[27Dec2024 02:10:06.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 was slain by Sea Serpent
+[27Dec2024 02:10:50.249] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2116ms or 42 ticks behind
+[27Dec2024 02:11:06.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xDogSaur moved too quickly! 1.65517624487768,-9.66706724457589,4.6080996186306535
+[27Dec2024 02:11:16.859] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved wrongly!
+[27Dec2024 02:11:18.978] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13744ms or 274 ticks behind
+[27Dec2024 02:11:52.370] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2486ms or 49 ticks behind
+[27Dec2024 02:12:05.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xDogSaur moved too quickly! -0.0192408464242817,0.7461092740512356,10.306230551654599
+[27Dec2024 02:12:13.600] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! -10.0638291519748,0.0,-0.7843387583820896
+[27Dec2024 02:12:18.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 5.453099678028082,9.147370882800487E-5,8.820159424390567
+[27Dec2024 02:12:23.712] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16378ms or 327 ticks behind
+[27Dec2024 02:12:28.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> asd
+[27Dec2024 02:12:35.251] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 4.051811020365349,0.002351548805144432,9.242036383343702
+[27Dec2024 02:12:35.252] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 4.161828385831711,0.002283919433999415,9.653967552382824
+[27Dec2024 02:12:35.252] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 4.267027898097638,0.002232984049193476,10.064224103756942
+[27Dec2024 02:12:35.252] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 4.367777651394746,0.0021987484676699864,10.472991134796757
+[27Dec2024 02:12:35.252] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 4.465109462981431,0.002179846811905861,10.880322971472424
+[27Dec2024 02:12:35.252] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 4.560575635047016,0.002173996505511866,11.286139500352647
+[27Dec2024 02:12:35.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 4.656125088197186,0.0021784147362780004,11.690196950523614
+[27Dec2024 02:12:35.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 4.753987604029319,0.0021901718484187427,12.092046334802376
+[27Dec2024 02:12:37.050] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved wrongly! 0.6104156812643851
+[27Dec2024 02:12:37.052] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved wrongly! 0.6104156812643851
+[27Dec2024 02:12:37.052] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved wrongly! 0.6104156812643851
+[27Dec2024 02:12:37.053] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved wrongly! 0.6104156812643851
+[27Dec2024 02:12:37.053] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved wrongly! 0.6104156812643851
+[27Dec2024 02:12:37.053] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved wrongly! 0.6104156812643851
+[27Dec2024 02:12:37.054] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved wrongly! 0.6104156812643851
+[27Dec2024 02:12:37.055] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved wrongly! 0.6104156812643851
+[27Dec2024 02:12:38.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 5.129066601675689,2.5914204115906614E-10,8.790844011678246
+[27Dec2024 02:12:38.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 5.383209108880294,2.412633648418705E-9,9.090001234094075
+[27Dec2024 02:12:44.317] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 9.654458928341015,-1.8403056856186595E-12,3.24078014688871
+[27Dec2024 02:12:48.251] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9567ms or 191 ticks behind
+[27Dec2024 02:13:21.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 moved too quickly! 4.071917493478168,0.3800236743955381,9.286019236844936
+[27Dec2024 02:13:21.969] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2735ms or 54 ticks behind
+[27Dec2024 02:13:30.496] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 moved too quickly! 2.1351271641682104,0.5292232112077713,9.849311407657524
+[27Dec2024 02:13:42.163] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5230ms or 104 ticks behind
+[27Dec2024 02:14:02.552] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2418ms or 48 ticks behind
+[27Dec2024 02:14:23.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 2.5298707804881246,0.0,10.049605428818381
+[27Dec2024 02:14:30.544] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13010ms or 260 ticks behind
+[27Dec2024 02:14:30.659] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! -0.5212141650328022,0.0,10.220548683405696
+[27Dec2024 02:14:56.931] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11397ms or 227 ticks behind
+[27Dec2024 02:15:24.724] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12840ms or 256 ticks behind
+[27Dec2024 02:15:53.705] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xDogSaur moved too quickly! 0.039740575207076745,-9.540151341947364,4.813531321566018
+[27Dec2024 02:16:00.461] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20777ms or 415 ticks behind
+[27Dec2024 02:16:05.810] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 moved too quickly! 3.7528409317060323,0.7531999805212024,9.549892663147375
+[27Dec2024 02:16:12.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 moved too quickly! 2.9197922472495748,0.0,9.930582184589639
+[27Dec2024 02:16:16.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 moved too quickly! 7.664130172431214,-3.241172259279139,5.753577264640171
+[27Dec2024 02:16:22.916] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 moved too quickly! 6.425445986157229,-0.3015347236627832,7.836057617221513
+[27Dec2024 02:16:35.644] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20210ms or 404 ticks behind
+[27Dec2024 02:16:41.386] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 8.319451155770139,-1.4694023775518872E-11,6.239919207592493
+[27Dec2024 02:16:47.039] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 6.8855711295481115,0.0,7.751817733879534
+[27Dec2024 02:16:47.040] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 7.136458859839422,0.0,8.062251467578108
+[27Dec2024 02:16:55.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 6.7038545976429305,0.0,7.87753087573833
+[27Dec2024 02:16:55.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 6.94060519460038,0.0,8.199151208055582
+[27Dec2024 02:16:55.060] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 7.176618895756519,0.0,8.521376802761097
+[27Dec2024 02:16:55.060] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 7.4119536792971985,0.0,8.84415812693328
+[27Dec2024 02:16:55.082] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 7.646661720000338,0.0,9.167450593493186
+[27Dec2024 02:17:01.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 6.281748890805034,0.0,8.14948493457382
+[27Dec2024 02:17:01.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 6.573634434392488,0.0,8.419090224699403
+[27Dec2024 02:17:01.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 6.866202692310594,0.0,8.688334876456338
+[27Dec2024 02:17:01.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 7.158757569935915,0.0,8.957943651832693
+[27Dec2024 02:17:01.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 7.450720981095742,0.0,9.228488139362298
+[27Dec2024 02:17:01.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 7.741620050704569,0.0,9.500411192846514
+[27Dec2024 02:17:01.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa moved too quickly! 2.973499203760639,-0.3693736602695097,9.728586996991769
+[27Dec2024 02:17:01.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 8.031074641601208,0.0,9.774048276141457
+[27Dec2024 02:17:11.756] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21123ms or 422 ticks behind
+[27Dec2024 02:17:41.705] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14971ms or 299 ticks behind
+[27Dec2024 02:17:52.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 5.591157094466098,0.0,8.303650914709124
+[27Dec2024 02:17:55.136] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=234, y=15, z=-143} BlockPos{x=235, y=15, z=-143}
+[27Dec2024 02:17:55.212] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=234, y=15, z=-143} BlockPos{x=235, y=15, z=-143}
+[27Dec2024 02:17:55.214] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=234, y=15, z=-143} BlockPos{x=235, y=15, z=-143}
+[27Dec2024 02:18:11.707] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15023ms or 300 ticks behind
+[27Dec2024 02:18:41.204] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14520ms or 290 ticks behind
+[27Dec2024 02:19:09.045] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12861ms or 257 ticks behind
+[27Dec2024 02:19:36.056] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12022ms or 240 ticks behind
+[27Dec2024 02:20:04.668] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13634ms or 272 ticks behind
+[27Dec2024 02:20:24.661] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=209, y=17, z=-190} BlockPos{x=208, y=18, z=-189}
+[27Dec2024 02:20:24.778] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=209, y=17, z=-190} BlockPos{x=208, y=18, z=-189}
+[27Dec2024 02:20:24.780] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=209, y=18, z=-189} BlockPos{x=208, y=18, z=-189}
+[27Dec2024 02:20:24.826] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=209, y=18, z=-189} BlockPos{x=208, y=18, z=-189}
+[27Dec2024 02:20:24.860] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=209, y=18, z=-189} BlockPos{x=208, y=18, z=-189}
+[27Dec2024 02:20:24.915] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=209, y=18, z=-189} BlockPos{x=208, y=18, z=-189}
+[27Dec2024 02:20:24.955] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=209, y=18, z=-189} BlockPos{x=208, y=18, z=-189}
+[27Dec2024 02:20:25.037] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=209, y=18, z=-189} BlockPos{x=208, y=18, z=-189}
+[27Dec2024 02:20:34.613] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=206, y=19, z=-185} BlockPos{x=206, y=19, z=-183}
+[27Dec2024 02:20:34.636] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15002ms or 300 ticks behind
+[27Dec2024 02:20:34.747] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=206, y=19, z=-185} BlockPos{x=206, y=19, z=-183}
+[27Dec2024 02:20:41.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xDogSaur moved too quickly! -3.57048942617854,0.010650014126028395,-9.591339899392608
+[27Dec2024 02:20:47.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luzbel1t0> buba
+[27Dec2024 02:20:50.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> q
+[27Dec2024 02:20:50.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> q
+[27Dec2024 02:20:59.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luzbel1t0> tepeate conmigo
+[27Dec2024 02:21:02.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Luzbel1t0]
+[27Dec2024 02:21:04.772] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15138ms or 302 ticks behind
+[27Dec2024 02:21:06.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> q
+[27Dec2024 02:21:14.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luzbel1t0> las sirenas
+[27Dec2024 02:21:32.054] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12320ms or 246 ticks behind
+[27Dec2024 02:21:34.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga has made the advancement [Hidden in the Depths]
+[27Dec2024 02:21:35.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> ya?
+[27Dec2024 02:21:40.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luzbel1t0> yes
+[27Dec2024 02:21:44.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Afarfa]
+[27Dec2024 02:21:46.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luzbel1t0> tenkiu
+[27Dec2024 02:21:53.681] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6647ms or 132 ticks behind
+[27Dec2024 02:21:55.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[27Dec2024 02:22:07.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xDogSaur moved too quickly! -9.01311273766612,0.0,4.502511530024489
+[27Dec2024 02:22:21.494] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=327, y=65, z=49} BlockPos{x=327, y=64, z=49}
+[27Dec2024 02:22:21.972] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=327, y=65, z=49} BlockPos{x=327, y=62, z=47}
+[27Dec2024 02:22:30.581] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21947ms or 438 ticks behind
+[27Dec2024 02:22:48.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 6.000811807433365,-5.197013472013623E-6,8.446148537214867
+[27Dec2024 02:22:48.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 6.168529212320664,-5.2347455223866746E-6,8.802502981144244
+[27Dec2024 02:22:48.184] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 6.326245324739375,-5.263347560457987E-6,9.162644171314696
+[27Dec2024 02:22:48.185] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 6.474040073454489,-5.2827552465828376E-6,9.526340541000536
+[27Dec2024 02:22:53.931] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! -3.622026066470198,5.258016244624741E-13,9.362750943633273
+[27Dec2024 02:22:53.932] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! -3.7198486910112933,5.258016244624741E-13,9.730287286624389
+[27Dec2024 02:23:01.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 10.37162848743742,0.0,-0.052569197211596475
+[27Dec2024 02:23:01.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 10.770886841651873,0.0,-0.03424811681270512
+[27Dec2024 02:23:01.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 11.170138570836798,0.0,-0.015222110904232977
+[27Dec2024 02:23:01.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 11.569383111874913,0.0,0.004457463830931374
+[27Dec2024 02:23:09.014] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=307, y=13, z=-143} BlockPos{x=307, y=14, z=-143}
+[27Dec2024 02:23:09.815] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 24281ms or 485 ticks behind
+[27Dec2024 02:23:22.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 2.759959359437289,0.0,9.67095132713257
+[27Dec2024 02:23:22.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 2.858879297197518,0.0,10.05529784241844
+[27Dec2024 02:23:22.849] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 2.961865550463017,0.0,10.438693895820961
+[27Dec2024 02:23:22.849] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 3.069020510321252,0.0,10.821040986093521
+[27Dec2024 02:23:33.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [xDogSaur] juegito: kill ian
+[27Dec2024 02:23:47.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] summon dios @ian
+[27Dec2024 02:23:48.189] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23405ms or 468 ticks behind
+[27Dec2024 02:24:04.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[27Dec2024 02:24:04.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: broadcast no<--[HERE]
+[27Dec2024 02:24:14.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luzbel1t0> buba
+[27Dec2024 02:24:18.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> q
+[27Dec2024 02:24:18.660] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15476ms or 309 ticks behind
+[27Dec2024 02:24:23.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luzbel1t0> un ultimo favos
+[27Dec2024 02:24:26.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> decime
+[27Dec2024 02:24:32.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luzbel1t0> veni
+[27Dec2024 02:24:37.189] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3556ms or 71 ticks behind
+[27Dec2024 02:24:40.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Luzbel1t0]
+[27Dec2024 02:24:47.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luzbel1t0> adelante hay 3 sirenas
+[27Dec2024 02:24:48.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> q
+[27Dec2024 02:24:58.142] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5959ms or 119 ticks behind
+[27Dec2024 02:24:59.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> dond
+[27Dec2024 02:25:05.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luzbel1t0> alado de la roca esa
+[27Dec2024 02:25:16.853] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=330, y=15, z=-151} BlockPos{x=329, y=14, z=-150}
+[27Dec2024 02:25:24.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luzbel1t0> y eso
+[27Dec2024 02:25:24.581] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11447ms or 228 ticks behind
+[27Dec2024 02:25:54.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luzbel1t0> listo
+[27Dec2024 02:25:55.621] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16087ms or 321 ticks behind
+[27Dec2024 02:26:00.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luzbel1t0> te mamo
+[27Dec2024 02:26:02.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Afarfa]
+[27Dec2024 02:26:10.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Nucaraga to xDogSaur]
+[27Dec2024 02:26:16.037] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5454ms or 109 ticks behind
+[27Dec2024 02:26:35.749] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2115ms or 42 ticks behind
